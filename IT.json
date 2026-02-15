@@ -1719,7 +1719,6 @@
         "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
-	
         {
             "seeGravel": [
                 "Siamo arrivati...",
@@ -1762,8 +1761,6 @@
                 "EIII!? C'E' QUALCUNO QUI!?",
                 "E' bello almeno per una volta non avere intorno piastre bianche...",
                 "Almeno sono vivo...yay.",
-                "Niente scorte eh?",
-                "Maaa...non avrei dovuto ricevere dei rifornimenti...?",
                 "La mia corsa finisce qui.",
                 "..Mm. Che panorama particolare...",
                 "Vediamo se mi ricordo il mio addestramento...",
@@ -1779,6 +1776,8 @@
             "eatGood": [
                 "Mmm!",
                 "Buono!",
+				"Buono."
+				"Yum!",
                 "Yummy.",
                 "Mm...",
                 "Saporito!",
@@ -1804,6 +1803,7 @@
                 "Favoloso!",
                 "Ne voglio di più...",
                 "Buon cibo...",
+				"Mi piace molto..."
                 "Amo questo sapore...",
                 "Delizioso...",
                 "Mmm, buono...",
@@ -3231,7 +3231,6 @@
             "drillend": [
                 "...Ci è voluto un pò.",
                 "Quella trivella non isolava il rumore.",
-                "Un viaggio lunghetto eh...",
                 "Mi fanno male le orecchie dopo questo viaggio."
             ],
             "loud": [
@@ -3348,6 +3347,10 @@
                 "Non te la dò a gratis.",
                 "Dammi un pò di cose prima.",
                 "Prima si paga!"
+            ]
+            "traderbuyfailmaxvalue": [
+                "Scusa,questo è tutto quello che posso barattare per ora.",
+                "Le scorte sono finite! Mi dispiace! Hai già comprato abbastanza..."
             ],
             "traderwarning": [
                 "Vattene.",
@@ -3407,6 +3410,12 @@
                 "Visto che sei ferito, ti darò una benda gratis, se riesci a trovarla...",
                 "Ah, sei ferito. Se mi trovi addosso una benda, te la puoi tenere! Ma non ricordo se l'ho venduta...",
                 "Ohh, non te la stai passando molto bene caro... Guarda ti dico, se trovi una benda te la regalo."
+            ],
+			"tradermove": [
+                "Oh, scusa. Ecco."
+            ],
+            "tradermovefail": [
+                "Huh? Perché? Cosa stai cercando di fare..? Non mi fido."
             ],
             "swingresponse": [
                 "SCUSA!",
