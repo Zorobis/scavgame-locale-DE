@@ -1776,7 +1776,7 @@
             "eatGood": [
                 "Mmm!",
                 "Buono!",
-				"Buono."
+				"Buono.",
 				"Yum!",
                 "Yummy.",
                 "Mm...",
@@ -1803,7 +1803,7 @@
                 "Favoloso!",
                 "Ne voglio di più...",
                 "Buon cibo...",
-				"Mi piace molto..."
+				"Mi piace molto...",
                 "Amo questo sapore...",
                 "Delizioso...",
                 "Mmm, buono...",
@@ -3347,7 +3347,7 @@
                 "Non te la dò a gratis.",
                 "Dammi un pò di cose prima.",
                 "Prima si paga!"
-            ]
+            ],
             "traderbuyfailmaxvalue": [
                 "Scusa,questo è tutto quello che posso barattare per ora.",
                 "Le scorte sono finite! Mi dispiace! Hai già comprato abbastanza..."
