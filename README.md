@@ -1,7 +1,8 @@
-# Scavenge Game Locale
-Localization files for the "Scavenge Game" by Orsoniks.
+# Casualties: Unknown Localization
 
-# Authors
+Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https://github.com/Orsoniks)
+
+## Locales
 | File                       | Contributors                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [English (EN)](/EN.json)   | [Orsoniks](https://github.com/Orsoniks)                                                                             |
@@ -17,5 +18,8 @@ Localization files for the "Scavenge Game" by Orsoniks.
 | [한국어 (KO)](/KO.json)     | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
 | [Italiano (IT)](/IT.json)   | [LorgamerPizza](https://github.com/lorgamerpizza-code),chaosussy        |
 
-# Maintainers
-* [@Orsoniks](https://github.com/Orsoniks)
+## Maintainers
+* [Azurian](https://github.com/clemtomera), [UCRD](https://github.com/wucrd)
+
+## Owner
+* [Orsoniks](https://github.com/Orsoniks)
