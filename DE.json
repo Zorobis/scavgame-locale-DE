@@ -368,7 +368,9 @@
         "carcasssplintdsc": "Ein hartes, langes Rohr aus mehreren verbundenen Kadavern. Dient als provisorische Schiene zur Behandlung von Frakturen.",
         "terrainscanner": "Geländescanner",
         "terrainscannerdsc": "Zeigt dir eine Karte des Geländes unter dir in niedriger Qualität. Gelände ist grün hervorgehoben, feste Gebäude rot. Reichweite beträgt 24 Meter.",
-        "liquidcentrifuge": "Flüssigkeitszentrifuge",
+        "sleepingbag": "Schlafsack",
+        "sleepingbagdsc": "Eine isolierte Decke in der eine Person schlafen kann. Verwenden um darin zu schlafen, wodurch die Schlafqualität um eine Stufe verbessert wird (maximal auf Gut) und dir für die Nacht etwas Isolierung bietet. Normale Schlafbeschränkungen gelten weiterhin.",
+		"liquidcentrifuge": "Flüssigkeitszentrifuge",
         "liquidcentrifugedsc": "Eine tragbare Zentrifuge, die eine Mixtur ineffizient in ihre Grundbestandteile trennen kann. Der Vorgang ist recht komplex und führt dazu, dass etwa zwei Drittel des gesamten Flüssigkeitsvolumens verloren gehen. Lädt sich alle 60 Sekunden wieder auf.",
         "epda": "E-PDA",
         "epdadsc": "Elektronischer persönlicher digitaler Assistent, der wahrscheinlich versehentlich von deinen Gebietern in einer Rettungskapsel zurückgelassen wurde. Wenn du eine Batterie einlegst, könntest du wahrscheinlich deren Notizen lesen.",
@@ -492,7 +494,7 @@
         "ilmenitechunkdsc": "Ein Titanium-Eisen oxid Mineral. Es ist zwar aufwendig, aber es kann zu einer starken Titanium-Legierung verarbeitet werden.",
         "titaniumslab": "Titaniumplatte",
         "titaniumslabdsc": "Eine rechteckige Platte aus legiertem Titanium. Kann für fortgeschrittenes Crafting verwendet werden.",
-        "titaniumrod": "Titanstange",
+        "titaniumrod": "Titaniumstange",
         "titaniumroddsc": "Eine solide Stange aus legiertem Titanium. Kann für fortgeschrittenes Crafting und als provisorischer Hammer verwendet werden.",
         "titaniumsheet": "Titaniumblech",
         "titaniumsheetdsc": "Ein dünnes, jedoch festes Blech aus legiertem Titanium. Kann für fortgeschrittenes Crafting verwendet werden.",
@@ -1333,7 +1335,9 @@
         "quit": "Beenden",
         "resettodefault": "Auf Standard zurücksetzen",
         "resettodefaultdsc": "Setze alle Einstellungen auf ihre originallen Werte zurück.",
-        "mainmenu": "Haupt\nmenü",
+        "back": "Zurück",
+        "descend": "Hinabsteigen",
+		"mainmenu": "Haupt\nmenü",
         "screenbrightness": "Bildschirmhelligkeit",
         "gamma": "Gamma",
         "paneltip": "Drücke ESCAPE um dieses Fenster zu öffnen/schließen",
@@ -1590,7 +1594,8 @@
         "hplimbbleed": "Gliedmaß-Blutung",
         "hpopiate": "Opiatmenge",
         "keybinds": "Tastenzuweisung",
-        "custommusic": "Benutzerdefinierte Musik",
+        "keybindsdsc": "Öffne die Tastaturbelegungs-Datei. Denk daran die Änderungen zu speichern!",
+		"custommusic": "Benutzerdefinierte Musik",
         "custommusicdsc": "Öffne das Verzeichnis für benutzerdefinierte Musik. Du kannst dort .mp3/.ogg./.wav-Dateien ablegen, damit sie bei Verwendung des MP3-Players als Auswahlmöglichkeiten angezeigt werden.\nAndere Dateitypen werden nicht unterstützt.",
         "layer": "Ebene",
         "toggleheatmode": "Heizmodus einstellen",
@@ -1611,8 +1616,6 @@
         "alerttoounhappy": "Kann keine Nicht-Opiat-Medikamente verwenden, wenn Laune miserabel ist!",
         "alertlimbmissing": "Dein <1> fehlt, wodurch <2> unbenutzbar wird!",
         "alertsellcontainer": "Entleere den Behälter befor du ihn verkaufst!",
-        "resetkeybinds": "Auf Standard zurücksetzen",
-        "reloadbinds": "Zuweisungen neu laden\n(auf Änderungen prüfen)",
         "insertsample": "Eine Probe einfügen",
         "tradeinteract": "Handeln",
         "read": "Lesen",
@@ -3915,13 +3918,63 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
+			{
+                "Item1": "vertraue nicht immer den herumliegenden fässern mit flüssigkeit. habe ein großes minifass in die hände bekommen von dem ich dachte es sei limonade, aber ein bitterer schluck reichte aus um mir zu zeigen das es keine war. ich habe versucht es mit einem weiteren fass mit wasser herunterzuspülen, aber das wasser hat mich sehr kalt gemacht und meine haare haben angefangen auszufallen",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "heute habe ich ein paar seltsame metalldosen gefunden bei denen das etikett abgerissen war. ich konnte nicht erkennen was es war und die flüssigkeit war zu dick um sie auszuschütten, aber es ist überraschend sättigend, ich fühle mich als hätte ich gerade ein gutes steak gehabt... ich fühle mich so müde. ich bin dabei die nächste dose zu trinken, ich liebe diese dosen!\n(Der untere Teil des Papiers sieht aus als wäre etwas mit schwarzen Stückchen kräftig darauf ausgestoßen worden.)",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "das mag vielleicht seltsam klingen aber ich habe mich mit dieser situation abgefunden. ich hab versucht so gut es geht auf mich aufzupassen und allen anderen zu helfen die ich hier unten getroffen hab. das gibt mir ein gefühl von... zufriedenheit? auch wenn ich mich bisher oft verletzt habe bin ich gut damit umgegangen ohne mich deswegen schlecht zu fühlen.\nich werde versuchen so weit wie möglich zu kommen, und auch wenn ich es wahrscheinlich nicht schaffen werde, weiß ich das ich mein bestes gegeben hab und so vielen anderen wie möglich geholfen habe. das ist was wir alle nur tun können.\nwenn du das liest, gib nicht auf, ok?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ich habe in letzter zeit immer mehr von diesen kaputten abwurfkapseln gesehen, ähnlich wie die mit denen sie uns hierher geschickt haben, nur das diese irgendwie alle explodiert sind. <>\nin den trümmern finde ich normalerweise irgendeine art von waffenmunition zusammen mit einem ekelhaften klumpen aus irgendeiner art fleisch? \n<>\ner sieht furchtbar aus aber vielleicht ist er essbar???\ndiese dune person die ich vorhin getroffen habe hat mir gesagt das man es essen kann\nich könnte es ja mal probieren\n<>\n\nhabs gegessen und mir zwanzig minuten lang die seele aus dem leib gekotzt, schlimmster fehler meines lebens <>\num gottes willen, iss auf keinen fall was auch immer das sein soll",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ich habe immer wieder denselben traum. ich habe riesige flügel und kann immer höher und höher und höher fliegen. nichts kann mich aufhalten. ich durchbreche die decke dieser höhle und gelange hinaus in die welt darüber. es ist wunderschön da draußen aber ich fliege weiter. ich lasse alles hinter mir bis nichts mehr übrig ist außer einer riesigen leere. in dem moment wird mir endlich klar. ich bin sicher. ich bin frei.\n\njedes mal wenn ich aufwache, kann ich nicht aufhören zu weinen. ich wünschte ich könnte für immer weiter träumen.\n\n(Da ist eine mit Tränen verschmierte Zeichnung von sehr unförmigen Flügeln.)",
+                "Item2": "Sprites/noteDrawings/wings",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "können die wissenschaftler mich hier wirklich sehen? sie wollten immer das ich meine gedanken laut ausspreche, aber hier, hier rede ich nur mit mir selbst. ich schätze ich habe die freiheit damit aufzuhören, aber... es fühlt sich therapeutisch an. wenn ich es nicht schaffe, dann vielleicht wenigstens diese notizen.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ich habe nicht gemerkt wie schlimm es geworden war bis ich wieder versucht habe zu graben und meine krallen einfach nur... gekratzt haben. sie hatten keinen biss mehr. ich habe mich pausenlos durch gestein gegraben ohne auch nur darüber nachzudenken. ich fühlte mich nackt. stellt sich heraus fleisch ist nicht dazu gedacht werkzeuge zu ersetzen.\n<>\nich bin immer davon ausgegangen ich bräuchte für alles eine spitzhacke. aber ich hab rausgefunden meine machete funktioniert auch ganz gut für die leichteren sachen. erde, pflanzen, sand – sie schneidet mitten durch. erspart meinen händen viel schmerz.\n<>\nhab eine flasche wo keratin booster draufsteht gefunden. haben wohl damit gerechnet das unsere dinger kaputtgehen würden. hab nen schluck genommen. nach einer weile begannen die alten schichten wie fell abzublättern. darunter, fühlten sich schärfer an. stärker. es war seltsam befriedigend zu sehen wie sich die abgenutzten stellen abpellten. ich mag es wie ich meine krallen mich besser an den wänden halten lassen\n<>\nich erinnerte mich an unsere gebieter. sie hatten nägel an jedem finger. sie alle. keinerlei krallen. aus der nähe sah das so falsch aus. weich. stumpf. verrückt wie sie mit solchen händen irgendetwas schaffen konnten.\n<>\nich dachte immer das wäre eine ihrer schwächen.\n<>\njetzt frage ich mich ob das sinn der sache war.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
             {
                 "Item1": "Überall wimmelt es von allerlei Tierchen, die ständig umherstreifen. Ich bin eher ein Pazifist, deshalb versuche ich vor ihnen wegzurennen, anstatt gegen sie zu kämpfen, da ich nicht weiß, wer wen zuerst töten wird... Denn die Wunden die sie in mir hinterlassen, tun höllisch weh.... Ich weiß einfach nicht mehr weiter... Wissen unsere Gebieter überhaupt was wir hier unten durchmachen?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
+                "Item1": "Ich bin schlimm gestürzt. WIRKLICH schlimm. Direkt in ein Loch, aus dem ich weder klettern noch graben konnte wegen meiner Verletzungen. Aber ich habe es mit etwas Metallschrott geschafft, und möchte auch andere darauf aufmerksam machen. \n\nEs sind die Höhlenwände! Nichts was ich gefunden habe- selbst Dynamit -scheint in der Lage zu sein, die äußeren Bereiche der Höhle zu durchdringen. Aber sie sind uneben, und wenn man genügend Metallschrott aufeinander stapelt, kann man sie in diese winzigen Lücken klemmen und so einen ganzen Absatz zum Festhalten schaffen. Als ich in diesem dunklen Loch am verbluten war, habe ich aus den gesammelten Trümmern eine Art Treppe gebaut um zu entkommen und Notvorräte zu finden.\n\nIch hoffe jedoch, dass du nie in so eine Situation gerätst. Vielleicht könntest du diesen Trick nutzen um gar nicht erst verletzt zu werden? Wer weiß was noch für andere böse Dinge hier drinnen mit uns sind. \n\nVielleicht holst du mich ein und wir können Strategien austauschen. \nIch hoffe ich werde da sein, um dich zu treffen.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+			{
                 "Item1": "Ich fühle mich einsam... Also habe ich beschlossen, mich abzulenken:\nIch habe eine Art Miniaturfaxgerät gefunden, das ich aufbrechen konnte, und habe die Papierblätter herausgezogen. Dann nahm ich einen Stock und spießte eine der leuchtenden Früchte darauf auf. Das Ergebnis gleicht einem Pinsel und einer Leinwand! Wenn du nur wüsstest... Ich habe angefangen, alternative Realitäten zu zeichnen, in denen wir frei sind und friedlich zusammenleben; ohne diese Wissenschaftler-Mistkerle... Ich war so glücklich, und habe ein bisschen geweint.\nAber jetzt muss ich gehen: hab Hunger! Vielleicht, wenn wir uns treffen, male ich dich auch...? Ich bin wirklich gut darin geworden, den \"Pinsel\" zu benutzen. ch werde versuchen, den anderen auch das Zeichnen beizubringen...",
+                "Item2": "",
+                "Item3": "milky"
+            },
+			{
+                "Item1": "Ich bin nicht sehr stark, daher habe ich gehofft mich mit anderen zusammentun zu können. Auf diese Weise hätten wir eine viel höhere Überlebenschance, aber niemand den ich gefragt habe ist daran interessiert. Alle haben Angst und einige von uns sind gefährlich. Es gibt so viele Fallen das es unmöglich ist in großen Gruppen unterwegs zu sein. Ich weiß ich werde wegen einem völlig dummen Grund sterben...\n\nUnsere Gebieter sind so grausam. Ich kann es nicht verstehen.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "(Die Notiz ist zerknüllt und zerknittert, als wäre sie dazu bestimmt gewesen weggeworfen zu werden.)\n<>\nmein freund er... ich glaube er hat sich selbst umgebracht. nach einem weiteren üblen sturz hab ich versucht seine beine zu flicken aber er hat mir immer wieder gesagt ich soll mich verpissen. er hat mich immer wieder verscheucht, als wäre ich eine fliege, und mir gesagt ich soll ihn in allein lassen. ich habs nicht verstanden. ich bin losgegangen um ein paar der pflanzen zu holen damit ich versuchen konnte ihn zu bandagieren aber... als ich zurückkam hatte er eine weitere wunde. eine am arm. ich erinnere mich noch daran wie sie aussah, es war schlimm, praktisch völlig zerfetzt. mit den gefundenen pflanzen habe ich versucht die neue wunde zu versorgen aber er hat mich immer wieder weggeschubst. seine augen waren... sie sahen einfach... leer aus. ich hab ihm gesagt er soll verdammt noch mal aufhören und mich einfach helfen lassen aber er hat nicht reagiert. ein paar mal habe ich noch versucht zu helfen und er schubste mich immer wieder weg bis er dann einfach... aufhörte. ich erinnere mich wie sein körper sich entspannte, ich glaube da hat er aufgehört zu atmen. ich kann das bild nicht aus meinem kopf kriegen...\n<>\nhab... hab ich was falsch gemacht? ich schwöre ich hab nicht... was habe ich falsch gemacht? warum hat er das getan? ich... ich hab nichts gemacht. ich verstehe nicht, ich will nicht sterben... ich will nicht... ich...\n<>\n...\n<>\nhaha...\n<>\nes ist so einsam hier.\n<>\n(Du bemerkst blasse, getrocknete Tränen und getrocknetes Blut, das sich über die zerknitterte Notiz zieht.)",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3943,6 +3996,11 @@
                 "Item3": "experiment"
             },
             {
+                "Item1": "ich mag es nicht wenn ich nicht weiß was ich tun soll. zu hause hat man es mir immer gesagt. spiel dieses spiel, sei still wenn ein gebieter spricht, lass dich von diesen spitzen dingern stechen.\njetzt soll ich diese mission erfüllen aber ich weiß nicht wie ich das machen soll. ich hab durst und mein bein ist verletzt und dazu bin ich total dreckig und kalt und ich weiß nicht wohin ich gehen soll außer halt nach unten.\nich schätze ich versuche zuerst das problem anzugehn was mich als erstes umbringen würde. ich hoffe das klappt.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+			{
                 "Item1": "die rot blinkenden lichter in der dunkelheit sind stachelfallen. hüte dich vor ihnen. bitte. bitte. gerade ist jemand in der ferne in eine hineingelaufen, ich habe nur einen schrei gehört und danach stille. pass auf dich auf",
                 "Item2": "",
 				"Item3": "experiment"
@@ -4015,6 +4073,11 @@
 				"Item3": "milky"
 			},
             {
+                "Item1": "Aus Neugierde versuchte ich, in einer geduckten Position zu traversieren.\n<>\nDer Nutzen war unerwartet. Nicht nur, dass man damit die eigene Verschmutzung in flachen Pfützen abwaschen kann und sich durch enge Spalten zwängen kann, sondern bemerkenswerterweise führte sogar das Kriechen über verstreute Glasscherben zu keinen Verletzungen.\n<>\nDoch Selbstgefälligkeit führt zur Gefahr. Ich habe ein leichtes Gefälle falsch eingeschätzt und mich verletzt. \n<>\nSo umherzuhuschen... Ich muss wohl so ausgesehen haben wie einer dieser \"Würmer\", von denen ich gehört habe.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+			{
                 "Item1": "glimma wassa schmeken eglich",
                 "Item2": "",
                 "Item3": "dune"
@@ -4052,6 +4115,11 @@
                 "Item3": "milky"
             },
             {
+                "Item1": "Die Ölvorkommen auf diesem Planeten sind definitiv unnatürlich. Bei dem Versuch ihren Ursprung zu ergründen kroch ich durch eines der leeren Rohre, nur um auf ein robustes Metallgitter zu stoßen welches mich daran hinderte weiterzukommen.\nDahinter befand sich ein Schild mit der Aufschrift \"Abfall-Entsorgungs-Quelle\". Ich habe das Rohr durchbohrt um das Gitter zu umgehen, aber das Rohr endete abrupt. Es muss mit etwas aus unserem alten Zuhause verbunden sein, aber ich verstehe nicht wie.\n\nDas Schild macht mir immer noch Sorgen. Wollten die Gebieter uns auch entsorgen?",
+                "Item2": "",
+                "Item3": "milky"
+            },
+			{
                 "Item1": "sehen böse kreatur... orange böse kreatur... kreatur wollen fressen dune!   aber dune kämpfen zurück. dune töten und fressen böse kreatur!   kreatur sehr lecker!",
                 "Item2": "Sprites/noteDrawings/wallbiter",
                 "Item3": "dune"
@@ -4104,6 +4172,11 @@
                 "Item3": "experiment"
             },
             {
+                "Item1": "ich bin heute schon wieder in eine dieser verdammten spulen getreten, sie war in einem busch versteckt, ich bemerkte sie zu spät als das ich noch hätte zurückweichen können.\n<>\nes war grauenhaft, als würde ich von innen heraus gekocht werden, selbst nach dem anfänglichen schock. kalte getränke scheinen jedoch zu helfen, ich musste fast meinen gesamten vorrat an milch trinken, und etwas apfelsaft, bin mir nicht sicher ob mein gehirn sonst überlebt hätte. ales dreht sich immer noch, hab es kaum zurück zu meiner kapsel geschafft.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+			{
                 "Item1": "Ich habe kein Wasser mehr in meiner Flasche in dieser Wüste. Ich war sehr schmutzig und durstig. Ich bin in eine Pfütze getreten um daraus zu trinken und mich zu waschen, aber der ganze Schmutz hat das Wasser verdreckt. Ich konnte es nicht mehr trinken. Ich hätte meine Flasche einfach reinwerfen sollen. Ich brauche Wasser...",
                 "Item2": "Sprites/noteDrawings/waterbottle",
                 "Item3": "experiment"
@@ -4126,6 +4199,11 @@
                 "Item3": "experiment"
             },
             {
+                "Item1": "ich dachte nicht das dieses monster mich wiederfinden würde, aber das hat es. es kannte mein gesicht, meine fehler... aber nicht mein gewehr. als es schließlich aufplatzte, sah ich die spitzhacke. ich sah die gravur die ich hineingekratzt hatte, dieselbe gravur die er auch in meine spitzhacke gekratzt hatte. ich sah das abgebrochene stück als er versuchte etwas titanium auszugraben um es mir zu schenken. und dann, plötzlich, sah ich es wieder geschehen. der geruch von schleifendem stahl. das beben der erde. das geräusch von zerfetztem fleisch. der geschmack von schweiß und blut, als ich versuchte zu rennen, das essen dabei fallen zu lassen, das ich zurück zur kapsel bringen wollte-\n<>\nsoll ich mich jetzt sicher fühlen? oder ringe ich nur um frieden, der zerbricht sobald mich noch eines findet?",
+                "Item2": "Sprites/noteDrawings/thornback",
+                "Item3": "experiment"
+            },
+			{
                 "Item1": "Ich möchte diesen Ort verlassen, ich bin traumatisiert, mir fehlen die Worte um zu beschreiben was ich gerade erlebt habe, es war eine große, entsetzliche Kreatur mit Hunderten von Zähnen, bereit mich zu verschlingen, sie hat mich eine gefühlte Ewigkeit lang gejagt, sie zerstört alles was ihr in den Weg kommt. Sie hörte erst auf als ich so weit weg war, dass ich mich schon völlig verirrt hatte, das hat mich viel gekostest, Essen, Wasser, Werkzeuge, selbst meine geistige Gesundheit, ich will einfach nur das es aufhört.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
@@ -4170,7 +4248,7 @@
 	],
     "pdaNotes": [
         {
-            "Item1": "[BIOMETRISCHER BERICHT - 25##-11-19-18-49-58-4587]\n<>\nENTITÄTSKLASSE: Biologisch\nENTITÄT-UNTERKLASSE: Sawianer\nENTITÄTSNAME: Experiment\n<>\n[INHALT]\n\nDie stabile biologische Version unseres neuesten Projekts ist fertig.\nEs scheint, dass mental nichts von unserem ursprünglichen menschlichen Probanden übrig geblieben ist und auch nichts übrig bleiben wird, ganz zu schweigen vom Rest der Subjekte.\nUngeachtet dessen scheinen sie schnell zu lernen, und üben keine Gegenwehr aus.\n<>\nDie DNA-Kombination führte dazu, dass das Experiment in seiner Statur deutlich kleiner als ein Mensch ist und wenig Fett- und Muskelmasse aufweist.\nDennoch ist die Muskel- und Knochendichte viel höher. Dies wird voraussichtlich dazu führen, dass das Exemplar widerstandsfähig gegenüber verschiedener Formen physischer Traumata ist.... Und ihm das Schwimmen schwerfallen wird.\nEs hat drei Auswüchse an der Rückseite seines Schädels, die in ihrer Form Ohrknorpel ähneln. us irgendeinem Grund hat es eine Ohrstruktur, die der eines Vogels ähnelt - muss wohl irgendwo in der DNA herumgelegen haben, die wir gespleißt haben.\nEs ist dünn befellt und hat ein rosa-gelbliches Fleisch, wie man an Wunden und an der Innenseite des Mundes erkennen kann.\nSeine Hände sind eine Art Kombination aus denen eines Caniden und denen eines Homo sapiens'. Ich weiß einer meiner Kollegen wird sich  darüber freuen.-\nIrgendwie sind die biolumineszierenden Augen aus unseren früheren Prototypen dieser Spezies bestehen geblieben. Wir müssen noch genau untersuchen, welche Auswirkungen dies auf ihr Sehvermögen hat.\n<>\nWir werden dieses Exemplar bald 30 Mal klonen, um destruktive Tests an den Klonen durchzuführen. Wir werden eine kleine Anzahl davon übrig lassen, damit sie sich auf natürliche Weise vermehren können, um Ressourcen zu sparen.\n\n[ENDE]",
+            "Item1": "[BIOMETRISCHER BERICHT - 25##-11-19-18-49-58-4587]\n<>\nENTITÄTSKLASSE: Biologisch\nENTITÄT-UNTERKLASSE: Sawianer\nENTITÄTSNAME: Experiment\n<>\n[INHALT]\n\nDie stabile biologische Version unseres neuesten Projekts ist fertig.\nEs scheint, dass mental nichts von unserem ursprünglichen menschlichen Probanden übrig geblieben ist und auch nichts übrig bleiben wird, ganz zu schweigen vom Rest der Subjekte.\nUngeachtet dessen scheinen sie schnell zu lernen, und üben keine Gegenwehr aus.\n<>\nDie DNA-Kombination führte dazu, dass das Experiment in seiner Statur deutlich kleiner als ein Mensch ist und wenig Fett- und Muskelmasse aufweist.\nDennoch ist die Muskel- und Knochendichte viel höher. Dies wird voraussichtlich dazu führen, dass das Exemplar widerstandsfähig gegenüber verschiedener Formen physischer Traumata ist.... Und ihm das Schwimmen schwerfallen wird.\nEs hat drei Auswüchse an der Rückseite seines Schädels, die in ihrer Form Ohrknorpel ähneln. us irgendeinem Grund hat es eine Ohrstruktur, die der eines Vogels ähnelt - muss wohl irgendwo in der DNA herumgelegen haben, die wir gespleißt haben.\nEs ist dünn befellt und hat ein rosa-gelbliches Fleisch, wie man an Wunden und an der Innenseite des Mundes erkennen kann.\nSeine Hände sind eine Art Kombination aus denen eines Caniden und denen eines Homo sapiens'. Ich weiß einer meiner Kollegen wird sich über die Pfoten freuen.-\nIrgendwie sind die biolumineszierenden Augen aus unseren früheren Prototypen dieser Spezies bestehen geblieben. Wir müssen noch genau untersuchen, welche Auswirkungen dies auf ihr Sehvermögen hat.\n<>\nWir werden dieses Exemplar bald 30 Mal klonen, um destruktive Tests an den Klonen durchzuführen. Wir werden eine kleine Anzahl davon übrig lassen, damit sie sich auf natürliche Weise vermehren können, um Ressourcen zu sparen.\n\n[ENDE]",
             "Item2": ""
 		},
         {
@@ -4186,7 +4264,7 @@
             "Item2": ""
         },
 		{
-            "Item1": "[BIOMETRISCHER BERICHT - 25##-04-08-09-06-08-0002]\n<>\nDATENBANKINDEX: Sawianer-Projektregister\nDATENBANK-UNTERINDEX: Spezies\n<>\n[INHALT]\n\n[FÜR ALLE ENTITÄTEN IM REGISTER]\n- ENTITÄTSTYP ÜBERSCHREIBUNG: Vorlage\n- ENTITÄTSKLASSE: Biologisch\n- ENTITÄT-UNTERKLASSE: Sawianer\n<>\nENTITÄTSNAME: SAW-01 \"Experiment\"\nANZAHL: [Undefiniert]\n- Der finale Prototyp unseres ersten großen Durchbruchs in der Biotechnologie.\nEine verbesserte DNA-gespleißte Kombination aus einer unserer Testsratten und einem Mitarbeiter zusammen mit dessen Haustier.\nCanid. Klein und relativ gebrechlich. Feige und ängstlich. Außer als verheizbare Testsubjekte nicht besonders nützlich.\n<>\nENTITÄTSNAME: SAW-02 \"Orange\"\nANZAHL: 52082\n- Eine mutierte Version von SAW-01. Groß, grob, dumm und mit vier Armen. Gut geeignet für stupide Arbeiten und alle körperlich anstrengenden Tests, bei denen der Tod vermieden werden sollte.\n<>\nENTITÄTSNAME: SAW-03 \"Milky\"\nANZAHL: 32184\n- Mutierter SAW-01 gespleißt mit unspezifizierter meeresbiologischer DNA. Klein, arrogant aber intelligent. Exzellente Sehfähigkeit. Gut geeignet für mentale Arbeiten.\n<>\nENTITÄTSNAME: SAW-04 \"Leapy\"\nANZAHL: 2046\n- Mutierter SAW-01, gespleißt mit Moostier-DNA. Es dauerte eine Weile um dieses Exemplar in einen einigermaßen funktionsfähigen Zustand zu bringen. Aufgrund ihres vergleichsweise schnellen Ausbruchs von Krebs sind sie für Arbeiten nahezu unbrauchbar. Zudem besteht Fluchtgefahr.\n<>\nENTITÄTSNAME: SAW-05 \"Chompy\"\nAnzahl: 6084\n- Mutierter SAW-03 gespleißt mit \"Hai\" DNA. Karnivor und aquatisch. Kein Fell. Ungewöhnlich freundlich. Gut geeignet zur Konfliktlösung, wenn Gewalt unerwünscht ist. Ihr großer Schweif belastet sie stark, was unsere langjährigen Theorien bestätigt.\n- Haie waren eine Spezies von raubtierartigen Meeresfischen. Sie sind ausgestorben, aber ihre DNA wurde zu wissenschaftlichen Zwecken aufbewahrt.\n<>\nENTITÄTSNAME: SAW-06 \"Roza\"\nANZAHL: 7848\n- Mutierter SAW-01 gespleißt mit \"Schneeschreiter\" DNA. Ungewöhnlich niedrige Körpertemperatur. Volatil und anfällig für Irritationen, aber friedfertig wenn keine Bedrohung besteht. Encumbering tail. Belastender Schweif. Hat konventionelle weibliche Merkmale, wahrscheinlich als Folge der Vermischung von Schneeschreiter mit Erden-DNA.\n- Siehe <korrupt:0xFFF853> für weitere Details über \"Schneeschreiter\".\n\n[SEITE 1 VON 2]",
+            "Item1": "[BIOMETRISCHER BERICHT - 25##-04-08-09-06-08-0002]\n<>\nDATENBANKINDEX: Sawianer-Projektregister\nDATENBANK-UNTERINDEX: Spezies\n<>\n[INHALT]\n\n[FÜR ALLE ENTITÄTEN IM REGISTER]\n- ENTITÄTSTYP ÜBERSCHREIBUNG: Vorlage\n- ENTITÄTSKLASSE: Biologisch\n- ENTITÄT-UNTERKLASSE: Sawianer\n<>\nENTITÄTSNAME: SAW-01 \"Experiment\"\nANZAHL: [Undefiniert]\n- Der finale Prototyp unseres ersten großen Durchbruchs in der Biotechnologie.\nEine verbesserte DNA-gespleißte Kombination aus einer unserer Testsratten und einem Mitarbeiter zusammen mit dessen Haustier.\nCanid. Klein und relativ gebrechlich. Feige und ängstlich. Außer als verheizbare Testsubjekte nicht besonders nützlich.\n<>\nENTITÄTSNAME: SAW-02 \"Orange\"\nANZAHL: 52082\n- Eine mutierte Version von SAW-01. Groß, grob, dumm und mit vier Armen. Gut geeignet für stupide Arbeiten und alle körperlich anstrengenden Tests, bei denen der Tod vermieden werden sollte.\n<>\nENTITÄTSNAME: SAW-03 \"Milky\"\nANZAHL: 32184\n- Mutierter SAW-01 gespleißt mit unspezifizierter meeresbiologischer DNA. Klein, arrogant aber intelligent. Exzellente Sehfähigkeit. Gut geeignet für mentale Arbeiten.\n<>\nENTITÄTSNAME: SAW-04 \"Leapy\"\nANZAHL: 2046\n- Mutierter SAW-01, gespleißt mit Moostier-DNA. Es dauerte eine Weile um dieses Exemplar in einen einigermaßen funktionsfähigen Zustand zu bringen. Aufgrund ihres vergleichsweise schnellen Ausbruchs von Krebs sind sie für Arbeiten nahezu unbrauchbar. Zudem besteht Fluchtgefahr.\n<>\nENTITÄTSNAME: SAW-05 \"Chompy\"\nAnzahl: 6084\n- Mutierter SAW-03 gespleißt mit \"Hai\" DNA. Karnivor und aquatisch. Kein Fell. Ungewöhnlich freundlich. Gut geeignet zur Konfliktlösung, wenn Gewalt unerwünscht ist. Ihr großer Schweif belastet sie stark, was unsere langjährigen Theorien bestätigt.\n- Haie waren eine Spezies von raubtierartigen Meeresfischen. Sie sind ausgestorben, aber ihre DNA wurde zu wissenschaftlichen Zwecken aufbewahrt.\n<>\nENTITÄTSNAME: SAW-06 \"Roza\"\nANZAHL: 7848\n- Mutierter SAW-01 gespleißt mit \"Schneeschreiter\" DNA. Ungewöhnlich niedrige Körpertemperatur. Volatil und anfällig für Irritationen, aber friedfertig wenn keine Bedrohung besteht. Belastender Schweif. Hat konventionelle weibliche Merkmale, wahrscheinlich als Folge der Vermischung von Schneeschreiter mit Erden-DNA.\n- Siehe <korrupt:0xFFF853> für weitere Details über \"Schneeschreiter\".\n\n[SEITE 1 VON 2]",
             "Item2": ""
         },
         {
