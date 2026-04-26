@@ -27,7 +27,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 |[ไทย (th-TH)](/th-TH.json)  | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung)        |
 
 ## Maintainers
-* [Azurian](https://github.com/clemtomera)
+* [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
 
 ## Owner
 * [Orsoniks](https://github.com/Orsoniks)
