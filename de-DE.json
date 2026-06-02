@@ -1,6 +1,6 @@
 {
     "name": "Deutsch",
-    "description": "FÜR VERSION v6.1\n\nDie inoffizielle von Fans gemachte deutsche Übersetzung. Bei Verbesserungsvorschlägen / Anmerkungen bitte gerne im Discord vorbeischauen und uns eine Nachricht schicken!\n\nIhr findet uns im 'cu-translations' Kanal!\nWir haben dort einen deutschen 'Thread'!",
+    "description": "FÜR VERSION v7.0\n\nDie inoffizielle von Fans gemachte deutsche Übersetzung. Bei Verbesserungsvorschlägen / Anmerkungen bitte gerne im Discord vorbeischauen und uns eine Nachricht schicken!\n\nIhr findet uns im 'cu-translations' Kanal!\nWir haben dort einen deutschen 'Thread'!",
     "main": {
         "bandage": "Verband",
         "bandagedsc": "Eine Verbandrolle mit Binde. Dient zur Verlangsamung von Blutungen, Stabilisierung von Brüchen und Unterstützung der Hautheilung. Hat keinen Einfluss auf die Muskelgesundheit.",
@@ -1520,6 +1520,10 @@
         "gamesetresheightdsc": "",
         "gamesetfullscreen": "Vollbild",
         "gamesetfullscreendsc": "Wähle zwischen Fenstermodus und Randlosmodus",
+		"gamesetvsync": "V-Sync",
+        "gamesetvsyncdsc": "Vertikale Synchronisation ein-/ausschalten, wodurch Screen Tearing reduziert wird, auf Kosten eines höheren Input-Lags. Überschreibt die Einstellung für die maximale Bildrate, wenn eingeschaltet.",
+        "gamesetframerate": "Maximale Bildrate",
+        "gamesetframeratedsc": "Ein Wert von 0 bedeutet unbegrenzt. Ein Wert höher als 0 wird zur festgelegten Bildrate. Wird überschrieben, wenn V-Sync aktiviert ist.",
         "gamesetpixelate": "Pixeliges Rendering",
         "gamesetpixelatedsc": "Schalte herunterskaliertes Rendering der Vollauflösung an/aus. Beachte: durch das deaktivieren des pixeligen Rendering geht ein Teil des beabsichtigten Grafikstils des Spiels verloren.",
         "gamesetbloom": "Bloom",
@@ -1809,6 +1813,7 @@
         "settings": "Einstellungen",
 		"custommusic": "Eigene Musik",
         "custommusicdsc": "Öffne das Verzeichnis für benutzerdefinierte Musik. Du kannst dort .mp3/.ogg./.wav-Dateien ablegen, damit sie bei Verwendung des MP3-Players als Auswahlmöglichkeiten angezeigt werden.\nAndere Dateitypen werden nicht unterstützt.",
+		"credits": "Credits",
         "layer": "Ebene",
         "toggleheatmode": "Heizmodus einstellen",
         "activateshower": "Dusche aktivieren",
@@ -1949,7 +1954,7 @@
         "tutbasic8": "Du bist aber ein agiles kleines Ding, was?",
         "tutbasic9": "So, kommen wie zum Thema Sachen halten.",
         "tutbasic10": "Interaktionen mit Gegenständen erfolgen per [RECHTSKLICK]. Klicke auf dich selbst um dein Inventar aufzurufen, klicke woanders hin um es zu schließen.",
-        "tutbasic11": "Hier ist was womit du herumspielen kannst. [RECHTSKLICK] und ziehe es auf dich, dann auf einen Platz um es aufzuheben.",
+        "tutbasic11": "Hier ist was womit du herumspielen kannst. [RECHTSKLICK] und ziehe es auf dich, dann auf einen Platz um es aufzuheben. Du kannst [STRG] gedrückt halten um Gegenstands-Kategorien einzusehen, was es leichter macht diese zu finden.",
         "tutbasic12": "Gut. Du kannst den Gegenstand auch im Inventar verwenden. Ziehe ihn in die Mitte um ihn zu verwenden und fortzufahren.",
         "tutbasic13": "Schmeckt fantastisch, nicht wahr? Du solltest es jetzt ganz aufessen.",
 		"tutbasic13fail": "Ich wollte das du es aufhebst, nicht das du es isst... Meine Güte, das Ganze Ding? Alles auf einmal..?",
@@ -4446,7 +4451,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Unsere Gebieter tun seltsame Dinge. Man sollte niemals darauf vertrauen, dass sie freundlich sind.\nAber man kann darauf vertrauen, dass sie einen am Leben halten.<>\nIch habe mir einmal den Arm gebrochen, und sie haben ihn “eingegipst.” Mir hat das nicht gefallen. Es war schwer und hat meinen Arm komplett bewegungsunfähig gemacht. Es schien, als hätten sie es absichtlich noch schlimmer gemacht, und sie zwangen mich ihn lange Zeit zu tragen.<>\nEines Tages haben sie ihn entfernt, und mein Arm war gesund.<>\nDie Gebieter haben es verschlimmert, damit es besser werden kann.<>\n\nIch glaube sie haben etwas ähnliches mit Jumper's Kopf gemacht.\nJumper hat früher viel geschrien und geweint. Einmal hat er sich verletzt, und die Gebieter haben ihn mitgenommen.<>\nJumper ist jetzt zurück. Er weint nicht mehr. Er redet nicht mehr. Er sieht die ganze Zeit müde aus. Sein Kopf ist wie mein Arm vorher war. Ich kann keinen “Gips” an ihm dran sehen, und sein Verhalten macht mir Sorgen, aber zumindest verletzt er sich jetzt nicht mehr selbst. Ich hoffe die Gebieter werden rückgängig machen was sie getan haben, sobald Jumper's Kopf wieder in Ordnung ist.<>\n\nIch vermisse ihn.",
+                "Item1": "Unsere Gebieter tun seltsame Dinge. Man sollte niemals darauf vertrauen, dass sie freundlich sind.\nAber man kann darauf vertrauen, dass sie einen am Leben halten.<>\nIch habe mir einmal den Arm gebrochen, und sie haben einen \"Gips\" drum gemacht. Mir hat das nicht gefallen. Es war schwer und hat meinen Arm komplett bewegungsunfähig gemacht. Es schien, als hätten sie es absichtlich noch schlimmer gemacht, und sie zwangen mich ihn lange Zeit zu tragen.<>\nEines Tages haben sie ihn entfernt, und mein Arm war gesund.<>\nDie Gebieter haben es verschlimmert, damit es besser werden kann.<>\n\nIch glaube sie haben etwas ähnliches mit Jumper's Kopf gemacht.\nJumper hat früher viel geschrien und geweint. Einmal hat er sich verletzt, und die Gebieter haben ihn mitgenommen.<>\nJumper ist jetzt zurück. Er weint nicht mehr. Er redet nicht mehr. Er sieht die ganze Zeit müde aus. Sein Kopf ist wie mein Arm vorher war. Ich kann keinen \"Gips\" an ihm dran sehen, und sein Verhalten macht mir Sorgen, aber zumindest verletzt er sich jetzt nicht mehr selbst. Ich hoffe die Gebieter werden rückgängig machen was sie getan haben, sobald Jumper's Kopf wieder in Ordnung ist.<>\n\nIch vermisse ihn.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4793,7 +4798,7 @@
             "Item2": ""
         },
         {
-            "Item1": "(Der PDA ist beschädigt; der Bildschirm ist gesprungen und die Elektronik liegt teilweise frei. Mit etwas Mühe bekommst du ihn zum laufen.)\n\n[INTERNE NACHRICHT]\n[PROJEKT <korrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nSTANDORT: <korrupt:0xFBC00F> Biometrie-Division\nDATUM: <korrupt:0xFFFFFF>\nANGEGEBENER EIGENTÜMER: Mechanikingenieur <korrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMITTEILUNG ÜBER INTERNES KOMMUNIKATIONSNETZWERK\n\n\nVON: <korrupt:0xFFFFFF>\nAN:  <korrupt:0xFA05F2>\n\nDas gefällt mir überhaupt nicht. Unsere Hauptaufgabe für dieses Quartal war die Entwi <korrupt:0xFFF0CE> Also warum sind wir wieder hier bei? Ich hatte bereits eine Woche Urlaub mit einigen Freunden geplant und musste diese Pläne absagen, weil e <korrupt:0xFFFFFF> o warten? Dieser aktuelle Auftrag ist auch verdammt fragwürdig. Ich würde es verstehen, wenn wir unsere neue neuronale Plattform zum Wohle der Patienten erweitern würden, aber \"p <korrupt:0xFF0BEA> r wen ist das? Sträflinge? ch meine, unsere Regierung, selbst unser Unternehmen würde so etwas nicht in ein ziviles Paket aufnehmen, oder? Vielleicht ist es für die Armee gedacht? Damit sie Soldaten direkt einfache Befehle erteilen können und sicherstellen, dass niemand vertrauliche Informationen preisgibt? Selbst dan <korrupt:0xFBC00F> Wie auch immer, sieht so aus als müssten wir einen Weg finden eine bessere Informationsübertragung zu ermöglichen, bei Verwendung unserer Basisbatterie. Wobei nee warte, die wollten dieses Addon zur Kontrolle verwenden mit einem tödlichen Failsafe, richtig? Dann können wi <korrupt:0xFFFFFF> f diese Weise haben wir zwei Stromquellen mit der Fähigkeit, eine davon durch Überladung zu destabilisieren. Ich werd was ausarbeiten, sag mir Bescheid wa\n\n<korrupt:0x0000000000>\n<korrupt:0x0000000000>\n<korrupt:0xFFFFFF>\n<korrupt:0xFFFFFF>\n<korrupt:0x00000000000000000FF ILLEGALER SPEICHERZUGRIFF><>\n\n\n(Du hörst einen “bzzzz” Sound und siehst wie leichter Rauch aus dem Gerät aufsteigt.)",
+            "Item1": "(Der PDA ist beschädigt; der Bildschirm ist gesprungen und die Elektronik liegt teilweise frei. Mit etwas Mühe bekommst du ihn zum laufen.)\n\n[INTERNE NACHRICHT]\n[PROJEKT <korrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nSTANDORT: <korrupt:0xFBC00F> Biometrie-Division\nDATUM: <korrupt:0xFFFFFF>\nANGEGEBENER EIGENTÜMER: Mechanikingenieur <korrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMITTEILUNG ÜBER INTERNES KOMMUNIKATIONSNETZWERK\n\n\nVON: <korrupt:0xFFFFFF>\nAN:  <korrupt:0xFA05F2>\n\nDas gefällt mir überhaupt nicht. Unsere Hauptaufgabe für dieses Quartal war die Entwi <korrupt:0xFFF0CE> Also warum sind wir wieder hier bei? Ich hatte bereits eine Woche Urlaub mit einigen Freunden geplant und musste diese Pläne absagen, weil e <korrupt:0xFFFFFF> o warten? Dieser aktuelle Auftrag ist auch verdammt fragwürdig. Ich würde es verstehen, wenn wir unsere neue neuronale Plattform zum Wohle der Patienten erweitern würden, aber \"p <korrupt:0xFF0BEA> r wen ist das? Sträflinge? ch meine, unsere Regierung, selbst unser Unternehmen würde so etwas nicht in ein ziviles Paket aufnehmen, oder? Vielleicht ist es für die Armee gedacht? Damit sie Soldaten direkt einfache Befehle erteilen können und sicherstellen, dass niemand vertrauliche Informationen preisgibt? Selbst dan <korrupt:0xFBC00F> Wie auch immer, sieht so aus als müssten wir einen Weg finden eine bessere Informationsübertragung zu ermöglichen, bei Verwendung unserer Basisbatterie. Wobei nee warte, die wollten dieses Addon zur Kontrolle verwenden mit einem tödlichen Failsafe, richtig? Dann können wi <korrupt:0xFFFFFF> f diese Weise haben wir zwei Stromquellen mit der Fähigkeit, eine davon durch Überladung zu destabilisieren. Ich werd was ausarbeiten, sag mir Bescheid wa\n\n<korrupt:0x0000000000>\n<korrupt:0x0000000000>\n<korrupt:0xFFFFFF>\n<korrupt:0xFFFFFF>\n<korrupt:0x00000000000000000FF ILLEGALER SPEICHERZUGRIFF><>\n\n\n(Du hörst einen \"bzzzz\" Sound und siehst wie leichter Rauch aus dem Gerät aufsteigt.)",
             "Item2": ""
         },
         {
@@ -4921,7 +4926,7 @@
         "Ihr seid alle unglaublich enttäuschend. Aber auch unterhaltsam. Bist du anders?",
         "Ich weiß, wie das endet. Aber mach weiter.",
         "Die Sterne beobachten dich.",
-        "\"Menschlich\" ist nicht das Einzige, was zusieht.",
+        "\"Menschen\" sind nicht die Einzigen, die zusehen.",
         "Niemals lernend. Niemals verstehend. Niemals konstant. Wenn du nur erkennen könntest.",
         "Direkt hinter dir.",
         "Dieser Ort hält mehr Interessantes als du jemals begreifen könntest.",
