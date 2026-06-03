@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Eine Rolle aus speziell synthetisiertem, robustem Material, die Wunden effizient abdeckt und Brüche stabilisiert. Hat keinen Einfluss auf die Muskelgesundheit.",
         "adhesivebandage": "Heftpflaster",
         "adhesivebandagedsc": "Eine Packung kleiner medizinischer Verbände zur Behandlung kleiner Verletzungen. Lindert Blutungen.",
-        "musharm": "Musarm",
+        "musharm": "Schlingranke",
         "musharmdsc": "Nicht essbarer Pflanzenteil, der als einmaliger improvisierter Verband dienen kann. Kann als Laub beim Crafting verwendet werden.",
         "paincream": "Linderungscreme-Flasche",
         "paincreamdsc": "Eine kleine 100ml Flasche zur Aufbewahrung von Linderungscreme. Dosierung beträgt 10ml.",
@@ -211,7 +211,7 @@
         "alcohol": "Flasche Alkohol",
         "alcoholdsc": "Glasflasche welche bis zu 0.4L Flüssigkeit fassen kann.",
 		"exposedcore": "Freigelegter Kern",
-        "exposedcoredsc": "Die ruhenden Überreste von etwas einst lebendigem. Du könntest es wahrscheinlich essen um seine Energie in Form von Nährstoffen und Wasser zu absorbieren. <i>Sieht so aus, als würde es sich langsam in etwas transformieren...",
+        "exposedcoredsc": "Die ruhenden Überreste von etwas einst lebendigem. Du könntest es wahrscheinlich essen um seine Energie in Form von Nährstoffen und Wasser zu absorbieren. <i>Sieht so aus, als würde es sich langsam in etwas transformieren...</i>",
         "foliage": "Laub",
         "foliagedsc": "Generisches außerirdisches Pflanzenmaterial. Kaum essbar, mit unangenehmem Geschmack. Kann dich krank machen. Verrottet schnell. Häufig beim Crafting verwendet.",
         "foliagemeal": "Laubmahlzeit",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Normalerweise erhältst du so ein Gerät für die Trainingseinheiten. Es ist nicht klar, ob die Nachrichten live oder aufgezeichnet sind. Es hat einen Knopf, den du drücken kannst.",
         "mp3player": "MP3-Player",
         "mp3playerdsc": "Überraschenderweise funktioniert er immer noch. Hat einen kleinen Speicher der mit einigen Liedern gefüllt ist. Du kannst sie zum Spaß abspielen.",
-        "mushpear": "Musbirne",
-        "mushpeardsc": "Ein blauer Pflanzenteil, der zur Wasserverteilung dient. Kaum essbar, mit einer seltsamen gewichtsabsorbierenden Eigenschaft und einem abstoßenden Geschmack. Verringert beim Verzehr die Körpermasse. Scheint Spuren von Opiaten zu enthalten.",
-        "mushtail": "Musschweif",
-        "mushtaildsc": "Das Endstück einer Muspflanze. Enthält eine Chemikalie, die jemanden sofort für eine Weile bewusstlos machen kann, mit anschließender sichtbarer Stimmungsverbesserung. Seltsam. Keine Nährwerte.",
-        "mushball": "Musball",
-        "mushballdsc": "Eine runde, essbare, blasenartige und saftige Frucht. Sieht eklig aus und fühlt sich auch so an, hat aber einen hohen Wassergehalt. Verdirbt sehr schnell.",
+        "mushpear": "Taubbeere",
+        "mushpeardsc": "Ein Teil eines Hydschilfs der Wasser filtert und verteilt. Besitzt eine seltsame gewichtsabsorbierende Eigenschaft und unangenehmen Geschmack. Verringert bei Verzehr Körpermasse. Scheint Spuren von Opiaten zu enthalten.",
+        "mushtail": "Schlafkolben",
+        "mushtaildsc": "Das Schweif-Ende eines Hydschilfs. Enthält eine Chemikalie, die jemanden sofort für eine Weile bewusstlos machen kann, mit anschließender sichtbarer Stimmungsverbesserung. Seltsam. Keine Nährwerte.",
+        "aquapple": "Aquapfel",
+        "aquappledsc": "Eine saftige, blasenförmige Frucht. Sieht eklig aus und fühlt sich auch so an, hat aber einen hohen Wassergehalt. Verdirbt sehr schnell.",
         "droppings": "Fäkalien",
         "droppingsdsc": "Es ist Kacke.",
         "smallpack": "Kleiner Rucksack",
@@ -314,6 +314,8 @@
         "bigpackdsc": "Ein mittelgroßer Rucksack.",
         "bikehelmet": "Fahrradhelm",
         "bikehelmetdsc": "Ein Helm, der den Aufprall von Stößen auf den Kopf mindert. Reduziert Kopfverletzungen durch Stürze.",
+		"riothelmet": "Riot-Helm",
+        "riothelmetdsc": "Ein fortgeschrittener Helm der die Schwere von Kopftraumata erheblich verringert.",
         "holidayhat": "Feiertagshut",
         "holidayhatdsc": "Du hast gehört, dass Leute diese zu einem besonderen Anlass tragen, auch wenn du nicht genau weißt, worum es dabei eigentlich geht. Es ist schön, dass du zumindest einen mitbekommen hast.",
         "headlamp": "Kopflampe",
@@ -334,6 +336,8 @@
         "balaclavadsc": "Ein dickes, gepolstertes Stück Stoff, das um den Schädel gelegt wird. Bietet leichten Schutz und anständige Isolierung.",
         "latexgloves": "Latexhandschuhe",
         "latexglovesdsc": "Ein Paar einfache Latexhandschuhe. Bieten geringfügige Isolierung vor den Elementen.",
+		"tacticalgloves": "Taktische Handschuhe",
+        "tacticalglovesdsc": "Ein Paar fortgeschrittene synthetische Handschuhe. Schützen deine Hände effektiv vor physischen Verletzungen.",
         "fannypack": "Gürteltasche",
         "fannypackdsc": "Eine kleine Tasche, die man sich um den Bauch legen kann.",
         "bandolier": "Bandelier",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "Ein großes Stück Metall, das auf den Bauch geschnallt wird. Bietet hervorragenden Schutz und eine mäßige Isolierung vor den Elementen.",
         "belt": "Gürtel",
         "beltdsc": "Ein Ledergürtel der um den Bauch getragen wird. Kann ausschließlich Werkzeuge halten.",
+		"traumarig": "Trauma Weste",
+        "traumarigdsc": "Eine fortgeschrittene synthetische Schutztasche, welche verschiedene Werkzeuge, Waffen und medizinische Ausrüstung aufbewahren kann. Schützt außerdem deinen Oberkörper!",
         "popcorn": "Popcorn",
         "popcorndsc": "Ein Eimer mit einem Haufen Maiskörner, die durch Erhitzung aufgepufft sind. Du findest das Konzept durchaus gelungen. Lecker. Ist lange haltbar.",
         "nopopcorn": "Kein Popcorn",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "Ein hartes, langes Rohr aus mehreren verbundenen Kadavern. Dient als provisorische Schiene zur Behandlung von Brüchen.",
         "terrainscanner": "Geländescanner",
         "terrainscannerdsc": "Zeigt dir eine Karte des Geländes unter dir in niedriger Qualität. Gelände ist grün hervorgehoben, feste Gebäude rot. Ist möglicherweise leicht ungenau. Reichweite beträgt 24 Meter.",
+		"geigercounter": "Geigerzähler",
+        "geigercounterdsc": "Ein elektronisches Gerät zum Erkennen und Messen ionisierender Strahlung mithilfe einer Geiger-Müller-Röhre. Verwenden zum Umschalten.",
+        "handcrank": "Handkurbel-Ladegerät",
+        "handcrankdsc": "Ein Gerät mit dem man leere Batterien durch manuelles Kurbeln wieder aufladen kann. Setz eine Batterie ein und kurbel los!",
         "sleepingbag": "Schlafsack",
         "sleepingbagdsc": "Eine isolierte Decke in der eine Person schlafen kann. Verwenden um darin zu schlafen, wodurch die Schlafqualität um eine Stufe verbessert wird (maximal auf Gut) und du für die Nacht etwas isolierter bist. Normale Schlafbeschränkungen gelten weiterhin.",
 		"liquidcentrifuge": "Flüssigkeitszentrifuge",
@@ -434,14 +444,16 @@
         "browncapdsc": "Du bist dir nicht sicher, um welche Pilzart es sich genau handelt. Soweit du weißt könnte der alles Mögliche bewirken, von der Wundheilung bis hin zu deinem sofortigen Tod.",
         "sneakers": "Turnschuhe",
         "sneakersdsc": "Ein paar weiße Turnschuhe, die überhaupt nicht dazu gemacht wurden, um auf deine Füße zu passen. Wenn du es irgendwie schaffst, deine Pfoten da rein zu quetschen, bieten sie Schutz vor Glasscherben.",
+		"tacticalboots": "Taktische Stiefel",
+        "tacticalbootsdsc": "Ein Paar schwere synthetische Stiefel, gemacht um die Füße effektiv vor verschiedenen Arten von Traumata zu schützen.",
         "frigiantfruit": "Frostfrucht",
         "frigiantfruitdsc": "Eine sehr kalte, harte und glasige Frucht. Schmeckt gut, hat aber die Tendenz dich stark abzukühlen. Erwäge sie nicht in der Eiseskälte zu verzehren.",
-        "purpleherb": "Violettes Kraut",
-        "purpleherbdsc": "Ein trockenes, violettes Blatt mit grober Textur. Wird häufig als Hilfsmittel bei bestimmten Beschwerden verwendet – hilft gegen Übelkeit, lindert Hörverlust leicht und kann möglicherweise inner Blutungen vermindern. Mit Sorgfalt nutzen - da es die Angewohnheit hat, die Körpertemperatur des Anwenders stark zu erhöhen.",
-        "bulbskin": "Knollenhaut",
-        "bulbskindsc": "Ein öliges Stück dicker, gelber Pflanzenhaut. Enthält hohe Mengen Adrenalin und einen kleinen Anteil Wasser, kann aber die Gehirnfunktion geringfügig beeinträchtigen. Kann auch als provisorischer Verband und Schmerzmittel für Gliedmaßen verwendet werden.",
-        "geigefruit": "Geiger-Frucht",
-        "geigefruitdsc": "Eine seltsame, rechteckige, glänzende Frucht. Riecht nach Öl, schmeckt aber gut! Stillt Hunger und Durst. Kann kurzzeitig die Lunge reizen und zufallsabhängig Strahlenkrankheiten lindern oder leicht verschlimmern. Beim Aufprall auf den Boden hat sie eine laute Reaktion – nützlich zur Überprüfung der Tiefe von Abgründen.",
+        "helluce": "Hölluze",
+        "hellucedsc": "Ein trockenes, violettes Kraut mit einem besonders scharfen Geschmack. Hilft gegen Übelkeit, hilft leicht bei Hörverlust und könnte innere Blutungen lindern. Sie neigt dazu die Körpertemperatur des Konsumenten stark zu erhöhen.",
+        "bulbskin": "Pophaut",
+        "bulbskindsc": "Ein dickes, gelbes Stück Membran. Stillt Durst, kann jedoch geringfügig die Gehirnfunktion beeinträchtigen. Kann auch als provisorischer Verband und Schmerzmittel verwendet werden.",
+        "popfruit": "Popfrucht",
+        "popfruitdsc": "Eine seltsame, rechteckige, glänzende Frucht. Lecker, stillt Hunger und Durst. Kann zufallsabhängig Strahlenkrankheit lindern oder leicht verschlimmern. Beim Aufprall auf den Boden hat sie eine laute Reaktion – nützlich zur Überprüfung der Tiefe von Abgründen.",
         "antisepticmush": "Antiseptischer Brei",
         "antisepticmushdsc": "Zerstampfte Früchte und Blätter, zu einer Mischung verarbeitet, die bei der Behandlung von Infektionen wirksam ist. Reicht für eine Anwendung.",
         "striderpelt": "Schreiterpelz",
@@ -499,11 +511,11 @@
         "nails": "Nägel",
         "nailsdsc": "Ein Haufen grober Nägel. Sollten genug für ein paar Rezepte sein. Du wirst einen Hammer brauchen, um sie verwendbar zu machen",
         "string": "Schnur",
-        "stringdsc": "Eine täuschend starke, dünne Schnur aus vorbereitetem Pflanzenmaterial. Wird in komplizierteren Rezepten verwendet.",
+        "stringdsc": "Eine täuschend starke, dünne Schnur aus aufbereitetem Pflanzenmaterial. Wird in komplizierteren Rezepten verwendet.",
         "stick": "Stock",
         "stickdsc": "Ein kurzer Holzstock. Er ist sehr zerbrechlich, aber leicht. Viel zu klein um als Waffe zu dienen, kann aber als grobschlechter Hammer verwendet werden.",
-        "ilmenitechunk":"Ilmenit-Stück",
-        "ilmenitechunkdsc": "Ein Titanium-Eisen oxid Mineral. Es ist zwar aufwendig, aber es kann zu einer starken Titanium-Legierung verarbeitet werden.",
+        "ilmenitechunk":"Ilmenit-Brocken",
+        "ilmenitechunkdsc": "Ein Titanium-Eisen oxid Mineral. Wenn auch aufwendig, kann es zu einer starken Titanium-Legierung verarbeitet werden.",
         "titaniumslab": "Titaniumplatte",
         "titaniumslabdsc": "Eine rechteckige Platte aus legiertem Titanium. Kann für fortgeschrittenes Crafting verwendet werden.",
         "titaniumrod": "Titaniumstange",
@@ -511,57 +523,57 @@
         "titaniumsheet": "Titaniumblech",
         "titaniumsheetdsc": "Ein dünnes, jedoch festes Blech aus legiertem Titanium. Kann für fortgeschrittenes Crafting verwendet werden.",
         "rawcopper": "Rohes Kupfer",
-        "rawcopperdsc": "Rohes Stück aus stark oxidiertem Kupfer. Du könntest es zur Anwendung in Elektronik raffinieren.",
+        "rawcopperdsc": "Ein Brocken aus stark oxidiertem, rohem Kupfer. Du könntest ihn zur Verwendung für Elektronik raffinieren.",
         "processedcopper": "Verarbeitetes Kupfer",
         "processedcopperdsc": "Ein mit Bio-Chemie verarbeitetes Stück Kupfer. Verformbar und leitfähig, du könntest es in Kabel für Elektronik umwandeln.",
         "plasticchunk": "Plastikstück",
         "plasticchunkdsc": "Ein stück aus flexiblem Plastik, welches sichtbar gewaltsam abgerissen wurde. Nützlich im crafting, meistens in Elektronik.",
         "flexiglass": "Flexiglas",
-        "flexiglassdsc": "Ein dünnes Stück aus flexiblem, transparentem Material aus chemisch behandeltem Plastik. Wird im Crafting verwendet.",
+        "flexiglassdsc": "Eine dünne Scheibe aus flexiblem, transparentem Material aus chemisch behandeltem Plastik. Wird im Crafting verwendet.",
         "bundleofwires": "Kabelbündel",
         "bundleofwiresdsc": "Ein Bündel aus sorgfältig zusammengebundenen Kabeln, umgeben mit etwas Isolierung. Wird im craften von Elektronik Verwendet.",
         "flimsyknife": "Klappriges Messer",
-        "flimsyknifedsc": "Ein kleines, stumpfes Messer. Kann für einfaches Crafting verwendet werden. Im Kampf kaum bis gar nicht brauchbar.\n\n<color=\"red\">Kann im Gesundheitsfenster verwendet werden, um schwer infizierte Gliedmaßen zu amputieren.",
+        "flimsyknifedsc": "Ein kleines, stumpfes, instabiles Messer. Kann für grundlegendes Crafting verwendet werden. Im Kampf kaum bis gar nicht brauchbar.\n\n<color=\"red\">Kann im Gesundheitsfenster verwendet werden, um schwer infizierte Gliedmaßen zu amputieren.",
         "craftingbottle": "Temporäre Flasche",
         "craftingbottledsc": "Improvisierter Wasserbehälter. Kann nicht aufgefüllt werden und wird bald zerfallen. Fülle den Inhalt um, bevor er verloren geht.",
         "nondescriptcan": "Unbeschriftete Dose",
-        "nondescriptcandsc": "Eine schlichte, unetikettierte Dose mit... irgendwas. Sie sieht nach nichts aus und riecht auch nicht besonders. Könnte gut sein, oder auch nicht.",
+        "nondescriptcandsc": "Eine schlichte, unetikettierte Dose mit... irgendetwas drin. Scheint und riecht nach nichts Bestimmtem. Könnte gut sein, oder auch nicht.",
 		"canteen": "Feldflasche",
-        "canteendsc": "Eine kleine und einfache Flasche um Flüssigkeiten zu halten. Besteht aus zusammengeklebten Plastik und mit einem Seil zusammengebunden. Hält 300ml.",
+        "canteendsc": "Eine kleine, einfache Flasche, die Flüssigkeiten hält. Besteht aus zusammengeklebtem Plastik, welches mit einem Seil zusammengebunden wurde. Fasst 300ml.",
         "lcdscreen": "LCD-Bildschirm",
-        "lcdscreendsc": "Ein simples elektronisches Display. Kann im crafting verwendet werden.",
+        "lcdscreendsc": "Ein simples, elektronisches Display. Kann im crafting verwendet werden.",
         "autoinjector": "Autoinjektor",
-        "autoinjectordsc": "Ein medizinisches Wunder zur zeit seiner Erfindung, dieses kleine Gerät kann automatisch eine Vene oder Aterie finden und die gegebene Dosis liefern. Wird in medizinischem Crafting verwendet.",
+        "autoinjectordsc": "Ein medizinisches Wunder zur Zeit seiner Erfindung, dieses kleine Gerät kann automatisch eine Vene oder Aterie finden und die gegebene Dosis liefern. Wird in medizinischem Crafting verwendet.",
         "keratinbooster": "Keratin-Booster",
-        "keratinboosterdsc": "Eine 100mL Flasche, die als Nagelpflegezusatz gekennzeichnet ist. Dosierung beträgt 50ml pro Schluck.",
+        "keratinboosterdsc": "Eine 100mL Flasche, die als Nagelpflegezusatz gekennzeichnet ist. Dosierung beträgt 50ml pro Einnahme.",
         "drillrepairkit": "Bohrer-Reparatur-Kit",
         "drillrepairkitdsc": "Ein kleines Set mit Ersatzteilen, für die Reparatur von Bohr-Kapseln. Du kannst es verwenden um einen Bohrer wieder zum laufen zu bekommen.",
         "campfire": "Lagerfeuer",
-        "campfiredsc": "Ein gezündetes Lagerfeuer. Warm und gemütlich, in der nähe davon wirst du dich aufwärmen. Wird bei Kochrezepten als Hitzequelle benötigt.",
+        "campfiredsc": "Ein gezündetes Lagerfeuer. Warm und gemütlich, in dessen unmittelbarer Nähe wirst du dich aufwärmen. Wird bei Kochrezepten als Hitzequelle benötigt.",
         "firestarter": "Feuerstarter",
-        "firestarterdsc": "Ein Gerät zum Entzünden eines Feuers durch Reibung zwischen einem schnell rotierenden Holzstab und einer Vertiefung in einem stationären Holzstück. In Laiensprache: Stocki drehe, Feuer starte. Kann bis zu 3 mal verwendet werden befor er ausbrennt. ",
+        "firestarterdsc": "Ein Gerät zum Entzünden eines Feuers durch Reibung zwischen einem schnell rotierenden Holzstab und einer Vertiefung eines stationären Holzstücks. In Laiensprache: Stöckchen drehi, Feuerchen starti. Kann bis zu 3 mal verwendet werden bevor er ausbrennt. ",
         "charcoal": "Holzkohle",
-        "charcoaldsc": "Kleines, leichtes Stück Holzkohle. Kann als flammbare Zutat für Crafting verwendet werden.",
+        "charcoaldsc": "Kleines, leichtes Stück Holzkohle. Kann als brennbare Zutat für Crafting verwendet werden.",
         "ryebulb": "Roggenknolle",
         "ryebulbdsc": "Ein dünnes Säckchen gefüllt mit Roggen. Du könntest es zu Mehl machen, wenn du etwas zum hämmern hättest.",
         "ryeflour": "Roggenmehl",
-        "ryeflourdsc": "Ein Pulver das hauptsätzlich zum Backen verwendet wird. Du wirst warscheinlich Wasser und eine Hitzequelle brauchen um damit was anzufangen.",
+        "ryeflourdsc": "Ein Pulver das hauptsätzlich zum Backen verwendet wird. Du wirst wahrscheinlich Wasser und eine Hitzequelle brauchen, um damit was anzufangen.",
         "bread": "Brot",
         "breaddsc": "Ein Laib Brot aus Mehl und Wasser. Das einfachste was du je essen könntest, doch es ist nicht abstoßend und hält auch lange. ",
         "cake": "Kuchen",
-        "cakedsc": "Ein gebackenes, süßes Gebäck mit einem Glasurüberzug. Groß, sättigend und sehr lecker, jedoch aufgrund des Zuckergehalts etwas Übelkeit erregend, wenn man zu viel davon isst.",
+        "cakedsc": "Ein gebackenes, süßes Gebäck mit einem Glasurüberzug. Groß, sättigend und sehr lecker, erregt jedoch aufgrund des Zuckergehalts etwas Übelkeit, wenn man zu viel davon isst.",
 		"pemmican": "Pemmikan",
         "pemmicandsc": "Ein Mix aus Fett, getrocknetem Fleisch, und dehydrierten Früchten. Hält sehr lange und ist sehr kalorienreich. Schmeckt neutral.",
         "torch": "Fackel",
-        "torchdsc": "Extrem primitive Lightquelle. Sie erleuchtet den Weg ziemlich gut, aber wird durch Flüssigkeiten erloschen. Du kannst sie mit einer Feuerquelle wieder entzünden.",
+        "torchdsc": "Extrem primitive Lightquelle. Sie erleuchtet den Weg ziemlich gut, wird aber durch Flüssigkeiten erloschen. Du kannst sie mit einer Feuerquelle wieder entzünden.",
         "lighter": "Feuerzeug",
-        "lighterdsc": "Ein generisches Klappfeuerzeug. Kann als Feuerquelle für Crafting-Rezepte verwendet werden, wie Lagerfeuer. Reicht für viele, viele Anwendungen.",
+        "lighterdsc": "Ein generisches Klappfeuerzeug. Kann als Feuerquelle für Crafting-Rezepte verwendet werden, wie etwa zum entfachen von Lagerfeuern. Reicht für viele, viele Anwendungen.",
         "present": "Geschenk",
         "presentdsc": "Eine dekorierte Pappschachtel, die anscheinend mit etwas gefüllt ist. Benutze sie, um sie auszupacken.",
         "woodsandals": "Holzsandalen",
         "woodsandalsdsc": "Ein Stück Holz, das mit einem Seil an deine Pfoten gebunden wird. Keineswegs bequem, aber es schützt dich vor scharfen Trümmern ... Wenn du Glück hast, sogar mehr als einmal!",
 		"minibarrel": "Mini-Fass",
-        "minibarreldsc": "Ein kleines, industrielles Fass, gebaut um Flüssigkeiten zu halten. Extrem schwer und impraktisch zu benutzen."
+        "minibarreldsc": "Ein kleines, industrielles Fass, das zur Lagerung von Flüssigkeiten gebaut wurde. Extrem schwer und unpraktisch zu benutzen."
     },
     "buildings": {
         "animalcorpse": "Tierkadaver",
@@ -624,8 +636,8 @@
         "ladderdsc": "Eine vertikale Reihe von Sprossen, die zum Auf- und Absteigen verwendet wird. Du vermutest zu wissen, wie man sie benutzt.",
 		"shadecrawler": "Schattenkriecher",
         "shadecrawlerdsc": "",
-        "wallbiter": "Wandbeißer",
-        "wallbiterdsc": "Ein beunruhigend großes, flauschiges Tier mit sechs Beinen. Du siehst etwas, das wie herausragende scharfe Zähne aussieht. Scheint sich unberechenbar zu bewegen.",
+        "wallbiter": "Sandstalker",
+        "wallbiterdsc": "Ein großes, flauschiges Tier mit sechs Beinen. Du siehst etwas, das wie herausragende scharfe Zähne aussieht. Es bewegt sich unberechenbar umher.",
         "thornbackyoung": "Dornenrücken",
         "thornbackyoungdsc": "Ein junger, flauschiger und sehr aggressiver Dornenrücken. Es gefällt ihnen sich durch den Boden zu graben und alles was sich in der Nähe bewegt zu zerreißen.",
         "thornbackelder": "Antiker Dornenrücken",
@@ -666,8 +678,8 @@
         "medcratedsc": "Enthält Medizin Items.",
         "rechargingstation": "Ladestation",
         "rechargingstationdsc": "Eine Station zum Aufladen von Batterien. Akzeptiert Batterien jeder Größe und verfügt scheinbar über unbegrenzt Energie. Verwende sie, um eine Batterie aus deiner Haupthand einzusetzen, und ziehe die Batterie dann zurück zu dir.\n\nSie scheint über einen Musikplayer zu verfügen, der die Atmosphäre entspannt, während man wartet... Ironischerweise fehlt bei dem eine Batterie.",
-        "mushplant": "Muspflanze",
-        "mushplantdsc": "Sie zuckt langsam... Sieht feucht aus.",
+        "hydreed": "Hydschilf",
+        "hydreeddsc": "Er hat mehrere Arme mit blasigen Früchten an den Enden. Sieht feucht aus...",
         "OxygenCrystal": "Sauerstoffkristall",
         "OxygenCrystaldsc": "Er scheint langsam zu sprudeln...",
         "reinforceddoor": "Verstärkte Tür",
@@ -733,8 +745,8 @@
         "geyserdsc": "Ein instabiler Geysir mit der Tendenz, Wasser auszustoßen. Zum Glück ist es im schlimmsten Fall gerade mal Zimmertemperatur.",
         "oilpipe": "Abflussrohr",
         "oilpipedsc": "Ein rostiges Rohr, aus dem dunkler Teer strömt. Du willst nicht hineinschauen... Mit genug Zeit wird es das Gebiet wahrscheinlich überfluten.",
-        "plantiation": "Gewächs",
-        "plantiationdsc": "Eine lange, unspektakuläre, violett gefärbte Pflanze, an deren Ende eine große, halbtransparente Zwiebel wächst.",
+        "pop": "Pop",
+        "popdsc": "Eine lange, unspektakuläre, violett gefärbte Pflanze, an deren Ende eine große, halbtransparente Zwiebel wächst.",
         "mushroomdropper": "Fallpilz",
         "mushroomdropperdsc": "Ein Pilz der seine Kappe abwirft um seine Sporen auf jede arme Seele zu übertragen die vorbeiläuft.",
         "mushroomdropperpayload": "Fallpilz-Kappe",
@@ -1331,6 +1343,8 @@
         "dirtywaterdsc": "Wenigstens ist es nicht mehr auf deinem Körper. Nicht sicher zum Trinken.",
         "algae": "Lumialgen",
         "algaedsc": "Wasser mit dichten, biolumineszierenden Algen, die darin wachsen. Sehr schwimmfähig. Nicht trinkbar",
+		"magma": "Magma",
+        "magmadsc": "Geschmolzenes Gestein. Jeder einzelne deiner Sinne schreit dich an dem fernzubleiben.",
         "oil": "Öl",
         "oildsc": "Ein zäher, schwarzer Teer. Schwierig zu durchqueren. Nicht trinkbar",
         "sap": "Baumharz",
@@ -1480,6 +1494,8 @@
         "runsetlayermodifierchancedsc": "Wie wahrscheinlich eine Ebenen-Modifikation auftreten kann, pro Ebene",
         "runsettimebetweenearthquakes": "Zeit zwischen Erdbeben",
         "runsettimebetweenearthquakesdsc": "Wie lange es durchschnittlich dauert, bis ein Erdbeben auftritt",
+		"runsettemperatureoffset": "Umgebungstemperatur-Abweichung",
+        "runsettemperatureoffsetdsc": "Wie viel wärmer/kälter die Umgebung im Durchschnitt sein soll",
         "runsetlockpickprecision": "Schlossknacken-Nachsicht",
         "runsetlockpickprecisiondsc": "Wie breit der Präzisionswinkel bei Schlossknack-Minispielen ist",
         "runsetambientlight": "Umgebungslicht",
@@ -1515,9 +1531,9 @@
         "tabinput": "Steuerung",
         "tablanguage": "Sprache",
         "gamesetreswidth": "Auflösungs-Breite",
-        "gamesetreswidthdsc": "",
+        "gamesetreswidthdsc": "Bevorzugte horizontale Auflösung. Beachte das dein Betriebssystem diese möglicherweise limitiert.",
         "gamesetresheight": "Auflösungs-Höhe",
-        "gamesetresheightdsc": "",
+        "gamesetresheightdsc": "Bevorzugte vertikale Auflösung. Beachte das dein Betriebssystem diese möglicherweise limitiert.",
         "gamesetfullscreen": "Vollbild",
         "gamesetfullscreendsc": "Wähle zwischen Fenstermodus und Randlosmodus",
 		"gamesetvsync": "V-Sync",
@@ -1526,14 +1542,22 @@
         "gamesetframeratedsc": "Ein Wert von 0 bedeutet unbegrenzt. Ein Wert höher als 0 wird zur festgelegten Bildrate. Wird überschrieben, wenn V-Sync aktiviert ist.",
         "gamesetpixelate": "Pixeliges Rendering",
         "gamesetpixelatedsc": "Schalte herunterskaliertes Rendering der Vollauflösung an/aus. Beachte: durch das deaktivieren des pixeligen Rendering geht ein Teil des beabsichtigten Grafikstils des Spiels verloren.",
+		"gamesetdarkerbackground": "Dunklere Hintergründe",
+        "gamesetdarkerbackgrounddsc": "Macht die Wände im Hintergrund der Höhle dunkler um Kontrast zu verbessern",
         "gamesetbloom": "Bloom",
         "gamesetbloomdsc": "Lässt helle Objekte schöner aussehen. Wirkt sich auch auf Linsenverschmutzung aus",
         "gamesetfilmgrain": "Filmkörnung",
         "gamesetfilmgraindsc": "Wie viel vom Rauschfilter sichtbar sein soll",
+		"gamesetbrightness": "Helligkeit",
+        "gamesetbrightnessdsc": "Wie viel heller alle Nicht-Tiefschwarz-Töne gemacht werden sollen",
         "gamesetlineofsightcount": "Line of sight Auflösung",
         "gamesetlineofsightcountdsc": "Wie detailliert der line of sight-Shader sein soll, wenn anwendbar. Höhere Werte beeinträchtigen die Leistung",
         "gamesetscreenshake": "Bildschirmwackeln",
         "gamesetscreenshakedsc": "Wie stark der Bildschirm nach schweren Stürzen, Explosionen usw. wackeln soll.",
+		"gamesetcensorpain": "Schmerz zensieren",
+        "gamesetcensorpaindsc": "Deaktiviert Schmerzgeräusche und reduziert bestimmte Textzeilen.\nNOTIZ: Dies wird nicht empfohlen, es sei denn du brauchst es unbedingt um weiterspielen zu können",
+        "gamesetcensormood": "Zufriedenheit zensieren",
+        "gamesetcensormooddsc": "Mildert Ereignisse bei niedrieger Zufriedenheit und bestimmte Textzeilen.\nNOTIZ: Dies wird nicht empfohlen, es sei denn du brauchst es unbedingt um weiterspielen zu können",
         "gamesetalwaysexpand": "Item-Beschreibungen immer erweitern",
         "gamesetalwaysexpanddsc": "Wenn aktiviert, siehst du immer erweiterte Item-Beschreibungen wenn du mit der Maus über ein Item fährst, ohne die Erweiterungs-Taste zu drücken",
         "gamesetshowhiddenmoodles": "Versteckte Moodles immer anzeigen",
@@ -1629,6 +1653,7 @@
         "amputationMinigameGuide": "Säge durch das Glied durch, um es zu amputieren. Stell sicher die Blutung danach zu stoppen.",
 		"aedMinigameGuide": "Befolge die angezeigten Anweisungen.",
         "manualDefibMinigameGuide": "Passe die Stromstärke proportional zum Fortschritt des Kammerflimmerzyklus deines Herzens an, lade auf, und dann schocke. Bei Bedarf wiederholen.\nDie empfohlene Schätzung (POW.EST) wird mit steigender INT genauer.",
+		"handCrankMinigameGuide": "Greif die Kurbel und drehe sie um aufzuladen.",
         "aedstate0": "Platziere Polster an ausgewiesenen Stellen.",
         "aedstate1": "Analysiere Puls",
         "aedstate2": "Schock empfohlen.\nDrücke Taste um zu schocken.",
@@ -1811,8 +1836,6 @@
         "hplimbforcedsc": "Die Fähigkeit des Gliedmaßes sich zu bewegen und Kraft auszuüben",
         "hpopiate": "Opiatmenge",
         "settings": "Einstellungen",
-		"custommusic": "Eigene Musik",
-        "custommusicdsc": "Öffne das Verzeichnis für benutzerdefinierte Musik. Du kannst dort .mp3/.ogg./.wav-Dateien ablegen, damit sie bei Verwendung des MP3-Players als Auswahlmöglichkeiten angezeigt werden.\nAndere Dateitypen werden nicht unterstützt.",
 		"credits": "Credits",
         "layer": "Ebene",
         "toggleheatmode": "Heizmodus einstellen",
@@ -1938,6 +1961,8 @@
         "wiki": "Wiki",
         "discord": "Discord Server",
         "translations": "Übersetzungs-repo",
+		"localefolder": "Übersetzungs-Ordner",
+        "musicfolder": "Eigene Musik",
         "healthchipcriticalalert1": "VITALFUNKTIONEN\nKRITISCH",
         "healthchipcriticalalert2": "TERMINATION\nUNMITTELBAR",
         "healthchipcriticalalert3": "ERSUCHE MEDIZINISCHE\nVERSORGUNG",
@@ -2125,7 +2150,7 @@
         "tutclosehealthpanel": "Schließen das Gesundheitsfenster.",
         "tutopenhealthpanel": "Öffne das Gesundheitsfenster.",
         "tutnice": "Nice.",
-        "startlorenote": "Jahr 25XX \n<>\nDie Menschheit hat sich technologisch signifikant weiterentwickelt. \n<>\nEin ganz bestimmtes Unternehmen widmete sich der Forschung von Biotechnik und begann, tierische sowie menschliche DNA zu kombinieren. \n<>\nDies führte zur Erschaffung der Experiment-Spezies sowie dutzender weiterer Ableger. \n<>\nNach Jahren unethischer privater Tests in Laboren haben sie sich etwas noch viel Größeres vorgenommen. \n<>\nSie wussten von einem grauen Planeten mit blühender Flora, Fauna und einer einfachen Weltraum-Route. \n<>\nBald schon wurden Tausende ihrer Experimente, Gebäude und sonstiger Fracht verschickt. \n<>\nWährend der Großteil ordnungsgemäß verschickt wurde, so wurde aufgrund eines Kalibrierungsfehlers eine große Menge Fracht irrtümlicherweise in das umfangreiche Höhlennetz des Planeten gesendet. \n<>\nDazu gehört auch ein versehentlich versandtes Stück wichtiger experimenteller Technologie, das nun tief in den unterirdischen Systemen liegt, ohne eine einfache Möglichkeit, es zurückzuholen. \n<>\nDies wurde jedoch von den Wissenschaftlern als Gelegenheit angesehen, mehr Verhaltensforschung zu betreiben, indem sie Tausende von Experimenten nach unten schicken, um die verlorene Technologie zurückzuholen. \n<>\nDie Chancen, dass es funktionierte, waren gering, aber der Versand ist billig und die Menge an Subjekten zum Verfeuern reichlich. \n<>\nDu bist eines dieser unglücklichen Exemplare.\nWiderstand ist keine Option."
+        "startlorenote": "Jahr 2XXX \n<>\nDie Technologie der Menschheit hat sich siginifikant weiterentwickelt. Dinge die zuvor unmöglich erschienen waren nun gang und gäbe.\n<>\nIm Zentrum davon stand ein Unternehmen. Dessen Fortschritte schienen geradezu wundersam, doch sie hüteten ihre Geheimnisse sorgfältig.\n<>\nVor Jahren hatten sie eine neue Spezies erschaffen: eine Kombination aus tierlicher und menschlicher DNA, sie nannten sie schlicht \"Experimente.\"\n<>\nDiese Experimente waren die perfekten Testobjekte, dem Menschen ähnlich genug, aber ganz nach ihrem Belieben zu verwenden. Rastlos arbeiteten sie an ihnen weiter, verzerrten ihre Biologie noch weiter um ihren Bedürfnisse zu entsprechen, und im Laufe der Jahre stieg die Population nur noch weiter an.\n\nKeiner von ihnen würde jemals die Außenwelt zu sehen bekommen.\n<>\nDoch nun schien es so als könne die Erde ihren Ambitionen nicht mehr gerecht werden. Mit ihrer neu entwickelten Teleportationstechnologie richteten sie ihren Blick auf einen grauen Planeten, gefüllt mit Leben.\n<>\nSchon bald wurden Unmengen an Fracht und Müll verschickt.\n<>\nAufgrund von Kalibrierungsproblemen landete zwar genauso viel im Höhlensystem des Planeten wie als auf der Oberfläche, doch das Projekt verlief reibungslos. \n<>\nJedoch, ein unbekannter Fehler führte dazu, dass ein wichtiges Stück Technologie stattdessen tief in die Höhlen gesendet wurde.\n<>\nEs dauerte nicht lange, da hatten die Wissenschaftler einen Plan ausgearbeitet. Einen Plan ohne viel Risiko für sie selbst.\n<>\nDie Chancen auf Erfolg waren gering, aber die Subjekte zum verfeuern reichlich.\n<>\nDu bist eines dieser unglücklichen Exemplare.\nWiderstand ist keine Option."
     },
     "character": [
         {
@@ -2671,16 +2696,6 @@
                 "Mein<limb> sieht nicht gut aus...",
                 "Mein<limb> ist voller Blut...",
                 "Heiliger Bimbam! Da hab ich mich aber mächtig verzapft und jetzt ist mein<limb> komplett gelb! Gottverdammt! Was mach ich denn jetzt?"
-            ],
-            "sepsis": [
-                "Oh Gott... Ich fühle mich wirklich schlecht...",
-                "Auugh... Was passiert mit mir...",
-                "Mein Körper... kämpft... erbittert...",
-                "Meinem Körper geht's nicht gut...",
-                "Guuhh... Ich fühl mich schlecht...",
-                "Fühlt sich an, als wär mein ganzer Körper am brennen...",
-                "Einfach alles in mir tut weh.",
-                "Mir geht es nicht gut..."
             ],
             "sad": [
                 "Die Lage könnte schlechter sein.",
@@ -3897,7 +3912,59 @@
             "selfdestruct": [
                 "...Ääähh... ...Was ist das für ein Piepen?...?",
                 "...Oh. Oh. OH. OH! NEIN. NEIN NEIN NEIN. WARTE. WARUM? WAS HAB ICH GEMACHT!?",
-                "...A-ah... Okay... A-also... D-dann, auf W-wiedersehen..."	
+                "...A-ah... Okay... A-also... D-dann, auf W-wiedersehen..."
+			],
+            "vomitresponse": [
+                "Ääähmm... Gehts dir gut..?"
+            ],
+            "vomitbloodresponse": [
+                "Argh! Hast du gerade... Oh... Hey, du weißt du hast gerade... Blut erbrochen, richtig?"
+            ],
+            "hungryresponse": [
+                "Da draußen kann man häufig Essen finden, weißt du...",
+                "Na ja, ich könnte dir etwas Essen geben wenn du mir im Austausch auch was gibst..?"
+            ],
+            "thirstyresponse": [
+                "Ich würd wetten du findest irgendwo etwas Wasser...",
+                "Ich hab gehört man kann bis zu Drei \"Tage\" ohne Wasser auskommen, haha..."
+            ],
+            "sadresponse": [
+                "Hey, alles ist gut... Du bist immer noch am Leben und wohlauf, das ist doch was..."
+            ],
+            "depressedresponse": [
+                "...Beruhig dich, bitte... Alles wird gut..."
+            ],
+            "selfharmresponse": [
+                "...W-warum... Hast du..."
+            ],
+            "braindamagedresponse": [
+                "...Du hörst dich nicht... Sehr gut an.",
+                "...Was?"
+            ],
+            "hotresponse": [
+                "Dann dreh die Heizug runter."
+            ],
+            "coldresponse": [
+                "Weißt du, wir haben tatsächlich eine Heizung hier..."
+            ],
+            "bleedingresponse": [
+                "Das... Sieht schlimm aus... Aber, ich... Ich bin mir sicher du kriegst das wieder hin...",
+                "H-hey, beruhig dich. Du wirst wieder in Ordnung kommen."
+			],
+            "painresponse": [
+                "Bist du okay..? Warum tut dir was weh?",
+                "Bist du auf was getreten?"
+            ],
+            "dirtyresponse": [
+                "...Wir haben eine Dusche, weißt du. Oder... Du, gehst einfach in einem der vielen Tümpel schwimmen..."
+            ],
+            "encumberedresponse": [
+                "Würde bestimmt nicht wehtun etwas von deinem Zeug bei mir zu lassen.",
+                "Ich werd mich gut um deine Sachen kümmern!"
+            ],
+            "dyingresponse": [
+                "Mist... Äh... Ich hab nie gelernt wie man andere wiederbelebt...",
+                "Ich... Äh... Ich hoffe du wirst das schaffen..."	
             ]
         },
         {
@@ -4066,6 +4133,60 @@
             ],
             "tradermovefail": [
                 "Warum sollte ich für jemanden wie dich rücken?"
+			],
+            "vomitresponse": [
+                "Du scheinst den Inhalt deines Magens entleert zu haben.",
+				"Ernsthaft? Auf MEINEN Fußboden?"
+            ],
+            "vomitbloodresponse": [
+                "...Es scheint als hättest du interne Blutungen. Bitte richte deinen Mund in absehbarer Zukunft weg von mir."
+            ],
+            "hungryresponse": [
+                "Wenn du glaubst ich würde deinen Hunger ohne Bezahlung stillen, dann irrst du dich zutiefst.",
+                "Ich bin nicht die Wohlfahrt. Finde was zu essen, oder tausche etwas mit mir."
+            ],
+            "thirstyresponse": [
+                "Viele Tümpel mit trinkbarem Wasser durchziehen diesen Ort. Nutze sie.",
+                "Führe deine Suche nach einer Wasserquelle woanders fort."
+            ],
+            "sadresponse": [
+                "Bitte, stell dein Gejammer ein."
+            ],
+            "depressedresponse": [
+                "In die Verzweiflung zu stürzen wird deine Probleme nicht lösen."
+            ],
+            "selfharmresponse": [
+                "...Dir geht es wirklich nicht gut. Hör auf damit."
+            ],
+            "braindamagedresponse": [
+                "Du bist vollkommen inkohärent.",
+                "Ich würde sagen, du hast eine Gehirnerschütterung"
+            ],
+            "hotresponse": [
+                "Wenn du dich benimmst, lasse ich dich vielleicht die Klimaanlage dieser Rettungskapsel nutzen."
+            ],
+            "coldresponse": [
+                "Mach Sport. Dir wird im Handumdrehen wieder warm werden."
+            ],
+            "bleedingresponse": [
+                "Bitte blute mich nicht voll.",
+                "Ich lege dir nahe deine Wunden zu versorgen."
+			],
+            "painresponse": [
+                "Schmerzen sind eine Garantie hier unten. Gewöhn dich daran.",
+                "Nimm ein Schmerzmittel. Du wirst doch sicherlich welches dabei haben..."
+            ],
+            "dirtyresponse": [
+                "Korrekt. Du bist dreckig. Sehe davon ab mich anzufassen, bis du dich gewaschen hast."
+            ],
+            "encumberedresponse": [
+                "Würde es dich Schmerzen diese Besitztümer bei mir zu lassen?",
+                "Was für eine reizende Stichelei."
+            ],
+            "dyingresponse": [
+                "Ich bin mir nicht sicher, ob eine HLW in dieser Situation etwas nützen wird.",
+                "Wirklich? Sterben, auf MEINEM Fußboden?",
+                "Wird panisches Verhalten die Situation auf irgendeine Weise verbessern?"	
             ]
         },
         {
@@ -4232,10 +4353,62 @@
                 "Du-ne... rüc-ken..."
             ],
             "tradermovefail": [
-                "Du-ne mögen die-sen platz..."	
+                "Du-ne mögen die-sen platz..."
+			],
+            "vomitresponse": [
+                "Fre-und... kotzen... fühlen kra-nk?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Riechen bl-ut... Von... Fre-und... Lec-ker..?"
+            ],
+            "hungryresponse": [
+                "Du-ne verstehen... Dune auch hung-rig!",
+                "Zustimmen... Du-ne brauchen Es-sen auch!"
+            ],
+            "thirstyresponse": [
+                "Du-ne trinken Pfütze... Fühlen bes-ser... Freund versuchen?",
+                "Mm-m... Schl-ürf Zeit?"
+            ],
+            "sadresponse": [
+                "Fre-und fühlen schlecht..? Warum?"
+            ],
+            "depressedresponse": [
+                "Fre-und sehr schlecht aussehen... Kom-m sitzen mit Du-ne!"
+            ],
+            "selfharmresponse": [
+                "Warum ist Fre-und verletzt? Fre-und böse?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne stimmen zu.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Du-ne niemals fühlen heiß! Du-ne lieben Hitze..."
+            ],
+            "coldresponse": [
+                "Du-ne Angst vor Käl-te... Raum ist wa-rm! Fre-und bleiben hi-er bei Dune..."
+            ],
+            "bleedingresponse": [
+                "Fre-und ist verletzt. Fre-und brauchen Hilfe!",
+                "Fre-und riechen nach Blut. Du-ne mögen."
+			],
+            "painresponse": [
+                "Fre-und verletzt..?",
+                "Du-ne ver-stehen... Du-ne auch fühlen Sch-merz! Fre-und okay?"
+            ],
+            "dirtyresponse": [
+                "Was bedeuten dreck-ig?"
+            ],
+            "encumberedresponse": [
+                "Kann nehmen Freund Zeug?",
+                "Du-ne kann erleichtern Last!"
+            ],
+            "dyingresponse": [
+                "W-as falsch mit Fre-und...?",
+                "Du-ne nicht wissen wie hel-fen..."	
             ]
         }
-            ],
+    ],
     "notes": [
         [
             {
@@ -4389,9 +4562,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Die Notiz ist zerknüllt und zerknittert, als wäre sie dazu bestimmt gewesen weggeworfen zu werden.)\n<>\nmein freund er... ich glaube er hat sich selbst umgebracht. nach einem weiteren üblen sturz hab ich versucht seine beine zu flicken aber er hat mir immer wieder gesagt ich soll mich verpissen. er hat mich immer wieder verscheucht, als wäre ich eine fliege, und mir gesagt ich soll ihn in allein lassen. ich habs nicht verstanden. ich bin losgegangen um ein paar der pflanzen zu holen damit ich versuchen konnte ihn zu bandagieren aber... als ich zurückkam hatte er eine weitere wunde. eine am arm. ich erinnere mich noch daran wie sie aussah, es war schlimm, praktisch völlig zerfetzt. mit den gefundenen pflanzen habe ich versucht die neue wunde zu versorgen aber er hat mich immer wieder weggeschubst. seine augen waren... sie sahen einfach... leer aus. ich hab ihm gesagt er soll verdammt noch mal aufhören und mich einfach helfen lassen aber er hat nicht reagiert. ein paar mal habe ich noch versucht zu helfen und er schubste mich immer wieder weg bis er dann einfach... aufhörte. ich erinnere mich wie sein körper sich entspannte, ich glaube da hat er aufgehört zu atmen. ich kann das bild nicht aus meinem kopf kriegen...\n<>\nhab... hab ich was falsch gemacht? ich schwöre ich hab nicht... was habe ich falsch gemacht? warum hat er das getan? ich... ich hab nichts gemacht. ich verstehe nicht, ich will nicht sterben... ich will nicht... ich...\n<>\n...\n<>\nhaha...\n<>\nes ist so einsam hier.\n<>\n(Du bemerkst blasse, getrocknete Tränen und getrocknetes Blut, das sich über die zerknitterte Notiz zieht.)",
+                "Item1": "(Die Notiz ist zerknüllt und zerknittert, als wäre sie dazu bestimmt gewesen weggeworfen zu werden.)\n<>\nmein freund er... ich glaube er hat sich selbst umgebracht. nach einem weiteren üblen sturz hab ich versucht seine beine zu flicken aber er hat mir immer wieder gesagt ich soll aufhören. er hat mich immer wieder verscheucht, als wäre ich eine fliege, und mir gesagt ich soll ihn in allein lassen. ich habs nicht verstanden. ich bin losgegangen um ein paar der pflanzen zu holen damit ich versuchen konnte ihn zu bandagieren aber... als ich zurückkam hatte er eine weitere wunde. eine am arm. ich erinnere mich noch daran wie sie aussah, es war schlimm, praktisch völlig zerfetzt. mit den gefundenen pflanzen habe ich versucht die neue wunde zu versorgen aber er hat mich immer wieder weggeschubst. seine augen waren... sie sahen einfach... leer aus. ich hab ihm gesagt er soll aufhören und mich einfach helfen lassen aber er hat nicht reagiert. ein paar mal habe ich noch versucht zu helfen und er schubste mich immer wieder weg bis er dann einfach... aufhörte. ich erinnere mich wie sein körper sich entspannte, ich glaube da hat er aufgehört zu atmen. ich kann das bild nicht aus meinem kopf kriegen...\n<>\nhab... hab ich was falsch gemacht? ich schwöre ich hab nicht... was habe ich falsch gemacht? warum hat er das getan? ich... ich hab nichts gemacht. ich verstehe nicht, ich will nicht sterben... ich will nicht... ich...\n<>\n...\n<>\nhaha...\n<>\nes ist so einsam hier.\n<>\n(Du bemerkst blasse, getrocknete Tränen und getrocknetes Blut, das sich über die zerknitterte Notiz zieht.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
 			{
                 "Item1": "(Auf dem Papier sind bunte Grafiken zu sehen, es scheint nicht handgeschrieben zu sein.)\n<>\nSuppe! Probieren Sie unseren Spezialtopf - einfach Fleisch und Zutaten hineingeben und köcheln lassen. Keine Sorge. Sie werden überzeugt sein, dass sich das Gewicht im Geschmack aufwiegt. Ist bis zu 737 Jahre haltbar!",
