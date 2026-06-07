@@ -4,10 +4,10 @@
     "main": {
         "bandage": "Verband",
         "bandagedsc": "Eine Verbandrolle mit Binde. Dient zur Verlangsamung von Blutungen, Stabilisierung von Brüchen und Unterstützung der Hautheilung. Hat keinen Einfluss auf die Muskelgesundheit.",
-        "rippeddressing": "Zerrissene Kleidungfetzen",
-        "rippeddressingdsc": "Ein kleiner Haufen zerrissener Kleidungsfetzen. Kann als improvisierter Verband für blutende Wunden verwendet werden.",
-        "rag": "Stofffetzen",
-        "ragdsc": "Abgenutzte, zerknüllte Stofffetzen. Können als improvisierter Verband verwendet werden. Im Inventar verwenden um dich abzutrocknen.",
+        "rippeddressing": "Textilfetzen",
+        "rippeddressingdsc": "Ein kleiner Haufen zerrissener Textilfetzen. Kann als improvisierter Verband für blutende Wunden verwendet werden.",
+        "rag": "Lumpen",
+        "ragdsc": "Abgenutzte, zerknüllte Lumpen. Können als improvisierter Verband verwendet werden. Im Inventar verwenden um dich abzutrocknen.",
         "analgesicgauze": "Medizinische Mullbinde",
         "analgesicgauzedsc": "Gewebter Mull aus Baumwolle mit schmerzstillenden Wirkstoffen. Verlangsamt Blutungen und lindert Schmerzen bei Verletzungen.",
         "alginate": "Alginatverband",
@@ -604,9 +604,9 @@
         "xaloris": "Xaloris",
         "xalorisdsc": "Ein schwammiger und dorniger Farn, der die Luft um sich herum erwärmt um so Sporen in seiner Umgebung zu verbreiten. Hält die Kälte in Schach, aber wenn man die Sporen zu lange einatmet kann das dein Immunsystem beeinträchtigen.",
         "lifepodheater": "Rettungskapsel-Heizung",
-        "lifepodheaterdsc": "Hält das Innere wohlig warm.",
+        "lifepodheaterdsc": "Hält die innere Temperatur schön angenehm.",
         "tutorialcraftingbutton": "Neustart-Taste",
-        "tutorialcraftingbuttondsc": "Drücke darauf wenn du etwas falsch gemacht hast und von vorne anfangen musst.",
+        "tutorialcraftingbuttondsc": "Drücke darauf, wenn du etwas falsch gemacht hast und von vorne anfangen musst.",
 		"barbedwirefence": "Stacheldrahtzaun",
         "barbedwirefencedsc": "Berühr nicht den pieksigen Teil.",
         "beartrap": "Alte Maschinerie",
@@ -624,7 +624,7 @@
         "coil": "Spule",
         "coildsc": "Gut geeignet, um alles Leitfähige sofort zu braten.",
         "containercrate": "Containerkiste",
-        "containercratedsc": "Enthält verschiedenartige Gegenstände.",
+        "containercratedsc": "Enthält unterschiedlichste Gegenstände.",
         "corpse": "???",
         "corpseseen": "Leiche",
         "corpsedsc": "",
@@ -636,11 +636,11 @@
         "ladderdsc": "Eine vertikale Reihe von Sprossen, die zum Auf- und Absteigen verwendet wird. Du vermutest zu wissen, wie man sie benutzt.",
 		"shadecrawler": "Schattenkriecher",
         "shadecrawlerdsc": "",
-        "wallbiter": "Sandstalker",
+        "wallbiter": "Sandpirscher",
         "wallbiterdsc": "Ein großes, flauschiges Tier mit sechs Beinen. Du siehst etwas, das wie herausragende scharfe Zähne aussieht. Es bewegt sich unberechenbar umher.",
         "thornbackyoung": "Dornenrücken",
         "thornbackyoungdsc": "Ein junger, flauschiger und sehr aggressiver Dornenrücken. Es gefällt ihnen sich durch den Boden zu graben und alles was sich in der Nähe bewegt zu zerreißen.",
-        "thornbackelder": "Antiker Dornenrücken",
+        "thornbackelder": "Uralter Dornenrücken",
         "thornbackelderdsc": "RENN!",
         "cavetick": "Höhlenzecke",
         "cavetickdsc": "",
@@ -3907,7 +3907,7 @@
 			],
             "magicheal": [
                 "...Oh wow. Ich fühl mich... Besser..?",
-                "Ahh..! ...OH. Das fühlt... Das fühlt sich besser an. Gefählt mir."
+                "Ahh..! ...OH. Das fühlt... Das fühlt sich besser an. Gefällt mir."
             ],
             "selfdestruct": [
                 "...Ääähh... ...Was ist das für ein Piepen?...?",
@@ -4848,7 +4848,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "hab gemerkt das einige von denen auffalend zerbrechlich sind. die zerbrechen schon wenn ich die nur leicht berühre. du kannst sehen wie brüchig die aussehen, die haben überall risse. seltsamerweise scheint das auch bei einigen anderen arten so zu sein die ich gesehen hab... ich frag mich ob das bei allen anderen auch so ist.",
+                "Item1": "hab gemerkt das einige von denen auffallend zerbrechlich sind. die zerbrechen schon wenn ich die nur leicht berühre. du kannst sehen wie brüchig die aussehen, die haben überall risse. seltsamerweise scheint das auch bei einigen anderen arten so zu sein die ich gesehen hab... ich frag mich ob das bei allen anderen auch so ist.",
                 "Item2": "",
                 "Item3": "experiment"
             },
