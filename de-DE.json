@@ -411,7 +411,7 @@
 		"icepack": "Kühlakku",
         "icepackdsc": "Ein Kühlbeutel gefüllt mit selbstkühlendem Kältegel. Beschleunigt die Muskelheilung, lindert Schmerzen und kühlt dich leicht ab. Kühlt sich mit der Zeit automatisch ab.",
         "cryogeniccore": "Kryogenischer Kern",
-        "cryogeniccoredsc": "Ein fortgeschrittener Apparat, der die umliegende Temperatur beeinflussen kann. Aktiviert sich von selbst, wenn es in geschmolzenes Gestein geworfen wird, oder die eigene Körpertemperatur hoch genug ist. Solidisiert sämtliches Magma um dich herum und kühlt dich beachtlich ab. Nicht wiederverwendbar.",
+        "cryogeniccoredsc": "Ein fortgeschrittener Apparat, der die umliegende Temperatur beeinflussen kann. Aktiviert sich von selbst, wenn es in geschmolzenes Gestein geworfen wird, oder die eigene Körpertemperatur hoch genug ist. Verfestigt sämtliches Magma um dich herum und kühlt dich beachtlich ab. Nicht wiederverwendbar.",
 		"armwarmers": "Armwärmer",
         "armwarmersdsc": "Ein Paar blaue Armwärmer. Bietet etwas Isolierung gegen die Kälte.",
         "carapace": "Schalenpanzer",
@@ -663,7 +663,7 @@
         "dropcapsule": "Abwurfkapsel",
         "dropcapsuledsc": "Eine künstliche Wärme geht von ihr aus.",
         "lavalamp": "Lavalampe",
-        "lavalampdsc": "Stahlt ein warmes Glühen aus und verbrennt dich bei Berührung. Du solltest eventuell vermeiden zu lange in der Nähe zu bleiben.",
+        "lavalampdsc": "Strahlt ein warmes Glühen aus und verbrennt dich bei Berührung. Du solltest eventuell vermeiden, zu lange in der Nähe zu bleiben.",
         "coldpuff": "Frostbollen",
         "coldpuffdsc": "Ein merkwürdiger, weißer Ball der von lilanen Tentakeln über dem Boden gehalten wird. Er ist sehr kalt, warum auch immer.",
         "coldpuffdsc2": "Er hat auf jeden Fall einen sehr seltsamen Mechanismus zur Verbreitung seiner Sporen.",
@@ -1409,7 +1409,7 @@
         "algae": "Lumialgen",
         "algaedsc": "Wasser mit dichten, biolumineszierenden Algen, die darin wachsen. Sehr schwimmfähig. Nicht trinkbar",
 		"redsludge": "Roter Matsch",
-        "redsludgedsc": "Absolut ekelhaft. Irgendeine Art von fleischiger Paste. Riecht räudig.",
+        "redsludgedsc": "Absolut ekelhaft. Eine Art fleischige Paste. Riecht räudig.",
 		"magma": "Magma",
         "magmadsc": "Geschmolzenes Gestein. Jeder einzelne deiner Sinne schreit dich an, dem fernzubleiben. Es wird sich wahrscheinlich mit der Zeit langsam abkühlen.",
         "oil": "Öl",
@@ -1481,7 +1481,7 @@
         "char0quirks": "[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.\n[BIOLUMINESZENTE_AUGEN] - Im Notfall bist du deine eigene Lichtquelle.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILIE] \"Canidae\"\n[AUFRUF_ZITAT] \"Ich werde gehorchen.\"\n[ERFOLGS_CHANCE] \"0.0103%\"\n[NOTIZ] \"Etwas hochnäsig.\"",
-        "char1quirks": "[NARKOLEPTISCH] - Dein Schlafzyklus ist viel kürzer, aber du verspürst keine Nebeneffekte beim schlafen auf harten Boden.\n[STATUR] - Du bist winzig!\n[ADAPTIERTE_AUGEN] - Du siehst besser und Lichtquellen reichen weiter.\n[SEMI_PFLANZENFRESSER] - Du erhältst weniger Nährwerte und dir wird schlecht, wenn du Fleisch isst.\n[DÜRR] - Erhaltene STR Erfahrung halbiert.\n[SCHÜTZE] - Du kannst Tastenbelegungen nutzen, um Schusswaffen zu hantieren.\n[EISERNE_FASADE] - Es wird mehr brauchen, um dich psychisch zu zerbrechen. Du bist nicht von der Zuneigungsvollen Art, es sei denn du brauchst wirklich jemanden.\n[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.",
+        "char1quirks": "[NARKOLEPTISCH] - Dein Schlafzyklus ist viel kürzer, aber du verspürst keine Nebeneffekte beim schlafen auf hartem Boden.\n[STATUR] - Du bist winzig!\n[ADAPTIERTE_AUGEN] - Du siehst besser und Lichtquellen reichen weiter.\n[SEMI_PFLANZENFRESSER] - Du erhältst weniger Nährwerte und dir wird schlecht, wenn du Fleisch isst.\n[DÜRR] - Erhaltene STR Erfahrung halbiert.\n[SCHÜTZE] - Du kannst Tastenbelegungen nutzen, um Schusswaffen zu hantieren.\n[EISERNE_FASADE] - Es wird mehr brauchen, um dich psychisch zu zerbrechen. Du bist nicht von der Zuneigungsvollen Art, es sei denn du brauchst wirklich jemanden.\n[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.",
 		"presetnormal": "Normal",
         "presetnormaldsc": "Das Standard Spielerlebnis. Fehler werden hart bestraft. Wissen und Situationsbewusstsein werden sehr belohnt. Zeit ist von entscheidender Bedeutung. Dein Tod ist gewiss garantiert.",
         "presetrelaxed": "Entspannt",
@@ -1948,7 +1948,7 @@
         "open": "Öffnen",
         "insertbattery": "Batterie aus der Haupthand einlegen",
         "lockpick": "Schlossknacken",
-        "finaltravel": "Augen zu und fortfahren",
+        "finaltravel": "Anschnallen und los",
         "lookcloser": "Einen Blick drauf werfen",
         "examine": "Untersuchen",
 		"learnedrecipe": "Rezept gelernt für r1.\n<color=\"green\">25 INT exp.</color> erhalten",
@@ -2010,7 +2010,7 @@
         "free": "<color=\"orange\">UMSONST!",
         "endscreenstatus": "MSN-FRACHT STATUSBERICHT",
         "endscreenunresolved": "UNGEKLÄRT",
-        "endscreenresolved": "WIEDERGEBORGEN",
+        "endscreenresolved": "GEBORGEN",
         "endscreenfailure": "KATASTROPHALER FEHLSCHLAG",
 		"endscreencasualties": "VERLUSTE:",
         "endscreenunknown": "UNBEKANNT",
@@ -2242,7 +2242,7 @@
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
-		"startlorenote": "Jahr 2XXX \n<>\nDie Technologie der Menschheit hat sich siginifikant weiterentwickelt. Dinge die zuvor unmöglich erschienen waren nun gang und gäbe.\n<>\nIm Zentrum davon stand ein Unternehmen. Dessen Fortschritte schienen geradezu wundersam, doch sie hüteten ihre Geheimnisse sorgfältig.\n<>\nVor Jahren hatten sie eine neue Spezies erschaffen: eine Kombination aus tierlicher und menschlicher DNA, sie nannten sie schlicht \"Experimente.\"\n<>\nDiese Experimente waren die perfekten Testobjekte, dem Menschen ähnlich genug, aber ganz nach ihrem Belieben zu verwenden. Rastlos arbeiteten sie an ihnen weiter, verzerrten ihre Biologie noch weiter um ihren Bedürfnisse zu entsprechen, und im Laufe der Jahre stieg die Population nur noch weiter an.\n\nKeiner von ihnen würde jemals die Außenwelt zu sehen bekommen.\n<>\nDoch nun schien es so als könne die Erde ihren Ambitionen nicht mehr gerecht werden. Mit ihrer neu entwickelten Teleportationstechnologie richteten sie ihren Blick auf einen grauen Planeten, gefüllt mit Leben.\n<>\nSchon bald wurden Unmengen an Fracht und Müll verschickt.\n<>\nAufgrund von Kalibrierungsproblemen landete zwar genauso viel im Höhlensystem des Planeten wie als auf der Oberfläche, doch das Projekt verlief reibungslos. \n<>\nJedoch, ein unbekannter Fehler führte dazu, dass ein wichtiges Stück Technologie stattdessen tief in die Höhlen gesendet wurde.\n<>\nEs dauerte nicht lange, da hatten die Wissenschaftler einen Plan ausgearbeitet. Einen Plan ohne viel Risiko für sie selbst.\n<>\nDie Chancen auf Erfolg waren gering, aber die Subjekte zum verfeuern reichlich.\n<>\nDu bist eines dieser unglücklichen Exemplare.\nWiderstand ist keine Option."
+		"startlorenote": "Jahr 2XXX \n<>\nDie Technologie der Menschheit hat sich siginifikant weiterentwickelt. Dinge die zuvor unmöglich erschienen waren nun gang und gäbe.\n<>\nIm Zentrum davon stand ein Unternehmen. Dessen Fortschritte schienen geradezu wundersam, doch sie hüteten ihre Geheimnisse sorgfältig.\n<>\nVor Jahren hatten sie eine neue Spezies erschaffen: eine Kombination aus tierlicher und menschlicher DNA, diese nannten sie schlicht \"Experimente.\"\n<>\nDiese Experimente waren die perfekten Testobjekte, dem Menschen ähnlich genug, aber ganz nach ihrem Belieben zu verwenden. Rastlos arbeiteten sie an ihnen weiter, verzerrten ihre Biologie noch weiter um ihren Bedürfnissen zu entsprechen, und im Laufe der Jahre stieg die Population nur noch weiter an.\n\nKeiner von ihnen würde jemals die Außenwelt zu sehen bekommen.\n<>\nDoch nun schien es so als könne die Erde ihren Ambitionen nicht mehr gerecht werden. Mit ihrer neu entwickelten Teleportationstechnologie richteten sie ihren Blick auf einen grauen Planeten, gefüllt mit Leben.\n<>\nSchon bald wurden Unmengen an Fracht und Müll verschickt.\n<>\nAufgrund von Kalibrierungsproblemen landete zwar genauso viel im Höhlensystem des Planeten wie als auf der Oberfläche, doch das Projekt verlief reibungslos. \n<>\nJedoch, ein unbekannter Fehler führte dazu, dass ein wichtiges Stück Technologie stattdessen tief in die Höhlen gesendet wurde.\n<>\nEs dauerte nicht lange, da hatten die Wissenschaftler einen Plan ausgearbeitet. Einen Plan ohne viel Risiko für sie selbst.\n<>\nDie Chancen auf Erfolg waren gering, aber die Subjekte zum verfeuern reichlich.\n<>\nDu bist eines dieser unglücklichen Exemplare.\nWiderstand ist keine Option."
     },
     "character": [
         {
@@ -4098,7 +4098,7 @@
             ],
             "eatBad": [
                 "Welch grauenvoller Geschmack. Nie wieder",
-                "Ew.",
+                "Igitt.",
                 "Abstoßend.",
                 "Grauenvoll.",
                 "Nur minimal dem Verhungern zu bevorzugen.",
@@ -4240,14 +4240,14 @@
             ],
             "dehydrated": [
                 "Ich bin wirklich dehydriert.",
-                "Meine Innereien warden gefährlich trocken.",
+                "Meine Innereien werden gefährlich trocken.",
                 "Sollte kein Wasser rationieren...",
                 "Ich glaube die Wasserreserven meines Körpers... sind aufgebraucht.",
                 "Muss... Flüssigkeit... wiederherstellen...",
                 "Situation verlangt.. Hydrierung...",
                 "Dehydrierung...",
                 "Dringlich... Wasser.",
-                "Austrocken ist... ein erbärmlicher Weg... zu sterben...",
+                "Austrocknen ist... ein erbärmlicher Weg... zu sterben...",
                 "Flüssigkeitszufuhr ist kritisch für bestehendes Überleben..."
             ],
             "limbmuscle": [
@@ -4312,7 +4312,7 @@
                 "Meine Geduld ist strapaziert.",
                 "Unzufrieden.",
                 "Ich kann mein Ziel nicht aufgeben.",
-                "Ich benötigr Unterhaltung...",
+                "Ich benötige Unterhaltung...",
                 "Niedrige Moral.",
                 "Welch einsames Schicksal.",
                 "H-hhnnmm...",
@@ -4408,7 +4408,7 @@
                 "Ich muss diese Wunde veröden.",
                 "Diese Wunde benötigt sofortige Aufmerksamkeit.",
                 "Ich verliere Blut.",
-                "Solch ein schöne Gelbton.",
+                "Solch ein schöner Gelbton.",
                 "Nein! Böse! Bleib drinnen, Blut!",
                 "Ich benötige Verband.",
                 "Das ist Blut, aus meinem Körper kommend.",
@@ -4510,7 +4510,7 @@
             "breakcorpse": [
                 "Welch graunvollen, ekelhaften Akt habe ich begangen.",
                 "Ich tue mich schwer den Sinn hinter dem was ich gerade getan habe zu finden.",
-                "Ew. Ew, ew, ew ew, Ew.",
+                "Igitt. Igitt, igitt, igitt, igitt, igitt.",
                 "Ich glaube ich habe etwas ins Auge bekommen.",
                 "Das war unnötig.",
                 "Wow. Wie ekelhaft von mir."
@@ -4635,17 +4635,17 @@
             "pain": [
                 "Ich habe Schmerzen.",
                 "Au.",
-                "Mein <limb> sendet Schmerzstimuli.",
+                "Mein<limb> sendet Schmerzstimuli.",
                 "Schmerzen.",
                 "Ich verspüre Unwohlsein um mein<limb>.",
                 "Mein<limb> leidet.",
                 "Das fühlt nicht gut an.",
-                "Mein<limb> schmerz.",
+                "Mein<limb> schmerzt.",
                 "Schmerzstimuli sind präsent.",
                 "Mist.",
                 "Yelp...",
                 "*seufz*",
-                "Unangenehmes Gefühl in mein<limb>."
+                "Mein<limb>. Was ein unangenehmes Gefühl."
             ],
             "hitgroundhard": [
                 "Auh!",
@@ -4693,7 +4693,7 @@
             "wet": [
                 "Mein Fell hat einen hohen Wasseranteil.",
                 "Ich bin der Feuchte.",
-                "I bin nass.",
+                "Ich bin nass.",
                 "Ein unangenehmes Gefühl um meinen Körper herum.",
                 "Mein Fell ist nass geworden.",
                 "Feuchtigkeit hat sich um mich herum angesammelt.",
@@ -4705,7 +4705,7 @@
             "dirty": [
                 "Ich muss mich säubern um Komplikationen zu vermeiden.",
                 "Ich bin räudig. Ich mag es nicht mich selbst so zu erleben.",
-                "Ew. Ich bin schmutzing. So sollte ich nicht vor andere treten.",
+                "Igitt. Ich bin schmutzing. So sollte ich nicht vor andere treten.",
                 "Ich sollte diesen Dreck von mir abwaschen.",
                 "Suboptimale Hygiene.",
                 "Es scheint als wäre ich mit Dreck bedeckt.",
@@ -5695,7 +5695,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "stell sicher das du antibiotika und so dabei hast. ich glaub die lilanen bringen dein immunsystem durcheinander. die haben so einen leichten lila dunst um sich... ich hab eine weile neben einem gesessen um mich auszuruhen, und gemerkt wie meine vitalwerte gesunken sind über meinen chip. scheint eine art sepsis-reaktion zu sein. Ich glaube mir wird nichts passieren",
+                "Item1": "stell sicher das du antibiotika und so dabei hast. ich glaub die lilanen bringen dein immunsystem durcheinander. die haben so einen leichten lila dunst um sich... ich hab eine weile neben einem gesessen um mich auszuruhen, und gemerkt wie meine vitalwerte gesunken sind über meinen chip. scheint eine art sepsis-reaktion zu sein. ich glaube mir wird nichts passieren",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5762,32 +5762,32 @@
 		],
         [
             {
-                "Item1": "there is some kind of weird machine thing... i think it disguised itself as one of the crates i keep finding around. it shot something at me... though, while it did hurt, it also cooled me down nicely... i cant wrap my mind around these things",
+                "Item1": "da ist so ein seltsames maschinen ding... ich glaube es hat sich als eine von den kisten getarnt die ich hier immer wieder finde. es hat mit was nach mir geschossen... naja, es hat zwar weh getan, aber es hat mich auch angenehm abgekühlt... ich kann mir keinen reim auf diese dinger machen",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "cold boom thing good",
+                "Item1": "kaltes kabumm ding gut",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "I brought over a small amount of these odd shifting cores from the previous biome I was in. It seems by letting them transform into a \"manifestation\", I am able to use them as a source of infinite nutrition and hydration, as one core turns into two upon manifesting. Quite useful.",
+                "Item1": "Ich habe eine kleine Menger dieser eigenartigen, sich verändernden Kerne aus dem letzten Biom in dem ich war mitgebracht. Es scheint, indem man sie zu einer \"Manifestation\" transformieren lässt, bin ich in der Lage diese als unendliche Nahrungs- und Wasserquelle zu nutzen, da ein einzelner Kern sich bei der Manifestierung in zwei verwandelt. Sehr nützlich.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "found some kind of weird alien looking ball out of some kind of drone... it said something about \"cryo\" on it? i didnt have a use for it so i threw it into a pool of those melted rocks... and it solidified them..?",
+                "Item1": "hab eine seltsame unbekannt aussehende Kugel in irgendeiner art drohne gefunden... da stand irgendwas von wegen \"Kryo\" drauf? ich hatte keinen nutzen dafür und hab sie deswegen in ein becken mit diesen geschmolzenen steinen geworfen... und sie hat die steine wieder verfestigt..?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my eyes afterwards without cleaning my hands. ow.",
+                "Item1": "verbrenn mir ständig die pfoten an diesen heißen steinen. ich hab angst es könnte sich entzünden... aber, diese leuchtenden orangenen ranken schenken mir tatsächlich ein wenig linderung wenn ich sie um die wunde wickle. ich hab den fehler gemacht danach meine augen zu berühren ohne die hände zu waschen. aua.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found an odd hole residing on the wall next to me. After peering inside, out of said hole came out an odd, dry tentacle, which proceeded to briefly attach itself to me, make some kind of sucking motion, then disappear back into its den. While I was quite afraid after that occurence, I appear to be fine.<>\nI saw no noticeable change in the \"Health Panel\", though it is entirely possible I have missed something. Whatever this creature is, it does not seem to pose any significant danger to passers by.",
+                "Item1": "Ich habe ein seltsames Loch gefunden, welches sich an der Wand neben mir aufhält. Nachdem ich hineingeschaut hatte, kam aus dem besagten Loch ein merkwürdiger, trockener Tentakel heraus, der sich kurz an mir befestigte, eine Art Saugbewegung ausübte, um dann wieder in sein Versteck zu verschwinden. Obwohl ich nach diesem Vorfall ziemliche Angst hatte, scheint es mir gut zu gehen.<>\nIch sah keine merkbaren Veränderungen im \"Gesundheitsfenster\", jedoch ist es durchaus möglich, dass mir etwas entgangen ist. Was auch immer diese Kreatur sein mag, sie scheint keine nennenswerte Gefahr für Vorbeikommende darzustellen.",
                 "Item2": "",
                 "Item3": "milky"
             }	
