@@ -121,7 +121,7 @@
         "syringe": "Spritze",
         "syringedsc": "Eine 100ml Spritze, mit der Flüssigkeit intravenös injiziert werden kann. Sie ist selbstgemacht.",
 		"scrapmetal": "Metallschrott",
-        "scrapmetaldsc": "Stahlteile einer zerstörten Maschinen. Können bei über 25% Haltbarkeit platziert werden. Häufig als Währung zwischen Überlebenden verwendet, sowie zum craften",
+        "scrapmetaldsc": "Stahlteile einer zerstörten Maschinen. Können bei über 25% Haltbarkeit platziert werden. Häufig als Währung zwischen Überlebenden verwendet, sowie zum craften.",
         "climbingrope": "Kletterseil",
         "climbingropedsc": "Ein langes, verstärktes Seil mit Befestigungspunkten an beiden Enden. Du kannst es über einen großen Abgrund platzieren und zum Herunterklettern verwenden. Hält zwei Benutzungen.",
         "circuitboard": "Platine",
@@ -239,7 +239,7 @@
         "shovel": "Metallschaufel",
         "shoveldsc": "Ein Werkzeug, das speziell zum effizienten Verschieben von Erde und anderen losen Materialien entwickelt wurde. Auch wenn du so etwas noch nie zuvor in deinem Leben gesehen hast, ist die Verwendung keine Wissenschaft.",
         "woodshovel": "Holzschaufel",
-        "woodshoveldsc": "Ein Werkzeug, das speziell zum effizienten Verschieben von Erde und anderen losen Materialien entwickelt wurde. Hergestellt aus sprödem, aber dennoch leichtem Material",
+        "woodshoveldsc": "Ein Werkzeug, das speziell zum effizienten Verschieben von Erde und anderen losen Materialien entwickelt wurde. Hergestellt aus sprödem, aber dennoch leichtem Material.",
         "pitchfork": "Metall-Mistgabel",
         "pitchforkdsc": "Ein landwirtschaftliches Gerät zum Ausheben von losem Material wie Heu, Stroh, Mist oder Laub. Aus Stahl.",
         "woodpitchfork": "Holz-Mistgabel",
@@ -329,7 +329,7 @@
         "safetyglasses": "Schutzbrille",
         "safetyglassesdsc": "Eine robuste Brille aus Plastik. Bietet geringfügigen Kopfschutz.",
         "autozoomgoggles": "Auto-Zoom-Brille",
-        "autozoomgogglesdsc": "Eine Brille, die die Sicht des Benutzers durch Zoomen vergrößern kann, damit dieser weiter sehen kann.",
+        "autozoomgogglesdsc": "Eine Brille, welche die Sicht des Benutzers durch Zoomen vergrößern kann, damit dieser weiter sehen kann.",
         "blindfold": "Augenbinde",
         "blindfolddsc": "Ein schwarzes Stück Stoff, mit dem du deine Augen bedecken kannst. Bietet geringfügigen Schutz, schließt aber die Augen deines Charakters.",
         "balaclava": "Sturmhaube",
@@ -423,7 +423,7 @@
         "plushie": "Plüschtier",
         "plushiedsc": "Es macht ein quietschendes Geräusch wenn du es drückst. Du könntest deine Frustration daran auslassen, wenn du dich niedergeschlagen fühlst...",
         "tornshirt": "Zerrissenes Shirt",
-        "tornshirtdsc": "Ein altes, zerrissenes blaues Shirt. Bietet ein klein wenig Schutz und Isolierung",
+        "tornshirtdsc": "Ein altes, zerrissenes blaues Shirt. Bietet ein klein wenig Schutz und Isolierung.",
         "rangefinder": "Entfernungsmesser",
         "rangefinderdsc": "Ein Gerät zur Messung der Entfernung zu abgelegenen Objekten. Bei Benutzung zeigt er dir die Distanz von dem an, wohin du ihn richtest.",
         "mindwipe": "Gedächtnislöscher",
@@ -503,7 +503,7 @@
         "scrappanel": "Schrottplatte",
         "scrappaneldsc": "Ein dünnes Stück Schrott. Nicht besonders stark, aber reicht zum Crafting aus.",
         "scraptube": "Schrottrohr",
-        "scraptubedsc": "Hohles Rohr aus Altmetall. Nicht besonders stark, aber reicht zum Crafting aus. Könnte auch als grobschlechter Hammer verwendet werden. ",
+        "scraptubedsc": "Hohles Rohr aus Altmetall. Nicht besonders stark, aber reicht zum Crafting aus. Könnte auch als grobschlechter Hammer verwendet werden.",
         "woodscraps": "Holzteile",
         "woodscrapsdsc": "Stücke aus zerstörtem Holz. Du könntest sie wahrscheinlich zu einem Crafting Material verarbeiten.",
         "woodcube": "Holzwürfel",
@@ -513,7 +513,7 @@
         "canvas": "Stoffgewebe",
         "canvasdsc": "Dünnes, flexibles Gewebe aus Pflanzenfaser. Leicht und Widerstandsfähig für das, was es ist.",
         "nails": "Nägel",
-        "nailsdsc": "Ein Haufen grober Nägel. Sollten genug für ein paar Rezepte sein. Du wirst einen Hammer brauchen, um sie verwendbar zu machen",
+        "nailsdsc": "Ein Haufen grober Nägel. Sollten genug für ein paar Rezepte sein. Du wirst einen Hammer brauchen, um sie verwendbar zu machen.",
         "string": "Schnur",
         "stringdsc": "Eine täuschend starke, dünne Schnur aus aufbereitetem Pflanzenmaterial. Wird in komplizierteren Rezepten verwendet.",
         "stick": "Stock",
@@ -555,7 +555,7 @@
         "campfire": "Lagerfeuer",
         "campfiredsc": "Ein gezündetes Lagerfeuer. Warm und gemütlich, in dessen unmittelbarer Nähe wirst du dich aufwärmen. Wird bei Kochrezepten als Hitzequelle benötigt.",
         "firestarter": "Feuerstarter",
-        "firestarterdsc": "Ein Gerät zum Entzünden eines Feuers durch Reibung zwischen einem schnell rotierenden Holzstab und einer Vertiefung eines stationären Holzstücks. In Laiensprache: Stöckchen drehi, Feuerchen starti. Kann bis zu 3 mal verwendet werden bevor er ausbrennt. ",
+        "firestarterdsc": "Ein Gerät zum Entzünden eines Feuers durch Reibung zwischen einem schnell rotierenden Holzstab und einer Vertiefung eines stationären Holzstücks. In Laiensprache: Stöckchen drehi, Feuerchen starti. Kann bis zu 3 mal verwendet werden bevor er ausbrennt.",
         "charcoal": "Holzkohle",
         "charcoaldsc": "Kleines, leichtes Stück Holzkohle. Kann als brennbare Zutat für Crafting verwendet werden.",
         "ryebulb": "Roggenknolle",
@@ -563,7 +563,7 @@
         "ryeflour": "Roggenmehl",
         "ryeflourdsc": "Ein Pulver das hauptsätzlich zum Backen verwendet wird. Du wirst wahrscheinlich Wasser und eine Hitzequelle brauchen, um damit was anzufangen.",
         "bread": "Brot",
-        "breaddsc": "Ein Laib Brot aus Mehl und Wasser. Das einfachste was du je essen könntest, doch es ist nicht abstoßend und hält auch lange. ",
+        "breaddsc": "Ein Laib Brot aus Mehl und Wasser. Das einfachste was du je essen könntest, doch es ist nicht abstoßend und hält auch lange.",
         "cake": "Kuchen",
         "cakedsc": "Ein gebackenes, süßes Gebäck mit einem Glasurüberzug. Groß, sättigend und sehr lecker, erregt jedoch aufgrund des Zuckergehalts etwas Übelkeit, wenn man zu viel davon isst.",
 		"pemmican": "Pemmikan",
@@ -993,7 +993,7 @@
         "clawdamage1": "Stumpfe Krallen",
         "clawdamage2": "Kaputte Krallen",
         "keratinbooster": "Beschleunigtes Wachstum",
-        "impendingdoom": "Ein gefühl nahender Verdammnis.",
+        "impendingdoom": "Ein gefühl nahender Verdammnis",
         "horrified": "PANIK",
 		"focused": "FOKUSSIERT",
 
@@ -1407,13 +1407,13 @@
         "dirtywater": "Schmutziges Wasser",
         "dirtywaterdsc": "Wenigstens ist es nicht mehr auf deinem Körper. Nicht sicher zum Trinken.",
         "algae": "Lumialgen",
-        "algaedsc": "Wasser mit dichten, biolumineszierenden Algen, die darin wachsen. Sehr schwimmfähig. Nicht trinkbar",
+        "algaedsc": "Wasser mit dichten, biolumineszierenden Algen, die darin wachsen. Sehr schwimmfähig. Nicht trinkbar.",
 		"redsludge": "Roter Matsch",
         "redsludgedsc": "Absolut ekelhaft. Eine Art fleischige Paste. Riecht räudig.",
 		"magma": "Magma",
         "magmadsc": "Geschmolzenes Gestein. Jeder einzelne deiner Sinne schreit dich an, dem fernzubleiben. Es wird sich wahrscheinlich mit der Zeit langsam abkühlen.",
         "oil": "Öl",
-        "oildsc": "Ein zäher, schwarzer Teer. Schwierig zu durchqueren. Nicht trinkbar",
+        "oildsc": "Ein zäher, schwarzer Teer. Schwierig zu durchqueren. Nicht trinkbar.",
         "sap": "Baumharz",
         "sapdsc": "Ein zäher, schmackhafter Harz, produziert von Dschungelbäumen. Sehr zuckerhaltig.",
         "fat": "Fett",
@@ -1421,10 +1421,10 @@
         "soap": "Seife",
         "soapdsc": "Seife aus Tierfett. Kann im Gesundheitsfenster verwendet werden um Dreck abzuwaschen, und um Wunden leicht zu desinfizieren.",
         "producejuice": "Gemüse-Frucht Saft",
-        "producejuicedsc": "Ein Haufen Früchte, Gemüse, und was auch immer sonst du finden konntest, zerstampft und gemischt mit Wasser. Es schmeckt... interessant. ",
+        "producejuicedsc": "Ein Haufen Früchte, Gemüse, und was auch immer sonst du finden konntest, zerstampft und gemischt mit Wasser. Es schmeckt... interessant.",
         "refinedjuice": "Raffinierter Saft",
         "refinedjuicedsc": "Durchgekochter, besser gestampfter und gemischter Gemüse-Frucht Saft. Sehr lecker und nährstoffreich!",
-        "liquiddescription": "Hinhocken und stehen bleiben, um zu trinken.",
+        "liquiddescription": "Hinhocken und stehen bleiben, um zu trinken",
         "Head": "Kopf",
         "UpTorso": "Thorax",
         "DownTorso": "Unterleib",
@@ -1463,7 +1463,7 @@
         "dunetraderdsc": "Groß, breit, imposant, mit Muskeln statt Hirn. Sie haben komische Flossen über ihrem ganzen Körper, 6 Stacheln die aus den Seiten ihres Kopfes abstehen und ein erschreckend großen Mund der voll mit großen, scharfen Zähnen gereiht ist. Es sieht aus als hätten sie auch Kiemen rund um ihre Brust. Sie sind zwar nicht direkt aggressiv, doch sie sind zum Großteil nur von Hunger getrieben, und werden warscheinlich kein Interesse an sonstige Sachen die du ihnen gibst haben. Du musst um einen besseren Weg denken, um auf ihre gute Seite zu kommen.",
         "Shelly": "Shelly",
         "clicktocontinue": "Klicke um fortzufahren...\nESC zum skip überspringen",
-        "favouriteditem": "Favorisierte Gegenstände werden nicht im Crafting verwendet.",
+        "favouriteditem": "Favorisierte Gegenstände werden nicht im Crafting verwendet",
         "mainhand": "Haupthand",
         "secondaryhand": "Sekundär- hand",
         "mouth": "Mund",
@@ -1481,7 +1481,7 @@
         "char0quirks": "[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.\n[BIOLUMINESZENTE_AUGEN] - Im Notfall bist du deine eigene Lichtquelle.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILIE] \"Canidae\"\n[AUFRUF_ZITAT] \"Ich werde gehorchen.\"\n[ERFOLGS_CHANCE] \"0.0103%\"\n[NOTIZ] \"Etwas hochnäsig.\"",
-        "char1quirks": "[NARKOLEPTISCH] - Dein Schlafzyklus ist viel kürzer, aber du verspürst keine Nebeneffekte beim schlafen auf hartem Boden.\n[STATUR] - Du bist winzig!\n[ADAPTIERTE_AUGEN] - Du siehst besser und Lichtquellen reichen weiter.\n[SEMI_PFLANZENFRESSER] - Du erhältst weniger Nährwerte und dir wird schlecht, wenn du Fleisch isst.\n[DÜRR] - Erhaltene STR Erfahrung halbiert.\n[SCHÜTZE] - Du kannst Tastenbelegungen nutzen, um Schusswaffen zu hantieren.\n[EISERNE_FASADE] - Es wird mehr brauchen, um dich psychisch zu zerbrechen. Du bist nicht von der Zuneigungsvollen Art, es sei denn du brauchst wirklich jemanden.\n[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.",
+        "char1quirks": "[NARKOLEPTISCH] - Dein Schlafzyklus ist viel kürzer, aber du verspürst keine Nebeneffekte beim schlafen auf hartem Boden.\n[STATUR] - Du bist winzig!\n[ADAPTIERTE_AUGEN] - Du siehst besser und Lichtquellen reichen weiter.\n[SEMI_PFLANZENFRESSER] - Du erhältst weniger Nährwerte und dir wird schlecht, wenn du Fleisch isst.\n[DÜRR] - Erhaltene STR Erfahrung halbiert.\n[SCHÜTZE] - Du kannst Tastenbelegungen nutzen, um Schusswaffen zu hantieren.\n[EISERNE_FASADE] - Es wird mehr brauchen, um dich psychisch zu zerbrechen. Du bist nicht von der zuneigungsvollen Art, es sei denn du brauchst wirklich jemanden.\n[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.",
 		"presetnormal": "Normal",
         "presetnormaldsc": "Das Standard Spielerlebnis. Fehler werden hart bestraft. Wissen und Situationsbewusstsein werden sehr belohnt. Zeit ist von entscheidender Bedeutung. Dein Tod ist gewiss garantiert.",
         "presetrelaxed": "Entspannt",
@@ -1772,7 +1772,7 @@
         "watchtemperature": "Temperatur: ",
 		"watchfibrillation": "Kammerflimmern: ",
         "mp3play": "Jetzt spielt: ",
-        "rechargingstationcheer": "Genießen Sie während der Wartezeit einige qualitative Melodien.",
+        "rechargingstationcheer": "Genießen Sie während der Wartezeit einige qualitative Melodien",
         "discretionwarning": "Dieses Spiel enthält Darstellungen von Gewalt, Selbstverletzung und allgemeines Leiden.\n<color=\"grey\">Drücke LMT um fortzufahren",
         "healthpaneltip": "Gesundheitsfenster (R)",
         "craftrepair": "Reparieren ",
@@ -1780,7 +1780,7 @@
         "crafttipdsc": "Rufe das Crafting-Menu auf\n\nZiehe einen Gegenstand hierher um seine Rezepte anzuzeigen",
         "craftsearchrecipes": "Suche Rezepte...",
         "craftingredients": "Zutaten",
-        "craftingredientsdsc": "Favorit (<>) Gegenstände werden beim Crafting nicht verwendet.",
+        "craftingredientsdsc": "Favorit (<>) Gegenstände werden beim Crafting nicht verwendet",
         "craftinfo": "Info",
         "craftnotmadebefore": "<sprite index=25>Du hast das nie zuvor gemacht.",
         "craftnotmadebeforetip": "Neue Rezepte zu craften gibt INT Erfahrung und einen kleinen Zufriedenheits Boost.",
@@ -1829,8 +1829,8 @@
         "cqfat": "Fett",
         "cqcondiment": "Gewürze",
 		"handswitchtip": "Haupthand wechseln",
-        "handswitchdsc": "Wechsel deine Haupthand zwischen rechts/links\nMach das um mit deinem zweiten Arm zu graben, sollte der Hauptarm gebrochen sein\nDein linker Arm ist etwas schwächer als der rechte.",
-        "handswitchwarning": "<color=\"orange\">WARNUNG\n</color>Du hast weniger Geschick in deiner linken Hand.",
+        "handswitchdsc": "Wechsel deine Haupthand zwischen rechts/links\nMach das um mit deinem zweiten Arm zu graben, sollte der Hauptarm gebrochen sein\nDein linker Arm ist etwas schwächer als der rechte",
+        "handswitchwarning": "<color=\"orange\">WARNUNG\n</color>Du hast weniger Geschick in deiner linken Hand",
         "speed1": "Normal",
         "speed2": "Schnell",
         "speed3": "Sehr Schnell",
@@ -2284,7 +2284,7 @@
                 "Tja. Das war dann wohl das.",
                 "Uuunnd da wären wir!",
                 "Ich hoffe ich sehe meine Freunde irgendwann wieder.",
-                "HALLO!? IST HIER JEMAND?",
+                "HALLO!? IST HIER JEMAND!?",
                 "Es ist schön, einmal keine weißen Fliesen zu sehen...",
                 "Wenigstens bin ich noch am Leben...",
                 "Das ist dann wohl Endstation.",
@@ -2373,7 +2373,7 @@
             ],
             "eatBad": [
                 "Ew!",
-                "Argh! Was ist das denn?",
+                "Argh! Was ist das denn!?",
                 "Igitt!",
                 "Ich glaub mir wird schlecht...",
                 "Warum esse ich das!?",
@@ -2383,7 +2383,7 @@
                 "Das ist unerträglich.",
                 "Muss ich das wirklich essen? Ugh.",
                 "Pfui! Das schmeckt so furchtbar!",
-                "Ew ew ew! Uugh!",
+                "Pfui pfui pfui! Uugh!",
                 "Das hat grässlich geschmeckt!",
                 "Das möchte ich nie wieder essen.",
                 "Uugh! Ekelhaft!!",
@@ -2406,7 +2406,7 @@
                 "Bähhh! Nein! Ew!",
                 "Ekelhaft!",
                 "Ich wollte das nicht essen.",
-                "Was zum FICK esse ich da?"
+                "Was zum FICK esse ich da!?"
             ],
             "refuseEat": [
                 "Ich esse das nicht.",
@@ -2787,7 +2787,7 @@
                 "Mein<limb> sieht verwundet aus.",
                 "Mein<limb> sieht nicht gut aus...",
                 "Mein<limb> ist voller Blut...",
-                "Heiliger Bimbam! Da hab ich mich aber mächtig verzapft und jetzt ist mein<limb> komplett gelb! Gottverdammt! Was mach ich denn jetzt?"
+                "Heiliger Bimbam! Da hab ich mich aber mächtig verzapft und jetzt ist mein<limb> komplett gelb! Gottverdammt! Was mach ich denn jetzt!?"
             ],
             "sad": [
                 "Die Lage könnte schlechter sein.",
@@ -2931,7 +2931,7 @@
                 "Wurde ich geboren, nur um Schmerz zu empfinden?",
                 "Damit werden sie nicht davonkommen.",
                 "Aufhören... bitte aufhören...",
-                "Mein. Geduldsfaden. Ist. Kurz. ",
+                "Mein. Geduldsfaden. Ist. Kurz.",
                 "Ich muss high werden. Ich brauche das.",
                 "Ich werd mir mein beschissenes Leben nehmen.",
                 "Ich bin kurz vorm FUCKING ausrasten.",
@@ -2984,7 +2984,7 @@
                 "Das ist... was du verdienst... Arschloch... Fick dich... Hahahaha...",
                 "Uuund... fertig... hahah... sehr gut...",
                 "Das... fuck... Ahhhhhh... Das sollte reichen... Haha...",
-                "J-ja... nimm das...  Mistkerl... Das wird höllisch wehtun...",
+                "J-ja... nimm das... Mistkerl... Das wird höllisch wehtun...",
                 "Du verdienst das... Haha... Der Schmerz tut guuut...",
                 "AAHHAHA!! FUCK yeah... Fuck yeah. Hahaha... Auuu...",
                 "Hahah... das ist besser... ja... Viel besser...",
@@ -3030,7 +3030,7 @@
                 "Fickt euch. FICKT euch. Ich hab GENUG. ICH BIN AM FUCKING ENDE!",
                 "Ich VERLASSE diesen verfickten Ort, egal ob ich es letztendlich schaffe oder NICHT. FICKT EUCH.",
                 "SCHEISS drauf. Es ist verdammt noch mal VORBEI. Zur Hölle mit meinem Leben.",
-                "Zur Hölle mit allem. Ich bin weg. So eine Scheiße. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. ",
+                "Zur Hölle mit allem. Ich bin weg. So eine Scheiße. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus. Ich bin raus.",
                 "So eine Scheiße... Ich habs fucking Satt... Könnt mich all mal...",
                 "Ich hau ab. Ich hoffe ich komme dafür nicht in die Hölle.",
                 "Die können mich als vertrocknete Leiche in einem Graben wiederfinden. Als ob das von beschissener Bedeutung wäre.",
@@ -3166,7 +3166,7 @@
                 "Hey! Bist du... O-oh...",
                 "Oh fuck, man... Das ist ein unschöner Anblick.",
                 "Nein nein nein nein. Oh Gott...",
-                "Er tut mir leid... ",
+                "Er tut mir leid...",
                 "Ich hoffe dass ich nicht so enden werde.",
                 "Oje... Ew... Man.",
                 "Ich glaube er atmet nicht...",
@@ -3803,11 +3803,11 @@
             ],
             "traderhugfail": [
                 "AHHH! Fass mich nicht einfach so an...",
-                "Hey! Kein rumfummeln",
+                "Hey! Kein rumfummeln.",
                 "Aghh! Hey! Nicht anfassen!",
                 "Ich passe...",
                 "Nein danke.",
-                "Wa- Hey! Nimm deine Pfoten weg!",
+                "Wa- Hey! Nimm deine Pfoten weg.",
                 "Hey! Fass mich nicht an! Ich vertraue dir nicht."
             ],
             "traderhagglesuccess": [
@@ -3849,7 +3849,7 @@
             ],
             "tradergiveitemrefuse": [
                 "Okay... das war genug für heute. Meine Tasche ist ganz voll.",
-                "Hey, genug Geschenke! Ich will dir nicht mein ganzen Vorrat geben!"
+                "Hey, genug Geschenke! Ich will dir nicht mein ganzen Vorrat geben."
             ],
             "traderbuy": [
                 "Hier, für dich!",
@@ -3977,7 +3977,7 @@
                 "Seit wann riecht denn alles so...?",
                 "Das schmeckt falsch. Sehr falsch... Bin ich krank...?",
                 "Gh... Hh-h...",
-                "Was war das?",
+                "Was war das!?",
                 "Bilde... Bilde ich mir das nur ein...?"
             ],
             "lastmoments": [
@@ -4000,7 +4000,7 @@
 			],
             "magicheal": [
                 "...Oh wow. Ich fühl mich... Besser..?",
-                "Ahh..! ...OH. Das fühlt... Das fühlt sich besser an. Gefällt mir."
+                "Ahh..! ...Oh. Das fühlt... Das fühlt sich besser an. Gefällt mir."
             ],
             "selfdestruct": [
                 "...Ääähh... ...Was ist das für ein Piepen?...?",
@@ -4767,7 +4767,7 @@
                 "...Irgendwas stimmt nicht.",
                 "Metallischer... Geschmack. Impliziert... Hmh...",
                 "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
-                "Das Buntglasfenster hatte Streifen aus Rot, Geld und Orange.",
+                "Das Buntglasfenster hatte Streifen aus Gelb, Orange und Rot.",
                 "Nichtssein sieht die Sonne.",
                 "Benzin schießt auf Ananass mit einem Maschinengewehr.",
                 "Das Licht am Ende des Tunnels wurde durch Bäume erschüttert.",
@@ -4775,7 +4775,7 @@
                 "Ich schmecke etwas metallsiches in meinem Mund",
                 "Mein Kopf fühlt sich komisch an.",
                 "Ich bin kaputt.",
-                "Wer ist Joe...?"
+                "Das ist nicht lustig, aber funny..."
             ],
             "lastmoments": [
                 "Hnnh... Hmmnnhhh... Nicht... Gut...",
@@ -4992,7 +4992,7 @@
             ],
             "braindamagedresponse": [
                 "Du bist vollkommen inkohärent.",
-                "Ich würde sagen, du hast eine Gehirnerschütterung"
+                "Ich würde sagen, du hast eine Gehirnerschütterung."
             ],
             "hotresponse": [
                 "Wenn du dich benimmst, lasse ich dich vielleicht die Klimaanlage dieser Rettungskapsel nutzen."
@@ -5103,7 +5103,7 @@
                 "Dune b-ehält... Dune brauch-t... me-hr..."
             ],
             "traderthreatensuccess": [
-                "Kein brauchen anstr-engen... nimm Ding... Fi-es",
+                "Kein brauchen anstr-engen... nimm Ding... Fi-es...",
                 "Dune nicht k-ämpfen... nimm Di-ng und geh... Ggrhhr...",
                 "Fr-eund tol-ler... Jäger! Dune... fürch-tet... D-u nimmst...",
                 "Dune schwäch-er... Dune gibt... auf... n-imm und g-eh...",
@@ -5259,7 +5259,7 @@
 				"Item3": "experiment"
             },
             {
-                "Item1": "es ist furchtbar. es ist so fucking furchtbar. ich kann nicht mehr. das ist eine selbstmordmission. gebt alle hoffnung auf. es hat keinen sinn.",
+                "Item1": "es ist furchtbar. es ist so fucking furchtbar. ich kann nicht mehr. das ist eine selbstmordmission. gebt alle hoffnung auf. es hat keinen sinn",
                 "Item2": "Sprites/noteDrawings/x",
 				"Item3": "experiment"
             },
@@ -5582,12 +5582,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Der Knopf neben dem Abzug einer Pistole ist der Magazinlöser, während es bei einer Schrotflinte in der Regel die Sicherung ist. Außerdem,  bei jeder Benutzung des Verschlusses (wie dem Zurückziehen des Schlittens) wird die Patrone in der Kammer ausgeworfen. Das letzte Mal, als ich das gemacht habe, habe ich eine Schrotpatrone verloren – ziemlich ärgerlich.",
+                "Item1": "Der Knopf neben dem Abzug einer Pistole ist der Magazinlöser, während es bei einer Schrotflinte in der Regel die Sicherung ist. Außerdem, bei jeder Benutzung des Verschlusses (wie dem Zurückziehen des Schlittens) wird die Patrone in der Kammer ausgeworfen. Das letzte Mal, als ich das gemacht habe, habe ich eine Schrotpatrone verloren – ziemlich ärgerlich.",
                 "Item2": "Sprites/noteDrawings/pistol",
                 "Item3": "milky"
             },
             {
-                "Item1": "trinkwasser ist hier wirklich knapp, und ich glaube nicht das dieses teerähnliche zeug sicher ist. einige pflanzen hier enthalten genug wasser um zu saft gepresst zu werden, auch wenn der geschmack nicht besonders angenehm ist. aber besser als durstig zu sein.",
+                "Item1": "trinkwasser ist hier wirklich knapp, und ich glaube nicht das dieses teerähnliche zeug sicher ist. einige pflanzen hier enthalten genug wasser um zu saft gepresst zu werden, auch wenn der geschmack nicht besonders angenehm ist. aber besser als durstig zu sein",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5772,12 +5772,12 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "Ich habe eine kleine Menger dieser eigenartigen, sich verändernden Kerne aus dem letzten Biom in dem ich war mitgebracht. Es scheint, indem man sie zu einer \"Manifestation\" transformieren lässt, bin ich in der Lage diese als unendliche Nahrungs- und Wasserquelle zu nutzen, da ein einzelner Kern sich bei der Manifestierung in zwei verwandelt. Sehr nützlich.",
+                "Item1": "Ich habe eine kleine Menge dieser eigenartigen, sich verändernden Kerne aus dem letzten Biom in dem ich war mitgebracht. Es scheint, indem man sie zu einer \"Manifestation\" transformieren lässt, bin ich in der Lage diese als unendliche Nahrungs- und Wasserquelle zu nutzen, da ein einzelner Kern sich bei der Manifestierung in zwei verwandelt. Sehr nützlich.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "hab eine seltsame unbekannt aussehende Kugel in irgendeiner art drohne gefunden... da stand irgendwas von wegen \"Kryo\" drauf? ich hatte keinen nutzen dafür und hab sie deswegen in ein becken mit diesen geschmolzenen steinen geworfen... und sie hat die steine wieder verfestigt..?",
+                "Item1": "hab eine seltsame unbekannt aussehende kugel in irgendeiner art drohne gefunden... da stand irgendwas von wegen \"kryo\" drauf? ich hatte keinen nutzen dafür und hab sie deswegen in ein becken mit diesen geschmolzenen steinen geworfen... und sie hat die steine wieder verfestigt..?",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5855,7 +5855,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRISCHER BERICHT - 25##-08-04-09-05-25-1057]\n[Projekt: \"Ein Tag im Leben\"]\n----------------------------------------------<>\nSo.\nDas ist jetzt mein \"Journal\". Das ist offenbar ein schriftliches Werk, in dem man sein Leben und seine Erfahrungen beschreibt.\nIch bin mir nicht ganz sicher warum die Kittelträger mich das tun lassen, aber das kann man über die meisten Dinge sagen die sie uns tun lassen.\nTrotzdem, heute hatte ich Glück. Es könnte viel schlimmer sein als eine Schreibübung.\nIch finde dieses Gerät ziemlich faszinierend, und es ist schade, dass ich mich in wenigen Stunden schon davon trennen muss. Aber ich habe eine Aufgabe erhalten, und ich werde sie erfüllen.<>\n\nNormalerweise werden wir entweder voneinander geweckt oder vom ertönen des ersten Essenssignals. Selten wachen wir auf um sofort mit Tests zu beginnen.\nIch bin mir nicht sicher, zu welcher  \"Stunde\" das passiert... Ehrlich gesagt verstehe ich das Konzept kaum. Allerdings höre ich die Kittelträger ständig darüber reden....\n\nJedenfalls, wir wachen auf und kurz darauf ist es Zeit für unsere allererste Mahlzeit des Tages.\nWas sie uns zu essen geben ist mittlerweile etwas abwechslungsreicher, das war vor ein paar Jahren noch nicht so. Hauptsächlich sind es aber immer noch Nährstoffriegel. Die schmecken nach nichts, aber ich kann mich nicht beschweren...\n\n--------------------------------------------------<>\nEs ist jetzt einige Stunden später.\n\nZu dieser Zeit jagen die Kittelträger.\nSie rufen dich anhand deiner Nummer auf, und du musst zu ihnen kommen.\nOder sie kommen zu dir. \nDas willst du nicht.\nManchmal rufen sie mehrere Nummern auf... Das ist meistens aber ein gutes Zeichen.<>\n\nWas sie mit dir machen werden, hängt wirklich vom Zufall ab.\nDie Tests können harmlos sein, sie können schrecklich sein oder sie können vorteilhaft sein.\nEs ist erwähnenswert, dass die Kittelträger lediglich VERSUCHEN Dinge zu tun, und auch wenn sie manchmal versuchen zu helfen, sind diese Versuche in der Regel weit weniger erfolgreich als diejenigen, bei denen sie versuchen einem das Leben schwer zu machen.<>\n\nZwei Nummern werden aufgerufen, und zwei stehen auf, ihre Gesichter besorgt.\nEiner von ihnen ist gesund. Viel wahrscheinlicher das er verletzt wird.\n\nDer andere hat vier Arme.\nEinen links, und drei rechts.\nNa ja, wenn man diese seltsamen Auswüchse überhaupt Arme nennen kann. Die sehen irgendwie eklig aus?\nUrsprünglich wurde er mit zwei geboren. Eines Tages entschieden die Kittelträger, dass das zu viele sein, und entfernten einen.\nAm nächsten Tag, kam er mit ELF Armen zurück.\nDie Gebieter entfernten zehn davon, nur um ihn mit sieben neuen zu beglücken.\nAm nächsten Tag waren es fünf.\nHeute sind es vier.\n\nSie kommen jetzt näher.<>\n\nDer ärmste heißt übrigens Arme. Und ich schwöre, das war sein Name BEVOR diese ganze Tortur losging, und es wird weitgehend vermutet, dass die Gebieter ihn genau deswegen ausgewählt haben.\nVielleicht ist das ihre Vorstellung von einem Witz?\n\n[SEITE 1 VON 2]",
+            "Item1": "[BIOMETRISCHER BERICHT - 25##-08-04-09-05-25-1057]\n[Projekt: \"Ein Tag im Leben\"]\n----------------------------------------------<>\nSo.\nDas ist jetzt mein \"Journal\". Das ist offenbar ein schriftliches Werk, in dem man sein Leben und seine Erfahrungen beschreibt.\nIch bin mir nicht ganz sicher warum die Kittelträger mich das tun lassen, aber das kann man über die meisten Dinge sagen die sie uns tun lassen.\nTrotzdem, heute hatte ich Glück. Es könnte viel schlimmer sein als eine Schreibübung.\nIch finde dieses Gerät ziemlich faszinierend, und es ist schade, dass ich mich in wenigen Stunden schon davon trennen muss. Aber ich habe eine Aufgabe erhalten, und ich werde sie erfüllen.<>\n\nNormalerweise werden wir entweder voneinander geweckt oder vom ertönen des ersten Essenssignals. Selten wachen wir auf um sofort mit Tests zu beginnen.\nIch bin mir nicht sicher, zu welcher \"Stunde\" das passiert... Ehrlich gesagt verstehe ich das Konzept kaum. Allerdings höre ich die Kittelträger ständig darüber reden....\n\nJedenfalls, wir wachen auf und kurz darauf ist es Zeit für unsere allererste Mahlzeit des Tages.\nWas sie uns zu essen geben ist mittlerweile etwas abwechslungsreicher, das war vor ein paar Jahren noch nicht so. Hauptsächlich sind es aber immer noch Nährstoffriegel. Die schmecken nach nichts, aber ich kann mich nicht beschweren...\n\n--------------------------------------------------<>\nEs ist jetzt einige Stunden später.\n\nZu dieser Zeit jagen die Kittelträger.\nSie rufen dich anhand deiner Nummer auf, und du musst zu ihnen kommen.\nOder sie kommen zu dir.\nDas willst du nicht.\nManchmal rufen sie mehrere Nummern auf... Das ist meistens aber ein gutes Zeichen.<>\n\nWas sie mit dir machen werden, hängt wirklich vom Zufall ab.\nDie Tests können harmlos sein, sie können schrecklich sein oder sie können vorteilhaft sein.\nEs ist erwähnenswert, dass die Kittelträger lediglich VERSUCHEN Dinge zu tun, und auch wenn sie manchmal versuchen zu helfen, sind diese Versuche in der Regel weit weniger erfolgreich als diejenigen, bei denen sie versuchen einem das Leben schwer zu machen.<>\n\nZwei Nummern werden aufgerufen, und zwei stehen auf, ihre Gesichter besorgt.\nEiner von ihnen ist gesund. Viel wahrscheinlicher das er verletzt wird.\n\nDer andere hat vier Arme.\nEinen links, und drei rechts.\nNa ja, wenn man diese seltsamen Auswüchse überhaupt Arme nennen kann. Die sehen irgendwie eklig aus?\nUrsprünglich wurde er mit zwei geboren. Eines Tages entschieden die Kittelträger, dass das zu viele sein, und entfernten einen.\nAm nächsten Tag, kam er mit ELF Armen zurück.\nDie Gebieter entfernten zehn davon, nur um ihn mit sieben neuen zu beglücken.\nAm nächsten Tag waren es fünf.\nHeute sind es vier.\n\nSie kommen jetzt näher.<>\n\nDer ärmste heißt übrigens Arme. Und ich schwöre, das war sein Name BEVOR diese ganze Tortur losging, und es wird weitgehend vermutet, dass die Gebieter ihn genau deswegen ausgewählt haben.\nVielleicht ist das ihre Vorstellung von einem Witz?\n\n[SEITE 1 VON 2]",
             "Item2": ""
         },
         {
@@ -5891,9 +5891,9 @@
         "Gestresst?",
         "Wow, du bist noch am leben?",
         "Hey, zurück an die Arbeit!",
-        "Mach eine Verschnaufpause",
+        "Mach eine Verschnaufpause.",
         "Mittagspause??",
-        "Hol dir einen Snack",
+        "Hol dir einen Snack.",
         "Ach, komm schon!",
         "Das hat beim Zuschauen wehgetan.",
         "Hätte besser laufen können.",
@@ -5918,7 +5918,7 @@
         "Wir sind noch nicht fertig. Mach weiter.",
         "Dachte du würdest etwas länger durchhalten.",
         "Und so stoppte es...",
-        "Das wird dein Schicksal nicht ändern",
+        "Das wird dein Schicksal nicht ändern.",
         "Wir sind fertig, wenn ich sage wir sind fertig.",
         "Ich mag es nicht unterbrochen zu werden.",
         "Was jetzt? Was ist dein nächster Schritt?",
