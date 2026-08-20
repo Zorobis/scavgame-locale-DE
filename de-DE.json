@@ -1,7 +1,8 @@
 {
     "name": "Deutsch",
-    "description": "FÜR VERSION v7.0.1\n\nDie inoffizielle von Fans gemachte deutsche Übersetzung. Bei Verbesserungsvorschlägen / Anmerkungen bitte gerne im Discord vorbeischauen und uns eine Nachricht schicken!\n\nIhr findet uns im 'cu-translations' Kanal!\nWir haben dort einen deutschen 'Thread'!",
-    "main": {
+    "description": "FÜR VERSION v7.7.9\n\nDie inoffizielle von Fans gemachte deutsche Übersetzung. Bei Verbesserungsvorschlägen / Anmerkungen bitte gerne im Discord vorbeischauen und uns eine Nachricht schicken!\n\nIhr findet uns im 'cu-translations' Kanal!\nWir haben dort einen deutschen 'Thread'!",
+    "version": "7.7.9",
+	"main": {
         "bandage": "Verband",
         "bandagedsc": "Eine Verbandrolle mit Binde. Dient zur Verlangsamung von Blutungen, Stabilisierung von Brüchen und Unterstützung der Hautheilung. Hat keinen Einfluss auf die Muskelgesundheit.",
         "rippeddressing": "Textilfetzen",
@@ -54,7 +55,7 @@
         "aeddsc": "Ein elektronisches Gerät, welches lebensbedrohliche Herzrhythmus-Arrhythmie diagnostiziert und diese mittels Elektroschocks behandelt. Am Oberkörper anwenden. Verglichen mit einem manuellen Defibrillator erfordert er kein Training, benötigt jedoch mehr Zeit um zu funktionieren und verbraucht mehr Strom.",
         "manualdefibrillator": "Manueller Defibrillator",
         "manualdefibrillatordsc": "Ein elektronisches Gerät zur Stabilisierung gefährlicher Herzrhythmen. Am Oberkörper anwenden. Dieser ist manuell, für die richtige Anwendung ist etwas Know-how erforderlich. Verglichen mit einem AED ist er schneller und verbraucht weniger Strom, aber seine Wirksamkeit ist nicht garantiert. Höherer INT-Wert erleichtert die Bedienung.",
-        "antidepressants": "Antidepressiva",
+        "antidepressants": "Antidepressiva-Flasche",
         "antidepressantsdsc": "Eine 140ml Tablettenflasche mit Antidepressiva. Dosierung beträgt 20ml.",
         "antibiotics": "Antibiotika-Flasche",
         "antibioticsdsc": "Eine 100ml Tablettenflasche mit Antibiotika-Pillen. Dosierung beträgt 20ml.",
@@ -299,7 +300,7 @@
         "mp3player": "MP3-Player",
         "mp3playerdsc": "Überraschenderweise funktioniert er immer noch. Hat einen kleinen Speicher der mit einigen Liedern gefüllt ist. Du kannst sie zum Spaß abspielen.",
         "mushpear": "Taubeere",
-        "mushpeardsc": "Ein Teil eines Hydschilfs der Wasser filtert und verteilt. Besitzt eine seltsame gewichtsabsorbierende Eigenschaft und unangenehmen Geschmack. Verringert bei Verzehr Körpermasse. Scheint Spuren von Opiaten zu enthalten.",
+        "mushpeardsc": "Ein Teil eines Hydschilfs der Wasser filtert und verteilt. Besitzt eine seltsame gewichtsabsorbierende Eigenschaft und unangenehmen Geschmack. Verringert bei Verzehr Körpermasse. Scheint Spuren von Opioid zu enthalten.",
         "mushtail": "Schlafkolben",
         "mushtaildsc": "Das Schweif-Ende eines Hydschilfs. Enthält eine Chemikalie, die jemanden sofort für eine Weile bewusstlos machen kann, mit anschließender sichtbarer Stimmungsverbesserung. Seltsam. Keine Nährwerte.",
         "aquapple": "Aquapfel",
@@ -334,7 +335,9 @@
         "blindfolddsc": "Ein schwarzes Stück Stoff, mit dem du deine Augen bedecken kannst. Bietet geringfügigen Schutz, schließt aber die Augen deines Charakters.",
         "balaclava": "Sturmhaube",
         "balaclavadsc": "Ein dickes, gepolstertes Stück Stoff, das um den Schädel gelegt wird. Bietet leichten Schutz und anständige Isolierung.",
-        "latexgloves": "Latexhandschuhe",
+        "earmuffs": "Ohrenschutz",
+        "earmuffsdsc": "Ein modernes paar Ohrenschützer, verbunden mit einem metallischen Kopfband. Schützt dich vor lauten Geräuschen und gewährt Insulierung...irgendwie. Wird bei <i>extrem</i> lauten Geräuschen nicht viel bringen.",
+		"latexgloves": "Latexhandschuhe",
         "latexglovesdsc": "Ein Paar einfache Latexhandschuhe. Bieten geringfügige Isolierung vor den Elementen.",
 		"tacticalgloves": "Taktische Handschuhe",
         "tacticalglovesdsc": "Ein Paar fortgeschrittene, synthetische Handschuhe. Schützen deine Hände effektiv vor physischen Verletzungen.",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Ein schwarzer, sehr übergroßer Kapuzenpullover, der dich warm hält und eine kleine Tasche hat.",
         "metabolismchip": "Stoffwechsel-Chip",
         "metabolismchipdsc": "Ein Chip, der deinen Stoffwechsel leicht erhöht, sodass sich deine Gliedmaßen viel schneller regenerieren, du dafür aber schneller Hunger bekommst.",
-        "xalorissponge": "Xaloris Schwamm",
-        "xalorisspongedsc": "Der abgerissene, verschrumpelte Sporenbehälter einer Xaloris. Kann auf ein Gliedmaß angewandt werden um einer Infektion entgegenzuwirken, oder als Nahrungsmittel gegessen werden. Die Sporen können dein Immunsystem beeinträchtigen.",
+        "heatfernsponge": "Heizfarnen-Schwamm",
+        "heatfernspongedsc": "Der abgerissene, geschrumpelte Sporenbehälter eines Heizfarn. Kann auf ein Körperteil für Disinfektion verwendet werden, oder für Nährwerte verzehrt werden. Die Sporen könnten dein Immunsystem beeinträchtigen.",
         "jetpack": "Raketenrucksack",
         "jetpackdsc": "Ein Gerät, das als Rucksack getragen wird und den Träger mithilfe von Düsen durch die Luft befördert. Hat begrenzten Treibstoff und funktioniert schlecht bei Nässe. Halte W gedrückt, um ihn zu benutzen. Hat außerdem eine kleine Tasche in der man Dinge verstauen kann.",
         "dynamite": "Dynamit",
@@ -605,8 +608,8 @@
         "snowstriderdsc": "Eine große, flauschige Kreatur die in den kalten Regionen dieses Höhlensystems auf die Jagd geht. Es wird durch sein dickes Fell warm gehalten.",
         "spaceheater": "Ionen-Raumheizung",
         "spaceheaterdsc": "Ein Gerät, das den Bereich um sich herum stark erhitzt. Könnte leichte Strahlenkrankheit hervorrufen, wenn man zu lange zu nah dran steht.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "Ein schwammiger und dorniger Farn, der die Luft um sich herum erwärmt um so Sporen in seiner Umgebung zu verbreiten. Hält die Kälte in Schach, aber wenn man die Sporen zu lange einatmet kann das dein Immunsystem beeinträchtigen.",
+        "heatfern": "Heizfarn",
+        "heatferndsc": "Ein schwammiger und dorniger Fern, der die umliegende Luft erwärmt um seine Sporen zu verbreiten. Hält die Kälte fern, aber die Sporen zu lange einzuatmen könnte dein Immunsystem beeinträchtigen.",
         "lifepodheater": "Rettungskapsel-Heizung",
         "lifepodheaterdsc": "Hält die innere Temperatur schön angenehm.",
         "tutorialcraftingbutton": "Neustart-Taste",
@@ -996,6 +999,7 @@
         "impendingdoom": "Ein gefühl nahender Verdammnis",
         "horrified": "PANIK",
 		"focused": "FOKUSSIERT",
+		"cargo": "<spoiler>",
 
         "braindamage4dsc": "...",
         "braindamage3dsc": "die realität  ..  ergibt   keinen   sinn",
@@ -1040,7 +1044,7 @@
         "withdrawal1dsc": "Du sehnst dich nach einem weiteren Schuss.",
         "withdrawal2dsc": "Dein Körper sehnt sich verzweifelt nach einem weiteren Schuss. Du willst dich übergeben... Das fühlt sich wirklich schlimm an. Behandlung empfohlen.",
         "withdrawal3dsc": "Du kämpfst damit dein zitterndes Selbst zusammenzureißen und suchst verzweifelt nach jeglicher Form der Erleichterung. Fühlt sich schrecklich an. Behandlung nötig.",
-        "withdrawal4dsc": "Dein Körper kann sich ohne die Opiate, von denen er so abhängig geworden ist, nicht mehr selbst erhalten. Dein Herz hat Schwierigkeiten, Blut durch den Körper zu pumpen; Achte auf Kammerflimmern.",
+        "withdrawal4dsc": "Dein Körper kann sich ohne die Opioide, von denen er so abhängig geworden ist, nicht mehr selbst erhalten. Dein Herz hat Schwierigkeiten, Blut durch den Körper zu pumpen; Achte auf Kammerflimmern.",
         "stimulateddsc": "Starke Stimulanzdrogen im Blutkreislauf. Du fühlst dich bereit, jedes Problem zu bewältigen, dass sich dir in den Weg stellt ... Für den Moment zumindest.",
 		"drugoverdosedsc": "Du hast eine Überdosis eines nicht-opioiden Medikaments eingenommen. Gesundheitliche Komplikationen wahrscheinlich.",
         "bleeding1dsc": "Blut tritt aus einer relativ kleinen Wunde aus. Es besteht keine unmittelbare Gefahr.",
@@ -1105,7 +1109,7 @@
         "cold2dsc": "Unangenehm kalt. Dein Körper verlangsamt sich.",
         "cold3dsc": "Gefährlich niedrige Temperatur, Körper und Verstand sind von der Kälte ergriffen. Dein ganzer Körper schaltet langsam ab.",
         "cold4dsc": "Du hast das Gefühl glühend heiß zu sein, bist aber so müde und verwirrt. Du könntest ein langes Nickerchen machen...",
-        "wet1dsc": "Dein Fell fühlt sich leicht feucht an.",
+        "wet1dsc": "Du fühlst dich etwas nass.",
         "wet2dsc": "Erheblich nass. Temperatur und Komfort verringert.",
         "wet3dsc": "Triefend nass. Temperatur und Komfort deutlich verringert.",
         "wet4dsc": "Von oben bis unten nass! Das ganze Wasser verlangsamt dich. Temperatur und Komfort stark verringert.",
@@ -1114,9 +1118,9 @@
         "underweight3dsc": "Du bist gefährlich dünn und gebrechlich. Viel schwächer als sonst, neigt zu Müdigkeit und Lethargie. Geringere Tragfähigkeit.",
         "underweight4dsc": "Du bist übermäßig dünn. Deine Knochen sind durch dein Fell deutlich zu sehen und zu spüren. Hohes Risiko für Herzversagen. Tragfähigkeit stark verringert.",
         "overweight1dsc": "Versuche ein paar Kilo abzunehmen.",
-        "overweight2dsc": "Ungesund übergewichtig, obwohl du im Vergleich zu anderen Spezies eher durchschnittlich aussiehst. Bist ungeschickter und wirst schneller müde.",
+        "overweight2dsc": "Ungesund übergewichtig. Bist ungeschickter und wirst schneller müde.",
         "overweight3dsc": "Gefährlich breit und weich. Viel ungeschickter und anfälliger für Erschöpfung.",
-        "overweight4dsc": "Lebensbedrohlich fettleibig. Es ist, als hätte man einen Sack Fell mit purem Fett und Hunger vollgestopft. Hohes Risiko für Herzversagen.",
+        "overweight4dsc": "Lebensbedrohlich fettleibig. Es ist, als hätte man einen Sack Fleisch mit purem Fett und Hunger vollgestopft. Hohes Risiko für Herzversagen.",
         "depression1dsc": "Du beginnst, den Ernst deiner Situation zu erkennen. Versuche dich abzulenken.",
         "depression2dsc": "Fehlende Motivation weiterzumachen, du kämpfst mit deinen Emotionen. Es sieht wirklich düster aus. Finde einen Weg, dich abzulenken.",
         "depression3dsc": "Kaum bereit, irgendwas zu tun. Dein Verstand ist von Verzweiflung zerfressen. Vielleicht wird das alles ja bald vorbei sein?",
@@ -1168,6 +1172,7 @@
         "impendingdoomdsc": "Du verspürst plötzlich eine unüberwindbare Angst. Du hast Gänsehaut am ganzen Körper. Es ist, als wäre die Natur um dich herum abrupt verstummt...",
         "horrifieddsc": "KEIN FOKUS. KEIN DENKEN. ALLES ANDERE IST EGAL. RENN UM DEIN LEBEN ODER KÄMPFE DAFÜR!",
 		"focuseddsc": "<i>Wir beide sterben heute. Einer... etwas später als der andere.",
+		"cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1324,11 +1329,11 @@
         "naloxone": "Naloxon",
         "fentanyl": "Fentanyl",
         "ceftriaxone": "Ceftriaxon",
-        "morphinedsc": "Starkes Opiat zur Schmerzlinderung. Geringere Wirkung bei oraler Einnahme.",
-        "opiumdsc": "Mildes Opiat zur Schmerzlinderung. Geringere Wirkung bei oraler Einnahme.",
-        "heroindsc": "Sehr starkes Opiat zur Schmerzlinderung. Du weißt nur wenig darüber.",
-        "naloxonedsc": "Opioid-Antagonist zur Behandlung einer Opiatüberdosis. Eine schnelle Behandlung kann bei einer versehentlichen Überdosis dein Leben retten.",
-        "fentanyldsc": "Hochpotentes Opiat, 100 Mal stärker als Morphin. Erwäge es zu verdünnen.",
+        "morphinedsc": "Starkes Opioid zur Schmerzlinderung. Geringere Wirkung bei oraler Einnahme.",
+        "opiumdsc": "Mildes Opioid zur Schmerzlinderung. Geringere Wirkung bei oraler Einnahme.",
+        "heroindsc": "Sehr starkes Opioid zur Schmerzlinderung. Du weißt nur wenig darüber.",
+        "naloxonedsc": "Opioid-Antagonist zur Behandlung einer Opioidüberdosis. Eine schnelle Behandlung kann bei einer versehentlichen Überdosis dein Leben retten.",
+        "fentanyldsc": "Hochpotentes Opioid, 100 Mal stärker als Morphin. Erwäge es zu verdünnen.",
         "ceftriaxonedsc": "Cephalosporin-Antibiotikum der dritten Generation zur Behandlung von Infektionen. Erhöht für einige Zeit die Immunität des Körpers, verursacht aber Schmerzen.",
         "reliefcream": "Linderungscreme",
         "reliefcreamdsc": "Mischung aus Chemikalien und Medikamenten die sofort Schmerzen lindert und Wunden desinfiziert.",
@@ -1343,7 +1348,7 @@
         "lowgradestimulant": "Billig Stimulans",
         "lowgradestimulantdsc": "Unraffinierte stimulierende harte Droge. Zwielichtig. Gibt einen ziemlich guten Kick, aber eine Überdosis und der anschließende Absturz sind extrem kräftezehrend. Dosierung unbekannt. Mit Vorsicht anwenden.",
 		"naltrexone": "Naltrexon",
-        "naltrexonedsc": "Tabletten zur Behandlung allgemeiner Beschwerden wie Übelkeit oder Opiatmissbrauch. Senkt die Zufriedenheit und kann Erbrechen verursachen.",
+        "naltrexonedsc": "Tabletten zur Behandlung allgemeiner Beschwerden wie Übelkeit oder Opioidmissbrauch. Senkt die Zufriedenheit und kann Erbrechen verursachen.",
         "painkillers": "Schmerzmittel",
         "painkillersdsc": "Opioid-Tabletten zur Schmerzbehandlung. Überdosis bei 60ml.",
         "disinfectant": "Antiseptikum",
@@ -1461,7 +1466,8 @@
         "milkytraderdsc": "Eine besonders kleine, flauschige, weiße Kreatur. Hat eine sehr flache Schnautze und zwei Hörner die aus ihrem Kopf ragen. Vermutlich auch teilweise aquatisch, wenn man das paar Flossen auf ihrem Rücken beachtet. Sie scheinen eher intelligent und leicht arrogant zu sein, und tragen warscheinlich auch eine Waffe bei sich um ihren etwas unbeeindrückenden Körperbau auszugleichen. Sie haben keine große Anziehung zu körperlicher Zuneigung, es könnte mehr brauchen, um von ihnen eine Umarmung zu bekommen.",
         "dune": "Dune",
         "dunetraderdsc": "Groß, breit, imposant, mit Muskeln statt Hirn. Sie haben komische Flossen über ihrem ganzen Körper, 6 Stacheln die aus den Seiten ihres Kopfes abstehen und ein erschreckend großen Mund der voll mit großen, scharfen Zähnen gereiht ist. Es sieht aus als hätten sie auch Kiemen rund um ihre Brust. Sie sind zwar nicht direkt aggressiv, doch sie sind zum Großteil nur von Hunger getrieben, und werden warscheinlich kein Interesse an sonstige Sachen die du ihnen gibst haben. Du musst um einen besseren Weg denken, um auf ihre gute Seite zu kommen.",
-        "Shelly": "Shelly",
+        "dunespecialtraderdsc": "Futter.",
+		"Shelly": "Shelly",
         "clicktocontinue": "Klicke um fortzufahren...\nESC zum skip überspringen",
         "favouriteditem": "Favorisierte Gegenstände werden nicht im Crafting verwendet",
         "mainhand": "Haupthand",
@@ -1481,7 +1487,12 @@
         "char0quirks": "[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.\n[BIOLUMINESZENTE_AUGEN] - Im Notfall bist du deine eigene Lichtquelle.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILIE] \"Canidae\"\n[AUFRUF_ZITAT] \"Ich werde gehorchen.\"\n[ERFOLGS_CHANCE] \"0.0103%\"\n[NOTIZ] \"Etwas hochnäsig.\"",
-        "char1quirks": "[NARKOLEPTISCH] - Dein Schlafzyklus ist viel kürzer, aber du verspürst keine Nebeneffekte beim schlafen auf hartem Boden.\n[STATUR] - Du bist winzig!\n[ADAPTIERTE_AUGEN] - Du siehst besser und Lichtquellen reichen weiter.\n[SEMI_PFLANZENFRESSER] - Du erhältst weniger Nährwerte und dir wird schlecht, wenn du Fleisch isst.\n[DÜRR] - Erhaltene STR Erfahrung halbiert.\n[SCHÜTZE] - Du kannst Tastenbelegungen nutzen, um Schusswaffen zu hantieren.\n[EISERNE_FASADE] - Es wird mehr brauchen, um dich psychisch zu zerbrechen. Du bist nicht von der zuneigungsvollen Art, es sei denn du brauchst wirklich jemanden.\n[CANIDAE] - Dein Magen verträgt sich nicht mit Theobromin.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[FAMILIE] \"Insecta\"\n[AUFRUF_ZITAT] \"Hrrnn... Du-ne jetzt gehen..?\"\n[ERFOLGS_CHANCE] \"0.001%\"\n[NOTIZ] \"Bah! Es sabbert!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ZUGRIFF_VERWEIGERT]",
+        "characterunlockdsc": "Beende einen Run mit dem vorheringen Charakter.",
 		"presetnormal": "Normal",
         "presetnormaldsc": "Das Standard Spielerlebnis. Fehler werden hart bestraft. Wissen und Situationsbewusstsein werden sehr belohnt. Zeit ist von entscheidender Bedeutung. Dein Tod ist gewiss garantiert.",
         "presetrelaxed": "Entspannt",
@@ -1493,14 +1504,16 @@
         "presetunchipped": "Ungechipt",
         "presetunchippeddsc": "Durch den fehlenden Chip entfällt zwar die künstliche Zeitbegrenzung an welche der Rest gebunden ist, allerdings wird es dadurch auch ein schweres Unterfangen dich selbst zu diagnostizieren. Vielleicht lohnt es sich am Ende dennoch?",
         "presetendless": "Endlos",
-        "presetendlessdsc": "Es gibt kein Entkommen; dies ist dein Todesurteil. Wie weit wirst du es schaffen, mit ständig zunehmenden Gefahren vor dir?\n\n[NOTIZ: Derzeit nicht verfügbar, da das Spiel momentan ohnehin endlos ist]",
+        "presetendlessdsc": "Es gibt kein Entkommen; dies ist dein Todesurteil. Wie weit wirst du es schaffen, mit ständig zunehmenden Gefahren vor dir?",
         "runsettings": "Spiel-Einstellungen",
         "runsettingsdsc": "Wähle einen Spielstil aus den unten stehenden Voreinstellungen aus. Du kannst diese im Feld für Benutzerdefinierte Einstellungen auf der rechten Seite anpassen.",
         "customsettings": "Benutzerdefinierte Einstellungen",
         "customsettingsdsc": "Konfiguriere spezifische Spieleinstellungen",
         "runsetunchipped": "Ungechipt",
         "runsetunchippeddsc": "Deaktiviert dein Gesundheitsfenster, was dich zwingt dir mehr Mühe beim Ermitteln deiner spezifischen Leiden zu geben. Aktiviert Line-of-Sight.",
-        "runsetbaselootdensity": "Beutemenge",
+        "runsetendless": "Endlos",
+        "runsetendlessdsc": "Falls aktiviert, werden die Ebenen sich ab einem bestimmten Punkt wiederholen, der Run ist endlos bis du stirbst. Du kannst das Spiel auf diese Weise nicht durchspielen.",
+		"runsetbaselootdensity": "Beutemenge",
         "runsetbaselootdensitydsc": "Wie viel Beute in jeder Ebene erscheint. Wirkt sich auf Dinge wie Abwurfkapsel, Rettungskapseln und Kisten aus",
         "runsetlootmultiplier": "Distanz-Beute-Multiplikator",
         "runsetlootmultiplierdsc": "Mit anderen Worten, wenn du den Wert z. B. auf 0.5x einstellst, dann halbiert sich die Menge an Beute jedes Mal wenn du eine Ebene tiefer steigst.",
@@ -1515,7 +1528,9 @@
         "runsetstartingsuppliesnone": "Nichts",
         "runsetstartingsupplieslight": "Taschenlampe",
         "runsetstartingsuppliesfull": "Komplettes Set",
-        "runsetxpgain": "Erfahrungsgewinn",
+        "runsetenemystrength": "Gegner Stärke",
+        "runsetenemystrengthdsc": "Multiplikator für den Schaden, den feindliche Fauna austeilt",
+		"runsetxpgain": "Erfahrungsgewinn",
         "runsetxpgaindsc": "Multiplikator für die Menge an erhaltener Fertigkeitserfahrung",
         "runsetmetabolismrate": "Metabolismusrate",
         "runsetmetabolismratedsc": "Wie schnell sich dein Hunger/Durst/Übelkeit/Gewicht verringert.",
@@ -1537,7 +1552,9 @@
         "runsetstaminaregendsc": "Wie schnell sich deine Ausdauer nach Gebrauch regeneriert",
         "runsetattackdamage": "Angriffsschaden",
         "runsetattackdamagedsc": "Wie viel Schaden du mit deinen Schlägen verursachst",
-        "runsetstrokes": "Schlaganfälle aktivieren",
+        "runsetinsulationmultiplier": "Insulations Multiplikator",
+        "runsetinsulationmultiplierdsc": "Wie sehr du gegen die Umgebungstemperatur geschützt bist",
+		"runsetstrokes": "Schlaganfälle aktivieren",
         "runsetstrokesdsc": "Bestimmt ob du während einer hypertensiven Krise einen Schlaganfall erleiden kannst",
         "runsetbraindamagefx": "Gehirnschäden-Effekte",
         "runsetbraindamagefxdsc": "Bestimmt ob Hirnschäden zu periodischen Anfällen führen",
@@ -1687,8 +1704,8 @@
         "gamesetbark": "Bellen",
         "gamesetconsole": "Debug-Konsole aktivieren",
         "gamesetpause": "Pausieren",
-        "gamesetmarksmanrack": "(Schütze) Schlitten zurückziehen",
-        "gamesetmarksmanunload": "(Schütze) Magazin entfernen",
+        "gamesetmarksmanrack": "(Eigenschaft Schütze erforderlich) Schlitten zurückziehen",
+        "gamesetmarksmanunload": "(Eigenschaft Schütze erforderlich) Magazin entfernen",
 		"copy": "In Zwischenablage kopieren",
         "paste": "Aus der Zwischenablage einfügen",
         "descend": "Hinabsteigen",
@@ -1818,7 +1835,7 @@
         "cqrippable": "reißbar",
         "cqdisinfectant": "antiseptisch",
         "cqblood": "Blut",
-        "cqopiate": "Opiate",
+        "cqopiate": "Opioid",
         "cqdressing": "Verband",
         "cqproduce": "Lebensmittel",
         "cqmeat": "Fleisch",
@@ -1857,9 +1874,11 @@
         "basicscourse": "Grundlagen-Kurs",
         "firstaidcourse": "Erste-Hilfe-Kurs",
         "craftingcourse": "Crafting-Kurs",
+		"movementcourse": "Bewegungskurs",
 		"firstaidcourseunlock": "Erreiche die zweite Ebene zum freischalten",
         "craftingcourseunlock": "Erreiche die dritte Ebene zum freischalten",
-        "tutorialspecieslock": "Kann nur mit der Experiment Spezies betreten werden.",
+        "movementcourseunlock": "Erreiche die dritte Ebene zum freischalten",
+		"tutorialspecieslock": "Kann nur mit der Experiment Spezies betreten werden.",
 		"sandbox": "Sandbox",
         "escapecourse": "ACHTUNG: GERINGFÜGIGER SICHERHEITSVERSTOß",
         "escapecourse1": "Du scheinst zu versuchen auszubrechen. Bitte bleib ruhig während das Sicherheitspersonal zur Unterstützung kommt.",
@@ -1915,7 +1934,7 @@
         "hplimbbleed": "Gliedmaß-Blutung",
 		"hplimbforce": "Gliedmaß-Kraft",
         "hplimbforcedsc": "Die Fähigkeit des Gliedmaßes sich zu bewegen und Kraft auszuüben",
-        "hpopiate": "Opiatmenge",
+        "hpopiate": "Opioidmenge",
         "hpvenom": "Toxinmenge",
 		"settings": "Einstellungen",
 		"credits": "Credits",
@@ -2202,10 +2221,10 @@
         "tutaid66": "Starke Schmerzen gehören zu den beeinträchtigendsten Beschwerden die du haben kannst.",
         "tutaid67": "Sie lähmen dich, verschlechtern schnell die Laune und können dich vor Schock ohnmächtig machen.",
         "tutaid68": "Zu deinem Glück gibt es eine ziemlich simple Methode sie zu behandeln.",
-        "tutaid69": "Opiate reduzieren bei Einnahme schnell Schmerzen im gesamten Körper. Injiziere das ganze Ding und sieh selbst.",
+        "tutaid69": "Opioide reduzieren bei Einnahme schnell Schmerzen im gesamten Körper. Injiziere das ganze Ding und sieh selbst.",
         "tutaid70": "BOO!",
         "tutaid71": "Das ging schnell, oder?",
-        "tutaid72": "Sei vorsichtig mit Opiaten - du kannst leicht davon überdosieren, oder hinterher Entzugserscheinungen bekommen. Naloxon und Naltrexon können bei Opiatmissbrauch helfen.",
+        "tutaid72": "Sei vorsichtig mit Opioiden - du kannst leicht davon überdosieren, oder hinterher Entzugserscheinungen bekommen. Naloxon und Naltrexon können bei Opiatmissbrauch helfen.",
         "tutaid73": "Damit ist der Erste-Hilfe-Kurs beendet. Wir könnten weitere Themen abdecken, aber wir sind überzeugt, dass du andere Beschwerden eigenständig behandeln kannst. Du kannst nun in deinen zugewiesenen Bereich zurückkehren.",
         "tutcraft1": "Willkommen zum Crafting-Kurs. Heute werden wir uns mit den Details zur Herstellung von Gegenständen befassen und einige gängige Arbeitsabläufe kennenlernen.",
         "tutcraft2": "Fast alles was du siehst ist echte Materie und kein Müll.",
@@ -2239,9 +2258,11 @@
         "tutclosehealthpanel": "Schließen das Gesundheitsfenster.",
         "tutopenhealthpanel": "Öffne das Gesundheitsfenster.",
         "tutnice": "Nice.",
-        "surfacebreachnote": "<spoiler>",
+        "outdatedwarning": "<size=200%>Hey!<size=100%>\nDie ausgewählte Übersetzungs-Datei ist veraltet. Einige Texte könnten nicht funktionieren.\nVersuche zu Englisch zu wechseln, oder finde eine neuere Version.",
+		"surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+		"biopodnotealt": "<spoiler>",
 		"startlorenote": "Jahr 2XXX \n<>\nDie Technologie der Menschheit hat sich siginifikant weiterentwickelt. Dinge die zuvor unmöglich erschienen waren nun gang und gäbe.\n<>\nIm Zentrum davon stand ein Unternehmen. Dessen Fortschritte schienen geradezu wundersam, doch sie hüteten ihre Geheimnisse sorgfältig.\n<>\nVor Jahren hatten sie eine neue Spezies erschaffen: eine Kombination aus tierlicher und menschlicher DNA, diese nannten sie schlicht \"Experimente.\"\n<>\nDiese Experimente waren die perfekten Testobjekte, dem Menschen ähnlich genug, aber ganz nach ihrem Belieben zu verwenden. Rastlos arbeiteten sie an ihnen weiter, verzerrten ihre Biologie noch weiter um ihren Bedürfnissen zu entsprechen, und im Laufe der Jahre stieg die Population nur noch weiter an.\n\nKeiner von ihnen würde jemals die Außenwelt zu sehen bekommen.\n<>\nDoch nun schien es so als könne die Erde ihren Ambitionen nicht mehr gerecht werden. Mit ihrer neu entwickelten Teleportationstechnologie richteten sie ihren Blick auf einen grauen Planeten, gefüllt mit Leben.\n<>\nSchon bald wurden Unmengen an Fracht und Müll verschickt.\n<>\nAufgrund von Kalibrierungsproblemen landete zwar genauso viel im Höhlensystem des Planeten wie als auf der Oberfläche, doch das Projekt verlief reibungslos. \n<>\nJedoch, ein unbekannter Fehler führte dazu, dass ein wichtiges Stück Technologie stattdessen tief in die Höhlen gesendet wurde.\n<>\nEs dauerte nicht lange, da hatten die Wissenschaftler einen Plan ausgearbeitet. Einen Plan ohne viel Risiko für sie selbst.\n<>\nDie Chancen auf Erfolg waren gering, aber die Subjekte zum verfeuern reichlich.\n<>\nDu bist eines dieser unglücklichen Exemplare.\nWiderstand ist keine Option."
     },
     "character": [
@@ -4007,7 +4028,22 @@
                 "...Oh. Oh. OH. OH! NEIN. NEIN NEIN NEIN. WARTE. WARUM? WAS HAB ICH GEMACHT!?",
                 "...A-ah... Okay... A-also... D-dann, auf W-wiedersehen..."
 			],
-            "vomitresponse": [
+            "endlessloop0": [
+                "...Www-wa...was..? Was? Warum? Was ist... Warum bin ich wieder..? Hnn... Was ist passiert..."
+            ], 
+            "endlessloop1": [
+                "...Das läuft nicht wie ich es mir erhofft hatte...Ich weiß nicht was ich sonst noch tun kann... Naja. Ugh. Alle guten Dinge sind drei, anscheinend..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ], 
+            "endlessloop3": [
+                "Tja! Ich werde hier niemals rauskommen, oder... Ich glaube ich gewöhne mich langsam dran."
+            ],
+            "endlessloopdefault": [
+                "Oh, round and round we go..."
+            ],  
+			"vomitresponse": [
                 "Ääähmm... Gehts dir gut..?"
             ],
             "vomitbloodresponse": [
@@ -4538,7 +4574,7 @@
                 "Die umliegende Temperatur ist hoch."
             ],
             "hot": [
-                "Ich bin sehr heiß.  ...Nicht auf diese Art...",
+                "Ich bin sehr heiß.",
                 "...Heiß. Sehr. Heiß.",
                 "Ich könnte bald einen Hitzschlag erleiden...",
                 "Ich bin gefährlich hyperthermisch...",
@@ -4598,7 +4634,7 @@
                 "Ich bin schwer."
             ],
             "opiated": [
-                "Ich bin unter dem Einfluss einer Opium-basierten Substanz.",
+                "Ich bin unter dem Einfluss einer Opioid-basierten Substanz.",
                 "Mm...Mmmmmm...Schwummrig.",
                 "Das fühlt sich... Nun. Gut an.",
                 "Ausreichend...",
@@ -4800,7 +4836,22 @@
                 "Oh, oh, wieso, was, WIESO!? HÖRT AUF! ICH HABE DAS NICHT VERDIENT! IHR BEKITTELTEN FLACHWICHSER!",
                 "Hallo, piepsen. Was könnte das bedeuten?"
             ],
-            "tradermeetnormal": [
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Nicht... N-nicht. Das was ich e-erwartet habe. Ich muss etwas falsch gemacht haben. Ich w-werde zurückkehren und es erneut versuchen."
+            ],
+            "endlessloop1": [
+                "Es verläuft gar nichts nach Plan. Verdammt! Was zur Hölle wollen die Kittelträger von mir?! Was eine Verschwendung von Zeit und Energie."
+            ],
+            "endlessloop2": [
+                "...Was ein d-deprimierendes Ergebnis. Diese Mission ist zum Scheitern verurteilt."
+            ],
+            "endlessloop3": [
+                "Das alles ist mir unerklärlich. Eine Übung in Geduld. Frustrierend. So, so drastisch frustrierend. Immer so kurz vorm Ziel."
+            ],
+            "endlessloopdefault": [
+                "......*seufz*"
+            ],
+			"tradermeetnormal": [
                 "Grüße.",
                 "Hallo.",
                 "Ist mir eine Freude dich kennenzulernen.",
@@ -5022,7 +5073,565 @@
             ]
         },
         {
-            "tradermeetnormal": [
+            "seeGravel": [
+                "Hhrnnn... Hi-er...",
+                "Nnhh... G-rau...",
+                "Du-ne... Geht...",
+                "...Warum s-top..?",
+                "Nnnhh... Fut-ter Ort...",
+                "An-ge-kom-men.",
+                "Ka-lt..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Leck-erli!!",
+                "Ngghraahhh! Du-ne ma-g..!",
+                "Hnnn...Hnnnrr...G-ut...",
+                "Fut-ter... Ma-g...",
+                "Schm-eckt... Be-son-ders... Nhhrr...",
+                "Nrr... Ma-g...",
+                "Wi-ll... Me-hr..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Fut-ter...",
+                "Du-ne... Essen... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Essen... Bi-s... Nggrrhh... Vo-ll...",
+                "Fut-ter...",
+                "Leck-er...",
+                "Du-ne... Essen mag... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Fut-ter...",
+                "Nngrr... Me-hr..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Fut-ter... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Nein... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Schl-echt..."
+            ],
+            "tired": [
+                "Sch-lafen... Wi-ll...",
+                "Du-ne... Nick-er-chen...",
+                "Sch...Lafen.",
+                "Heeee... Heeeiiiaaaa..!",
+                "Schlaaaaa-f.... Schla-feeeeeee...",
+                "Mnnhhrr... Ru-nter..."
+            ],
+            "verytired": [
+                "Bra-uch.... Nick-er-chen...",
+                "Müüüüü... De...",
+                "Nnnhhh......Ru-nter...",
+                "Hin... Le-gen...",
+                "Hhhrrnn... S...Schla-aaaf..."
+            ],
+            "confused": [
+                "He-ad...",
+                "Gghhnn... Ghhrrrr...",
+                "Ww.... W-as....",
+                "Nicht... Wi-ssennn....",
+                "Ver-wirrt....",
+                "Nnhhhrrr...",
+                "Nein... Du-ne... Komi-sch..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Wach...",
+                "Hall-lo...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "Le-bendig...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Bau-chi... Böse...",
+                "Futt-er... wehr-t sich...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... W-as...",
+                "Nhgghhrr... Du-ne...... Schlecht....",
+                "Ghhn... Schlecht... Essen..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Füh-hlt schleeecht....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... W-as...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... W-arum...",
+                "Nggh...du-ne...nicht...gu-ut..."
+            ],
+            "full": [
+                "Du-ne vo-ll...",
+                "Es-se viel...!",
+                "Es-sen wart-en...",
+                "Du-ne nicht es-sen mehr...",
+                "Ngghh... Vo-ll...",
+                "Geh-nugg... Gnnh..."
+            ],
+            "hungry": [
+                "Wil-l... Me-hr... Fut-ter...",
+                "Du-ne...hunger...",
+                "Beißen?",
+                "...Nggh... Wil-l...",
+                "Hun...ger...",
+                "*sabber*",
+                "W-wo... Essen..?",
+                "Bei-ßen...",
+                "E-ssen..?",
+                "Du-ne...e-ssen..?"
+            ],
+            "starving": [
+                "*starkes sabbern*",
+                "br-auch... Essen!",
+                "Ngghhhhrrr! Esse-n!!!",
+                "NGHHRRHHH!! W-wo essen!?",
+                "Nhghhrrr! Du-ne verhung-ern!!",
+                "NNGRHH!! FUTT-ER!! DU-NE!!"
+            ],
+            "thirsty": [
+                "S-chlurp..?",
+                "Wa-sser...",
+                "Mmm... T-rinken..?",
+                "Du-ne... Wa-sser...",
+                "Wil-l... Wa-sser..?",
+                "T-rinken..."
+            ],
+            "dehydrated": [
+                "Brauch... Wa-sser..!",
+                "Ngghh... Tr-ocken...",
+                "Wa-sser...jetzt!!",
+                "Gghrhhh... Wa-sser!!",
+                "Du-ne... Tr-ocken..!",
+                "Du-ne... Wa-sser... JETZT!",
+                "Gghhrraaaghh! T-rinken! Jetzt..!"
+            ],
+            "limbmuscle": [
+                "<Limb> bewegen nicht...",
+                "Du-ne <limb> nicht ge-ht..?",
+                "Du-ne brau-ch neue <limb>.",
+                "<limb> geht nicht...nnngrrhh...",
+                "<limb> ist ge-mein..! Gghhrr!",
+                "Du-ne...<limb> aua..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> war-m...",
+                "Krank..?",
+                "Nnnrr...<limb> komi-sch aussehen..?",
+                "Du-ne <limb> aus-schlag..?",
+                "Hhnnn...<limb> komisch an-fühlen..."
+            ],
+            "limbskin": [
+                "<limb> gel-b..?",
+                "Oooouur! <limb> ist sch-lecht!",
+                "Du-ne aua...",
+                "Du-ne <limb> aua...",
+                "Ghhhrr...<limb> nicht gu-t..."
+            ],
+            "sad": [
+                "Traurig.",
+                "Du-ne traurig.",
+                "Kein g-rinsen...",
+                "Du-ne nicht g-rinsen...",
+                "Du-ne fühlt t-traurig.",
+                "Kein frö-hlich...",
+                "Du-ne nicht frö-hlich..."
+            ],
+            "gloomy": [
+                "Fut-ter macht be-sser fühlen...",
+                "Fut-ter macht Du-ne be-sser fühlen",
+                "Se-hr traaauuurig...",
+                "Se-hr traaaauuurig du-ne...",
+                "Grrr..Gedanken böse.",
+                "Grrhhh...Du-ne Gedanken böse...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne nicht g-ut füh-len!",
+                "Nicht gut füh-len!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! W-arum!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! HAAAAAASS!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! HAAAAAASS!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "WÜÜÜÜTEEEND! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... ZER-STÖREN!!!",
+                "NNNGRRAGHHHH! HHAAAASS! ZER-STÖREN!!!",
+                "GGHHRAAHHHGNHH! DU-NE HASS! ZER-STÖREN!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne zer-stören... Fre-und..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*fauchen*",
+                "Nein...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Bl-uten...",
+                "Du-ne...bl-uten...",
+                "Du-ne...ausl-aufen...",
+                "Aus-laufen...Gelb...",
+                "Ge-lb...b-öse...",
+                "Sch-lecht...bl-uten...",
+                "S-chlecht...du-ne aua..!",
+                "Ngghhhrr! Du-ne aua!",
+                "Grrhhhh! Du-ne b-rauch Hilfe!",
+                "Hi-lf!! Du-ne!",
+                "Du-ne br-auch H-ilfe..!",
+                "Nnnrr... Du-ne ge-lb...",
+                "Nrr... B-lut...",
+                "Nrrhh... Du-ne...b-lut!!"
+            ],
+            "bleedingheavy": [
+                "Bl-uten!!",
+                "Du-ne bluten!! Vi-el!!",
+                "Du-ne...auslaufen!! Je-tzt!!",
+                "F-ließen...Gelb! Du-ne hi-lfe!!",
+                "G-elb!! B-öse!!!",
+                "Sch-lecht...bl-uten...",
+                "Sch-lecht...du-ne aua..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "Hi-lf!! Du-ne! J-ETZT!!!",
+                "Du-ne brau-ch Pfl-aster..! H-ILF!!",
+                "NnnrrrhhNGHHH!! DU-NE ZU GE-LB!!",
+                "Nrrgghhh!!! B-lut!!!",
+                "Nrrhhh..! Du-ne b-lut!! Viel!!!"
+            ],
+            "steponglass": [
+                "Du-ne gl-as...",
+                "Dur-chsich-tig D-ing tut Du-ne weh!!",
+                "Du-ne sch-arfes aua!!!"
+            ],
+            "seecorpse": [
+                "Gra-tis Fut-ter?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Gr-atis..?",
+                "Mmmmrr... Fre-und..?",
+                "Hrnn!! Fre-und! Oh....",
+                "Mmm... Leck-er... Ge-funden..?",
+                "Du-ne... Freu-nd gefund-en..?",
+                "Warum fre-und nich be-we-gen..?",
+                "Futter!",
+                "*sabbern*",
+                "Aaarrh! Hal-lo?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Me-hr Fut-ter...",
+                "Hal-lo Fre-und.",
+                "Lei-che.",
+                "Fre-und au-a?",
+                "Me-hr Lei-che.",
+                "Me-hr Futter für Du-ne.",
+                "Hal-lo!!",
+                "Du-ne sieht me-hr Lei-che.",
+                "So vi-el tot sein!",
+                "Viel Fut-ter!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne geht zu Fre-und...",
+                "Du-ne neidisch...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne ka-lt! Brau-ch Wasser...",
+                "Du-ne kü-hl...",
+                "Du-ne mag ka-lt ni-cht.",
+                "Nicht m-ag ka-lt."
+            ],
+            "warm": [
+                "Du-ne wa-rm.",
+                "Du-ne heiß!",
+                "Du-ne m-uss ab-kühle-n.",
+                "Du-ne zu wa-rm...",
+                "Wa-rm.",
+                "Heiß..."
+            ],
+            "hot": [
+                "Du-ne brennt!",
+                "Du-ne zu heiß!!",
+                "Brauch... Kal-t...",
+                "Zu... He-iß...",
+                "Nnhggh... Schw..indellg!"
+            ],
+            "exerted": [
+                "Nnnghh... Er-schöpft...",
+                "Du-ne... Pause...",
+                "*huff*",
+                "Nnnrr.. Arb-eite... Viel!"
+            ],
+            "exhausted": [
+                "Nhhgh... Pau-se..!",
+                "Gghrhrhh... Mü...de!!!",
+                "Ggrhhh...! S-top...",
+                "Ngghhhhrrrrrrhh...",
+                "*hecheln*"
+            ],
+            "freezing": [
+                "Du-ne... So... K-alt...",
+                "Ngghhhrr... So k-alt..!",
+                "Nnhh... N-nnhh... K-alt...",
+                "S...So... K-alt..! Ngr...",
+                "Fr-ieren...",
+                "Du-ne... Fr-ieren...",
+                "Nhhhrrr... Du-ne... Z-u K-alt...",
+                "Ggrrrh..! Z-oo k-alt..."
+            ],
+            "emaciated": [
+                "Du-ne... Z-u dünn...",
+                "Dünn...",
+                "M...uss. Meh-r es-sen...",
+                "Du-ne... Dü-nn!!",
+                "Z-u... Dünn..."
+            ],
+            "obese": [
+                "Du-ne essen se-hr gu-t!",
+                "Nhhrr! Du-ne dick!",
+                "Du-ne... Fett..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......mag..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......mag..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...zi-ttern..",
+                "Nnhrhhggh...b-öse!!",
+                "Du-ne...will me-hr...Ding...",
+                "Nghhrr...! Böse..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *cough*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...au-a...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...au-a...<limb>...",
+                "Gggrhhnn...Du-ne...au-a...",
+                "Gggrhhnn...Du-ne...au-a...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? Fre-und beißt?",
+                "Nggrch! B-öses Di-ng!!",
+                "GGRRGHHH! DU-NE TÖ-TEN!!!!",
+                "GRRACK! LA-SS DU-NE AL-LEIN!",
+                "GGRHR! BE-ISSE AUCH!",
+                "RGHGN! DU-NE RACHE!",
+                "GACK! B-ÖSE!"
+            ],
+            "dirty": [
+                "Du-ne... Dreck-ig..?",
+                "Du-ne brauch b-ad...",
+                "Du-ne fühlt stinkig.",
+                "Fühle Dreck.",
+                "Rie-che stinking.",
+                "Stin-kig.",
+                "Stink. Schlecht!",
+                "Zu stin-kig."
+            ],
+            "encumbered": [
+                "Du-ne stark!!",
+                "Du-ne tragen vi-el.",
+                "Viel tragen.",
+                "Viel Dinge haben.",
+                "Du-ne stark...Dune tragen!",
+                "Du-ne schwer.",
+                "Du-ne sch-wer.",
+                "Scg-wer.",
+                "Schwer...",
+                "Nrrr...trag-gen Beute.",
+                "Nrrr...Du-ne tra-gen viel."
+            ],
+            "watchlike": [
+                "Grrr. Met-all F-reund ko-misch!"
+            ],
+            "drillend": [
+                "Du-ne Angst.",
+                "Gru-selig.",
+                "Lau-tes Ger-äusch...",
+                "Du-ne sch-lau!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! W-AS!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! LA-UT!",
+                "AUGRH! GE-RÄUSCH!!!"
+            ],
+            "murderregret": [
+                "DU-NE GEWINNT!",
+                "DU-NE BESIEGT BÖ-SEN FRE-UND!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STAAAARRK!!!!",
+                "DU-NE JAGT SCHWACHEN FRE-UND!!!",
+                "DU-NE JAG-T FUT-TER!!",
+                "GRRHCHH! SCHWAAACHE BEU-TE!"
+            ],
+            "tradeemeet": [
+                "Du-ne gefunden!!",
+                "Hal-lo!!",
+                "Du-ne grüss-t!!",
+                "Hal-lo?",
+                "Mmmrrrrn...Fre-und?",
+                "Fre-und?",
+                "Oooo! Fre-und!!",
+                "Fut-ter?"
+            ],
+            "swingresponse": [
+              "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Ist da jemand?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-ll...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...ang-st...",
+                "Du-ne...brau-ch...Hilf-e!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! Nein!!!",
+                "Du-ne!!! Hil-f!!",
+                "W...wa-rum...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....sterben...?",
+                "Lich-t....ko-mmt...",
+                "Füh-le...dunk-el...",
+                "ist...Ende..?",
+                "ist.....vorbei...",
+                "nicht...bereit...",
+                "rnhh...du-ne...h-ilf..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne neues Ge-räusch? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......w-ieder?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne mag Heraus-forderung. Du-ne geht noch-mal!"
+            ],
+            "endlessloop2": [
+                "Oo! Nochm-al? Me-hr Platz Fut-ter fin-den!"
+            ],
+            "endlessloop3": [
+                "Du-ne gehört Hö-hle."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne gewinnt!"
+            ],
+			"tradermeetnormal": [
                 "Mmm... Hall-o....",
                 "Will-kommen... Fr-eund...",
                 "F-reund... Hall-o... Hab s-itz...",
