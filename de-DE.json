@@ -5938,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "ich habe eine waffe gefunden. eine schusswaffe. gott... ich bin es nicht gewohnt dieses ding zu bedienen... ich hätte während der trainingseinheiten aufmerksamer sein sollen... ich habe keine ahnung wieso ich überhaupt hierher geschickt worden bin, so unvorbereitet wie ich bin, anstatt ausgesondert zu werden. ich hätte fast versehentlich jemanden erschossen. ich hätte die waffe sichern sollen.... woher soll ich das wissen. die anderen bekommen oft richtige panik wenn sie sehen das du eine waffe in der Hand hältst. also wäre es vielleicht am besten sie irgendwo zu verstauen, damit sie die nicht sehen. die denken du würdest sie erschießen, sie kennen deine absichten nicht. nun, ich würd das gleiche denken, wenn jemand eine waffe auf mich richten würde.",
+                "Item1": "ich hab so eine art... schießgerät gefunden. hab mir damit selbst einen riesen schrecken eingejagt... und zerstörte was auch immer das für eine Falle vor mir war. bin's nicht gewohnt dieses ding zu bedienen.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "ich bin so sauer auf mich selbst, dass ich mich vor den anderen da oben wie ein arschloch verhalten habe... jetzt jagen alle überlebenden die ich finde mich von ihren kapseln weg... mann, wenn du wüsstest wie heftig die geflucht haben.... sie haben versucht mich zu zerkratzen... und ich denk mir nur: \"okay, es tut mir leid. verdammt noch mal, ist dir klar das gerade jedes leben zählt? da ist kein platz dafür einander zu verletzen und zu töten.\". ich wünschte ich hätte mich besser benommen... es ist meine eigene schuld.",
+                "Item1": "jeder verscheucht mich immer aus seiner kapsel. sie erinnern sich an mich... von dort oben. ich hätte mich nicht so verhalten sollen. das hier ist furchtbar.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5983,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Überall wimmelt es von allerlei Tierchen, die ständig umherstreifen. Ich bin eher ein Pazifist, deshalb versuche ich vor ihnen wegzurennen, anstatt gegen sie zu kämpfen, da ich nicht weiß, wer wen zuerst töten wird... Denn die Wunden die sie in mir hinterlassen, tun höllisch weh.... Ich weiß einfach nicht mehr weiter... Wissen unsere Gebieter überhaupt was wir hier unten durchmachen?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Ich bin schlimm gestürzt. WIRKLICH schlimm. Direkt in ein Loch, aus dem ich weder klettern noch graben konnte wegen meiner Verletzungen. Aber ich habe es mit etwas Metallschrott geschafft, und möchte auch andere darauf aufmerksam machen. \n\nEs sind die Höhlenwände! Nichts was ich gefunden habe- selbst Dynamit -scheint in der Lage zu sein, die äußeren Bereiche der Höhle zu durchdringen. Aber sie sind uneben, und wenn man genügend Metallschrott aufeinander stapelt, kann man sie in diese winzigen Lücken klemmen und so einen ganzen Absatz zum Festhalten schaffen. Als ich in diesem dunklen Loch am verbluten war, habe ich aus den gesammelten Trümmern eine Art Treppe gebaut um zu entkommen und Notvorräte zu finden.\n\nIch hoffe jedoch, dass du nie in so eine Situation gerätst. Vielleicht könntest du diesen Trick nutzen um gar nicht erst verletzt zu werden? Wer weiß was noch für andere böse Dinge hier drinnen mit uns sind. \n\nVielleicht holst du mich ein und wir können Strategien austauschen. \nIch hoffe ich werde da sein, um dich zu treffen.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-			{
-                "Item1": "Ich fühle mich einsam... Also habe ich beschlossen, mich abzulenken:\nIch habe eine Art Miniaturfaxgerät gefunden, das ich aufbrechen konnte, und habe die Papierblätter herausgezogen. Dann nahm ich einen Stock und spießte eine der leuchtenden Früchte darauf auf. Das Ergebnis gleicht einem Pinsel und einer Leinwand! Wenn du nur wüsstest... Ich habe angefangen, alternative Realitäten zu zeichnen, in denen wir frei sind und friedlich zusammenleben; ohne diese Wissenschaftler-Mistkerle... Ich war so glücklich, und habe ein bisschen geweint.\nAber jetzt muss ich gehen: hab Hunger! Vielleicht, wenn wir uns treffen, male ich dich auch...? Ich bin wirklich gut darin geworden, den \"Pinsel\" zu benutzen. ch werde versuchen, den anderen auch das Zeichnen beizubringen...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6129,7 +6119,7 @@
 				"Item3": "experiment"
 			},
 			{
-                "Item1": "ich kann nicht mehr. warum.\nalle sind tot\nich kann nicht.\nich will das es aufhört\nich kann nicht\nich will freiheit\nwarum\nkann ich nicht. ich will nichts mehr hiervon sehen. ich habe zu viele schlimme dinge gesehen. mir ist so übel.\nmein bein ist im arsch. gesprengt von einer mine\nmeine hand, die rechte, bringt mich langsam um\nich möchte allem ein ende setzen.\nalles ist pures elend\nich kann einfach nicht mehr\nin ein paar minuten werd ich meine pulsader rausreißen und zu einer weiteren leiche werden die du dir dann anschauen kannst - vorausgesetzt ich wurde noch von nichts aufgefressen bevor du hier ankommst.\n\ndanke für alles. auf wiedersehen",
+                "Item1": "es ist vorbei. auf wiedersehen. sorry.",
                 "Item2": "",
                 "Item3": "experiment"
             },
